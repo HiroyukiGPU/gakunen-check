@@ -13,6 +13,7 @@ import {
 } from "../lib/adaptive/engine";
 import { selectNextQuestion } from "../lib/adaptive/selector";
 import { checkAnswer, isAnswerEmpty } from "../lib/quiz/answerChecker";
+import { applyTrueFalsePolarity } from "../lib/quiz/negation";
 import { loadQuestions } from "../lib/questions/loader";
 import type { Question, UserAnswerValue } from "../lib/questions/types";
 import {
@@ -81,7 +82,7 @@ export function QuizPage() {
         return;
       }
       setAdaptiveState(state);
-      setCurrentQuestion(next);
+      setCurrentQuestion(applyTrueFalsePolarity(next));
       persist(state, next.id);
       return;
     }
@@ -94,7 +95,7 @@ export function QuizPage() {
       return;
     }
     setAdaptiveState(initial);
-    setCurrentQuestion(first);
+    setCurrentQuestion(applyTrueFalsePolarity(first));
     persist(initial, first.id);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
@@ -125,7 +126,7 @@ export function QuizPage() {
       return;
     }
 
-    setCurrentQuestion(next);
+    setCurrentQuestion(applyTrueFalsePolarity(next));
     setDraftAnswer(undefined);
     setPhase("answering");
     persist(adaptiveState, next.id);

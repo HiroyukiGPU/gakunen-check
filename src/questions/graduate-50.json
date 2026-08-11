@@ -1,0 +1,885 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "graduate-001",
+      "level": "graduate",
+      "subject": "statistics",
+      "category": "confidence-intervals",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "標本サイズn=100、標本標準偏差s=10のとき、正規近似による95%信頼区間の誤差幅を求めなさい。z=1.96を使います。",
+      "answer": 1.96,
+      "explanation": "誤差幅はz×s/√nです。ここではs=√nなので、1.96×1=1.96です。",
+      "tags": [
+        "推測統計",
+        "信頼区間"
+      ]
+    },
+    {
+      "id": "graduate-002",
+      "level": "graduate",
+      "subject": "statistics",
+      "category": "confidence-intervals",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "標本サイズn=64、標本標準偏差s=8のとき、正規近似による95%信頼区間の誤差幅を求めなさい。z=1.96を使います。",
+      "answer": 1.96,
+      "explanation": "誤差幅はz×s/√nです。ここではs=√nなので、1.96×1=1.96です。",
+      "tags": [
+        "推測統計",
+        "信頼区間"
+      ]
+    },
+    {
+      "id": "graduate-003",
+      "level": "graduate",
+      "subject": "statistics",
+      "category": "confidence-intervals",
+      "difficulty": 5,
+      "type": "numeric",
+      "question": "標本サイズn=144、標本標準偏差s=12のとき、正規近似による95%信頼区間の誤差幅を求めなさい。z=1.96を使います。",
+      "answer": 1.96,
+      "explanation": "誤差幅はz×s/√nです。ここではs=√nなので、1.96×1=1.96です。",
+      "tags": [
+        "推測統計",
+        "信頼区間"
+      ]
+    },
+    {
+      "id": "graduate-004",
+      "level": "graduate",
+      "subject": "statistics",
+      "category": "confidence-intervals",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "標本サイズn=225、標本標準偏差s=15のとき、正規近似による95%信頼区間の誤差幅を求めなさい。z=1.96を使います。",
+      "answer": 1.96,
+      "explanation": "誤差幅はz×s/√nです。ここではs=√nなので、1.96×1=1.96です。",
+      "tags": [
+        "推測統計",
+        "信頼区間"
+      ]
+    },
+    {
+      "id": "graduate-005",
+      "level": "graduate",
+      "subject": "statistics",
+      "category": "confidence-intervals",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "標本サイズn=400、標本標準偏差s=20のとき、正規近似による95%信頼区間の誤差幅を求めなさい。z=1.96を使います。",
+      "answer": 1.96,
+      "explanation": "誤差幅はz×s/√nです。ここではs=√nなので、1.96×1=1.96です。",
+      "tags": [
+        "推測統計",
+        "信頼区間"
+      ]
+    },
+    {
+      "id": "graduate-006",
+      "level": "graduate",
+      "subject": "statistics",
+      "category": "confidence-intervals",
+      "difficulty": 5,
+      "type": "numeric",
+      "question": "標本サイズn=81、標本標準偏差s=9のとき、正規近似による95%信頼区間の誤差幅を求めなさい。z=1.96を使います。",
+      "answer": 1.96,
+      "explanation": "誤差幅はz×s/√nです。ここではs=√nなので、1.96×1=1.96です。",
+      "tags": [
+        "推測統計",
+        "信頼区間"
+      ]
+    },
+    {
+      "id": "graduate-007",
+      "level": "graduate",
+      "subject": "statistics",
+      "category": "confidence-intervals",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "標本サイズn=121、標本標準偏差s=11のとき、正規近似による95%信頼区間の誤差幅を求めなさい。z=1.96を使います。",
+      "answer": 1.96,
+      "explanation": "誤差幅はz×s/√nです。ここではs=√nなので、1.96×1=1.96です。",
+      "tags": [
+        "推測統計",
+        "信頼区間"
+      ]
+    },
+    {
+      "id": "graduate-008",
+      "level": "graduate",
+      "subject": "statistics",
+      "category": "confidence-intervals",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "標本サイズn=169、標本標準偏差s=13のとき、正規近似による95%信頼区間の誤差幅を求めなさい。z=1.96を使います。",
+      "answer": 1.96,
+      "explanation": "誤差幅はz×s/√nです。ここではs=√nなので、1.96×1=1.96です。",
+      "tags": [
+        "推測統計",
+        "信頼区間"
+      ]
+    },
+    {
+      "id": "graduate-009",
+      "level": "graduate",
+      "subject": "statistics",
+      "category": "confidence-intervals",
+      "difficulty": 5,
+      "type": "numeric",
+      "question": "標本サイズn=256、標本標準偏差s=16のとき、正規近似による95%信頼区間の誤差幅を求めなさい。z=1.96を使います。",
+      "answer": 1.96,
+      "explanation": "誤差幅はz×s/√nです。ここではs=√nなので、1.96×1=1.96です。",
+      "tags": [
+        "推測統計",
+        "信頼区間"
+      ]
+    },
+    {
+      "id": "graduate-010",
+      "level": "graduate",
+      "subject": "statistics",
+      "category": "confidence-intervals",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "標本サイズn=324、標本標準偏差s=18のとき、正規近似による95%信頼区間の誤差幅を求めなさい。z=1.96を使います。",
+      "answer": 1.96,
+      "explanation": "誤差幅はz×s/√nです。ここではs=√nなので、1.96×1=1.96です。",
+      "tags": [
+        "推測統計",
+        "信頼区間"
+      ]
+    },
+    {
+      "id": "graduate-011",
+      "level": "graduate",
+      "subject": "machine-learning",
+      "category": "evaluation",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "二値分類でTP=90, FP=10, FN=20, TN=80です。適合率を小数第4位まで求めなさい。",
+      "answer": 0.8182,
+      "explanation": "適合率=TP/(TP+FP)=90/110≈0.8182です。",
+      "tags": [
+        "機械学習",
+        "評価指標",
+        "適合率"
+      ]
+    },
+    {
+      "id": "graduate-012",
+      "level": "graduate",
+      "subject": "machine-learning",
+      "category": "evaluation",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "二値分類でTP=80, FP=20, FN=10, TN=90です。再現率を小数第4位まで求めなさい。",
+      "answer": 0.8889,
+      "explanation": "再現率=TP/(TP+FN)=80/90≈0.8889です。",
+      "tags": [
+        "機械学習",
+        "評価指標",
+        "再現率"
+      ]
+    },
+    {
+      "id": "graduate-013",
+      "level": "graduate",
+      "subject": "machine-learning",
+      "category": "evaluation",
+      "difficulty": 5,
+      "type": "numeric",
+      "question": "二値分類でTP=70, FP=30, FN=30, TN=70です。正解率を小数第4位まで求めなさい。",
+      "answer": 0.7,
+      "explanation": "正解率=(TP+TN)/全体=140/200=0.7です。",
+      "tags": [
+        "機械学習",
+        "評価指標",
+        "正解率"
+      ]
+    },
+    {
+      "id": "graduate-014",
+      "level": "graduate",
+      "subject": "machine-learning",
+      "category": "evaluation",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "二値分類でTP=60, FP=40, FN=20, TN=80です。適合率を小数第4位まで求めなさい。",
+      "answer": 0.6,
+      "explanation": "適合率=60/(60+40)=0.6です。",
+      "tags": [
+        "機械学習",
+        "評価指標",
+        "適合率"
+      ]
+    },
+    {
+      "id": "graduate-015",
+      "level": "graduate",
+      "subject": "machine-learning",
+      "category": "evaluation",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "二値分類でTP=50, FP=10, FN=50, TN=90です。再現率を小数第4位まで求めなさい。",
+      "answer": 0.5,
+      "explanation": "再現率=50/(50+50)=0.5です。",
+      "tags": [
+        "機械学習",
+        "評価指標",
+        "再現率"
+      ]
+    },
+    {
+      "id": "graduate-016",
+      "level": "graduate",
+      "subject": "machine-learning",
+      "category": "evaluation",
+      "difficulty": 5,
+      "type": "numeric",
+      "question": "二値分類でTP=95, FP=5, FN=5, TN=95です。正解率を小数第4位まで求めなさい。",
+      "answer": 0.95,
+      "explanation": "正解率=(95+95)/200=0.95です。",
+      "tags": [
+        "機械学習",
+        "評価指標",
+        "正解率"
+      ]
+    },
+    {
+      "id": "graduate-017",
+      "level": "graduate",
+      "subject": "machine-learning",
+      "category": "evaluation",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "二値分類でTP=40, FP=20, FN=10, TN=130です。適合率を小数第4位まで求めなさい。",
+      "answer": 0.6667,
+      "explanation": "適合率=40/(40+20)≈0.6667です。",
+      "tags": [
+        "機械学習",
+        "評価指標",
+        "適合率"
+      ]
+    },
+    {
+      "id": "graduate-018",
+      "level": "graduate",
+      "subject": "machine-learning",
+      "category": "evaluation",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "二値分類でTP=30, FP=10, FN=20, TN=140です。再現率を小数第4位まで求めなさい。",
+      "answer": 0.6,
+      "explanation": "再現率=30/(30+20)=0.6です。",
+      "tags": [
+        "機械学習",
+        "評価指標",
+        "再現率"
+      ]
+    },
+    {
+      "id": "graduate-019",
+      "level": "graduate",
+      "subject": "machine-learning",
+      "category": "evaluation",
+      "difficulty": 5,
+      "type": "numeric",
+      "question": "二値分類でTP=75, FP=25, FN=15, TN=85です。正解率を小数第4位まで求めなさい。",
+      "answer": 0.8,
+      "explanation": "正解率=(75+85)/200=0.8です。",
+      "tags": [
+        "機械学習",
+        "評価指標",
+        "正解率"
+      ]
+    },
+    {
+      "id": "graduate-020",
+      "level": "graduate",
+      "subject": "machine-learning",
+      "category": "evaluation",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "二値分類でTP=45, FP=15, FN=5, TN=135です。適合率を小数第4位まで求めなさい。",
+      "answer": 0.75,
+      "explanation": "適合率=45/(45+15)=0.75です。",
+      "tags": [
+        "機械学習",
+        "評価指標",
+        "適合率"
+      ]
+    },
+    {
+      "id": "graduate-021",
+      "level": "graduate",
+      "subject": "optimization",
+      "category": "gradients",
+      "difficulty": 2,
+      "type": "text",
+      "question": "f(x,y)=x²+y²について、点(2,4)での勾配を「(a,b)」の形で答えなさい。",
+      "answer": "(4,8)",
+      "explanation": "∇f=(2x,2y)なので、点(2,4)では(4,8)です。",
+      "tags": [
+        "最適化",
+        "勾配"
+      ]
+    },
+    {
+      "id": "graduate-022",
+      "level": "graduate",
+      "subject": "optimization",
+      "category": "gradients",
+      "difficulty": 3,
+      "type": "text",
+      "question": "f(x,y)=x²+y²について、点(3,-2)での勾配を「(a,b)」の形で答えなさい。",
+      "answer": "(6,-4)",
+      "explanation": "∇f=(2x,2y)なので、点(3,-2)では(6,-4)です。",
+      "tags": [
+        "最適化",
+        "勾配"
+      ]
+    },
+    {
+      "id": "graduate-023",
+      "level": "graduate",
+      "subject": "optimization",
+      "category": "gradients",
+      "difficulty": 4,
+      "type": "text",
+      "question": "f(x,y)=x²+y²について、点(-1,5)での勾配を「(a,b)」の形で答えなさい。",
+      "answer": "(-2,10)",
+      "explanation": "∇f=(2x,2y)なので、点(-1,5)では(-2,10)です。",
+      "tags": [
+        "最適化",
+        "勾配"
+      ]
+    },
+    {
+      "id": "graduate-024",
+      "level": "graduate",
+      "subject": "optimization",
+      "category": "gradients",
+      "difficulty": 5,
+      "type": "text",
+      "question": "f(x,y)=x²+y²について、点(4,3)での勾配を「(a,b)」の形で答えなさい。",
+      "answer": "(8,6)",
+      "explanation": "∇f=(2x,2y)なので、点(4,3)では(8,6)です。",
+      "tags": [
+        "最適化",
+        "勾配"
+      ]
+    },
+    {
+      "id": "graduate-025",
+      "level": "graduate",
+      "subject": "optimization",
+      "category": "gradients",
+      "difficulty": 2,
+      "type": "text",
+      "question": "f(x,y)=x²+y²について、点(0,7)での勾配を「(a,b)」の形で答えなさい。",
+      "answer": "(0,14)",
+      "explanation": "∇f=(2x,2y)なので、点(0,7)では(0,14)です。",
+      "tags": [
+        "最適化",
+        "勾配"
+      ]
+    },
+    {
+      "id": "graduate-026",
+      "level": "graduate",
+      "subject": "optimization",
+      "category": "gradients",
+      "difficulty": 3,
+      "type": "text",
+      "question": "f(x,y)=x²+y²について、点(6,-1)での勾配を「(a,b)」の形で答えなさい。",
+      "answer": "(12,-2)",
+      "explanation": "∇f=(2x,2y)なので、点(6,-1)では(12,-2)です。",
+      "tags": [
+        "最適化",
+        "勾配"
+      ]
+    },
+    {
+      "id": "graduate-027",
+      "level": "graduate",
+      "subject": "optimization",
+      "category": "gradients",
+      "difficulty": 4,
+      "type": "text",
+      "question": "f(x,y)=x²+y²について、点(-3,-4)での勾配を「(a,b)」の形で答えなさい。",
+      "answer": "(-6,-8)",
+      "explanation": "∇f=(2x,2y)なので、点(-3,-4)では(-6,-8)です。",
+      "tags": [
+        "最適化",
+        "勾配"
+      ]
+    },
+    {
+      "id": "graduate-028",
+      "level": "graduate",
+      "subject": "optimization",
+      "category": "gradients",
+      "difficulty": 5,
+      "type": "text",
+      "question": "f(x,y)=x²+y²について、点(5,2)での勾配を「(a,b)」の形で答えなさい。",
+      "answer": "(10,4)",
+      "explanation": "∇f=(2x,2y)なので、点(5,2)では(10,4)です。",
+      "tags": [
+        "最適化",
+        "勾配"
+      ]
+    },
+    {
+      "id": "graduate-029",
+      "level": "graduate",
+      "subject": "optimization",
+      "category": "gradients",
+      "difficulty": 2,
+      "type": "text",
+      "question": "f(x,y)=x²+y²について、点(1,-6)での勾配を「(a,b)」の形で答えなさい。",
+      "answer": "(2,-12)",
+      "explanation": "∇f=(2x,2y)なので、点(1,-6)では(2,-12)です。",
+      "tags": [
+        "最適化",
+        "勾配"
+      ]
+    },
+    {
+      "id": "graduate-030",
+      "level": "graduate",
+      "subject": "optimization",
+      "category": "gradients",
+      "difficulty": 3,
+      "type": "text",
+      "question": "f(x,y)=x²+y²について、点(-5,3)での勾配を「(a,b)」の形で答えなさい。",
+      "answer": "(-10,6)",
+      "explanation": "∇f=(2x,2y)なので、点(-5,3)では(-10,6)です。",
+      "tags": [
+        "最適化",
+        "勾配"
+      ]
+    },
+    {
+      "id": "graduate-031",
+      "level": "graduate",
+      "subject": "causal-inference",
+      "category": "identification",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "交絡因子の定義として最も適切なものは？",
+      "choices": [
+        "結果だけの同義語",
+        "処置と結果の両方に影響する変数",
+        "測定不能な結果",
+        "無作為誤差そのもの"
+      ],
+      "answer": "処置と結果の両方に影響する変数",
+      "explanation": "交絡因子は処置割当と結果の双方に関連し、因果効果の推定を歪めます。",
+      "tags": [
+        "因果推論",
+        "交絡"
+      ]
+    },
+    {
+      "id": "graduate-032",
+      "level": "graduate",
+      "subject": "causal-inference",
+      "category": "randomization",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "無作為割付の主な目的は？",
+      "choices": [
+        "標本数を必ず減らす",
+        "処置群間で交絡因子を確率的に均衡させる",
+        "測定誤差を完全になくす",
+        "外的妥当性を保証する"
+      ],
+      "answer": "処置群間で交絡因子を確率的に均衡させる",
+      "explanation": "無作為割付は既知・未知の交絡因子を群間で平均的に均衡させます。",
+      "tags": [
+        "因果推論",
+        "RCT"
+      ]
+    },
+    {
+      "id": "graduate-033",
+      "level": "graduate",
+      "subject": "research-methods",
+      "category": "preregistration",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "事前登録の主な利点は？",
+      "choices": [
+        "結果を必ず有意にする",
+        "探索的分析と検証的分析を区別しやすくする",
+        "査読を不要にする",
+        "データ共有を禁止する"
+      ],
+      "answer": "探索的分析と検証的分析を区別しやすくする",
+      "explanation": "仮説と分析計画を観測前に記録することで、分析の透明性が高まります。",
+      "tags": [
+        "研究方法",
+        "事前登録"
+      ]
+    },
+    {
+      "id": "graduate-034",
+      "level": "graduate",
+      "subject": "research-methods",
+      "category": "power",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "検定力とは何ですか？",
+      "choices": [
+        "帰無仮説が真の確率",
+        "対立仮説が真のとき帰無仮説を棄却する確率",
+        "p値が1になる確率",
+        "標本が無作為な確率"
+      ],
+      "answer": "対立仮説が真のとき帰無仮説を棄却する確率",
+      "explanation": "検定力は1-第二種過誤確率βです。",
+      "tags": [
+        "統計学",
+        "検定力"
+      ]
+    },
+    {
+      "id": "graduate-035",
+      "level": "graduate",
+      "subject": "research-ethics",
+      "category": "informed-consent",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "インフォームド・コンセントに不可欠な要素は？",
+      "choices": [
+        "研究者の同意だけ",
+        "十分な説明、理解、自発的同意",
+        "報酬の支払いだけ",
+        "結果の公表だけ"
+      ],
+      "answer": "十分な説明、理解、自発的同意",
+      "explanation": "参加者が情報を理解し、強制なく同意することが必要です。",
+      "tags": [
+        "研究倫理",
+        "同意"
+      ]
+    },
+    {
+      "id": "graduate-036",
+      "level": "graduate",
+      "subject": "research-ethics",
+      "category": "authorship",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "名誉著者が問題となる理由は？",
+      "choices": [
+        "著者が多いから",
+        "実質的貢献のない者に著者資格を与えるため",
+        "論文が短いから",
+        "査読が匿名だから"
+      ],
+      "answer": "実質的貢献のない者に著者資格を与えるため",
+      "explanation": "著者表示は貢献と説明責任を反映すべきです。",
+      "tags": [
+        "研究倫理",
+        "著者資格"
+      ]
+    },
+    {
+      "id": "graduate-037",
+      "level": "graduate",
+      "subject": "academic-writing",
+      "category": "claims",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "学術的主張を限定するhedgingの目的は？",
+      "choices": [
+        "文章を曖昧にして責任を避ける",
+        "証拠の範囲に合わせて確実性を調整する",
+        "引用を不要にする",
+        "結論を長くする"
+      ],
+      "answer": "証拠の範囲に合わせて確実性を調整する",
+      "explanation": "mayやsuggestなどは、証拠以上に断定しないために使われます。",
+      "tags": [
+        "論文執筆",
+        "hedging"
+      ]
+    },
+    {
+      "id": "graduate-038",
+      "level": "graduate",
+      "subject": "academic-writing",
+      "category": "literature-review",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "文献レビューの主要な役割は？",
+      "choices": [
+        "文献を年代順に並べるだけ",
+        "既存知見を統合し研究上の空白を示す",
+        "自説だけを述べる",
+        "方法を省略する"
+      ],
+      "answer": "既存知見を統合し研究上の空白を示す",
+      "explanation": "文献レビューは知見の関係を批判的に統合し、研究の位置づけを示します。",
+      "tags": [
+        "論文執筆",
+        "文献レビュー"
+      ]
+    },
+    {
+      "id": "graduate-039",
+      "level": "graduate",
+      "subject": "open-science",
+      "category": "reproducibility",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "計算再現性を高める実践は？",
+      "choices": [
+        "結果だけを共有する",
+        "コード、環境、データ処理手順を共有する",
+        "乱数シードを毎回隠す",
+        "ソフトウェア名を書かない"
+      ],
+      "answer": "コード、環境、データ処理手順を共有する",
+      "explanation": "同じ入力から同じ結果を再生成できる情報の共有が重要です。",
+      "tags": [
+        "オープンサイエンス",
+        "再現性"
+      ]
+    },
+    {
+      "id": "graduate-040",
+      "level": "graduate",
+      "subject": "peer-review",
+      "category": "evaluation",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "査読で最も重視すべき観点は？",
+      "choices": [
+        "著者の知名度",
+        "主張が方法と証拠によって支持されているか",
+        "結論が査読者の好みと同じか",
+        "引用数が多いか"
+      ],
+      "answer": "主張が方法と証拠によって支持されているか",
+      "explanation": "査読は研究の妥当性、透明性、証拠と主張の対応を評価します。",
+      "tags": [
+        "査読",
+        "研究評価"
+      ]
+    },
+    {
+      "id": "graduate-041",
+      "level": "graduate",
+      "subject": "distributed-systems",
+      "category": "consensus",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "CAP定理でネットワーク分断が発生した際、分散システムが同時に保証できない組合せは？",
+      "choices": [
+        "耐久性と原子性",
+        "一貫性と可用性",
+        "認証と認可",
+        "遅延と帯域"
+      ],
+      "answer": "一貫性と可用性",
+      "explanation": "分断耐性が必要な状況では、一貫性と可用性の双方を完全には保証できません。",
+      "tags": [
+        "分散システム",
+        "CAP定理"
+      ]
+    },
+    {
+      "id": "graduate-042",
+      "level": "graduate",
+      "subject": "machine-learning",
+      "category": "regularization",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "L1正則化が疎な解を生みやすい理由は？",
+      "choices": [
+        "損失を二乗するから",
+        "絶対値の非微分点が係数を0にしやすい",
+        "特徴量を増やすから",
+        "学習率を0にするから"
+      ],
+      "answer": "絶対値の非微分点が係数を0にしやすい",
+      "explanation": "L1ノルムの幾何と0での角により、最適解が座標軸上に乗りやすくなります。",
+      "tags": [
+        "機械学習",
+        "正則化"
+      ]
+    },
+    {
+      "id": "graduate-043",
+      "level": "graduate",
+      "subject": "statistics",
+      "category": "multiple-testing",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "多重検定で補正を行う主な理由は？",
+      "choices": [
+        "検定力を必ず1にする",
+        "検定数の増加による偽陽性率の上昇を抑える",
+        "標本平均を0にする",
+        "効果量を増やす"
+      ],
+      "answer": "検定数の増加による偽陽性率の上昇を抑える",
+      "explanation": "多数の仮説を個別の有意水準で検定すると、少なくとも一つの偽陽性が出る確率が高まります。",
+      "tags": [
+        "統計学",
+        "多重比較"
+      ]
+    },
+    {
+      "id": "graduate-044",
+      "level": "graduate",
+      "subject": "bayesian-statistics",
+      "category": "posterior",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "ベイズの定理で事後分布に比例するものは？",
+      "choices": [
+        "尤度÷事前分布",
+        "尤度×事前分布",
+        "p値×標本数",
+        "分散÷平均"
+      ],
+      "answer": "尤度×事前分布",
+      "explanation": "事後分布は尤度と事前分布の積を周辺尤度で正規化したものです。",
+      "tags": [
+        "ベイズ統計",
+        "事後分布"
+      ]
+    },
+    {
+      "id": "graduate-045",
+      "level": "graduate",
+      "subject": "qualitative-research",
+      "category": "saturation",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "質的研究における理論的飽和とは？",
+      "choices": [
+        "参加者が疲れた状態",
+        "追加データから新しい概念がほぼ得られない状態",
+        "統計的有意差が出た状態",
+        "標本数が100を超えた状態"
+      ],
+      "answer": "追加データから新しい概念がほぼ得られない状態",
+      "explanation": "理論的飽和は、新たなデータ収集が概念やカテゴリーの発展に寄与しなくなる目安です。",
+      "tags": [
+        "質的研究",
+        "理論的飽和"
+      ]
+    },
+    {
+      "id": "graduate-046",
+      "level": "graduate",
+      "subject": "optimization",
+      "category": "convexity",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "凸関数の局所最小点について正しい記述は？",
+      "choices": [
+        "必ず最大点でもある",
+        "すべて大域最小点でもある",
+        "必ず一つだけ存在する",
+        "勾配が定義されない"
+      ],
+      "answer": "すべて大域最小点でもある",
+      "explanation": "凸性により、局所的な最小値は大域的にも最小です。",
+      "tags": [
+        "最適化",
+        "凸解析"
+      ]
+    },
+    {
+      "id": "graduate-047",
+      "level": "graduate",
+      "subject": "causal-inference",
+      "category": "difference-in-differences",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "差の差法の中心的な識別仮定は？",
+      "choices": [
+        "両群の標本数が同じ",
+        "処置がなければ両群の結果が平行に推移する",
+        "結果が正規分布する",
+        "処置効果が0"
+      ],
+      "answer": "処置がなければ両群の結果が平行に推移する",
+      "explanation": "平行トレンド仮定により、対照群の変化を処置群の反実仮想として用います。",
+      "tags": [
+        "因果推論",
+        "差の差法"
+      ]
+    },
+    {
+      "id": "graduate-048",
+      "level": "graduate",
+      "subject": "research-design",
+      "category": "external-validity",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "外的妥当性が問うものは？",
+      "choices": [
+        "因果推論に交絡がないか",
+        "結果を他の集団・状況へ一般化できるか",
+        "測定値が一致するか",
+        "p値が小さいか"
+      ],
+      "answer": "結果を他の集団・状況へ一般化できるか",
+      "explanation": "外的妥当性は知見の一般化可能性や移送可能性に関わります。",
+      "tags": [
+        "研究デザイン",
+        "外的妥当性"
+      ]
+    },
+    {
+      "id": "graduate-049",
+      "level": "graduate",
+      "subject": "information-theory",
+      "category": "entropy",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "確率1/2ずつの二値変数のシャノンエントロピーは何bitですか？",
+      "choices": [
+        0,
+        0.5,
+        1,
+        2
+      ],
+      "answer": 1,
+      "explanation": "H=-Σp log2 p=-2×(1/2×-1)=1bitです。",
+      "tags": [
+        "情報理論",
+        "エントロピー"
+      ]
+    },
+    {
+      "id": "graduate-050",
+      "level": "graduate",
+      "subject": "logic",
+      "category": "fallacies",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "相関があることだけから因果関係を断定する誤りは？",
+      "choices": [
+        "循環論法",
+        "相関と因果の混同",
+        "藁人形論法",
+        "権威への訴え"
+      ],
+      "answer": "相関と因果の混同",
+      "explanation": "相関は共通原因や逆因果でも生じるため、それだけでは因果を確定できません。",
+      "tags": [
+        "論理学",
+        "因果推論"
+      ]
+    }
+  ]
+}

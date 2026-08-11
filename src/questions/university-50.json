@@ -1,0 +1,815 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "university-001",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "calculus",
+      "difficulty": 4,
+      "type": "text",
+      "question": "f(x)=x^2 の導関数を求めなさい。",
+      "answer": "2x^1",
+      "explanation": "べき関数の微分公式 d(x^n)/dx=nx^(n-1) を使います。",
+      "tags": [
+        "微分積分",
+        "べき関数"
+      ]
+    },
+    {
+      "id": "university-002",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "calculus",
+      "difficulty": 2,
+      "type": "text",
+      "question": "f(x)=x^3 の導関数を求めなさい。",
+      "answer": "3x^2",
+      "explanation": "べき関数の微分公式 d(x^n)/dx=nx^(n-1) を使います。",
+      "tags": [
+        "微分積分",
+        "べき関数"
+      ]
+    },
+    {
+      "id": "university-003",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "calculus",
+      "difficulty": 3,
+      "type": "text",
+      "question": "f(x)=x^4 の導関数を求めなさい。",
+      "answer": "4x^3",
+      "explanation": "べき関数の微分公式 d(x^n)/dx=nx^(n-1) を使います。",
+      "tags": [
+        "微分積分",
+        "べき関数"
+      ]
+    },
+    {
+      "id": "university-004",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "calculus",
+      "difficulty": 4,
+      "type": "text",
+      "question": "f(x)=x^5 の導関数を求めなさい。",
+      "answer": "5x^4",
+      "explanation": "べき関数の微分公式 d(x^n)/dx=nx^(n-1) を使います。",
+      "tags": [
+        "微分積分",
+        "べき関数"
+      ]
+    },
+    {
+      "id": "university-005",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "calculus",
+      "difficulty": 2,
+      "type": "text",
+      "question": "f(x)=x^6 の導関数を求めなさい。",
+      "answer": "6x^5",
+      "explanation": "べき関数の微分公式 d(x^n)/dx=nx^(n-1) を使います。",
+      "tags": [
+        "微分積分",
+        "べき関数"
+      ]
+    },
+    {
+      "id": "university-006",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "calculus",
+      "difficulty": 3,
+      "type": "text",
+      "question": "f(x)=x^7 の導関数を求めなさい。",
+      "answer": "7x^6",
+      "explanation": "べき関数の微分公式 d(x^n)/dx=nx^(n-1) を使います。",
+      "tags": [
+        "微分積分",
+        "べき関数"
+      ]
+    },
+    {
+      "id": "university-007",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "calculus",
+      "difficulty": 4,
+      "type": "text",
+      "question": "f(x)=x^8 の導関数を求めなさい。",
+      "answer": "8x^7",
+      "explanation": "べき関数の微分公式 d(x^n)/dx=nx^(n-1) を使います。",
+      "tags": [
+        "微分積分",
+        "べき関数"
+      ]
+    },
+    {
+      "id": "university-008",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "calculus",
+      "difficulty": 2,
+      "type": "text",
+      "question": "f(x)=x^9 の導関数を求めなさい。",
+      "answer": "9x^8",
+      "explanation": "べき関数の微分公式 d(x^n)/dx=nx^(n-1) を使います。",
+      "tags": [
+        "微分積分",
+        "べき関数"
+      ]
+    },
+    {
+      "id": "university-009",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "calculus",
+      "difficulty": 3,
+      "type": "text",
+      "question": "f(x)=x^10 の導関数を求めなさい。",
+      "answer": "10x^9",
+      "explanation": "べき関数の微分公式 d(x^n)/dx=nx^(n-1) を使います。",
+      "tags": [
+        "微分積分",
+        "べき関数"
+      ]
+    },
+    {
+      "id": "university-010",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "calculus",
+      "difficulty": 4,
+      "type": "text",
+      "question": "f(x)=x^11 の導関数を求めなさい。",
+      "answer": "11x^10",
+      "explanation": "べき関数の微分公式 d(x^n)/dx=nx^(n-1) を使います。",
+      "tags": [
+        "微分積分",
+        "べき関数"
+      ]
+    },
+    {
+      "id": "university-011",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "linear-algebra",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "行列 [[1,2],[3,4]] の行列式を求めなさい。",
+      "answer": -2,
+      "explanation": "2×2行列の行列式はad-bcなので、1×4-2×3=-2です。",
+      "tags": [
+        "線形代数",
+        "行列式"
+      ]
+    },
+    {
+      "id": "university-012",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "linear-algebra",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "行列 [[2,1],[5,3]] の行列式を求めなさい。",
+      "answer": 1,
+      "explanation": "2×2行列の行列式はad-bcなので、2×3-1×5=1です。",
+      "tags": [
+        "線形代数",
+        "行列式"
+      ]
+    },
+    {
+      "id": "university-013",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "linear-algebra",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "行列 [[3,-1],[2,4]] の行列式を求めなさい。",
+      "answer": 14,
+      "explanation": "2×2行列の行列式はad-bcなので、3×4--1×2=14です。",
+      "tags": [
+        "線形代数",
+        "行列式"
+      ]
+    },
+    {
+      "id": "university-014",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "linear-algebra",
+      "difficulty": 5,
+      "type": "numeric",
+      "question": "行列 [[4,2],[1,3]] の行列式を求めなさい。",
+      "answer": 10,
+      "explanation": "2×2行列の行列式はad-bcなので、4×3-2×1=10です。",
+      "tags": [
+        "線形代数",
+        "行列式"
+      ]
+    },
+    {
+      "id": "university-015",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "linear-algebra",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "行列 [[5,1],[2,2]] の行列式を求めなさい。",
+      "answer": 8,
+      "explanation": "2×2行列の行列式はad-bcなので、5×2-1×2=8です。",
+      "tags": [
+        "線形代数",
+        "行列式"
+      ]
+    },
+    {
+      "id": "university-016",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "linear-algebra",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "行列 [[2,3],[4,5]] の行列式を求めなさい。",
+      "answer": -2,
+      "explanation": "2×2行列の行列式はad-bcなので、2×5-3×4=-2です。",
+      "tags": [
+        "線形代数",
+        "行列式"
+      ]
+    },
+    {
+      "id": "university-017",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "linear-algebra",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "行列 [[6,1],[1,2]] の行列式を求めなさい。",
+      "answer": 11,
+      "explanation": "2×2行列の行列式はad-bcなので、6×2-1×1=11です。",
+      "tags": [
+        "線形代数",
+        "行列式"
+      ]
+    },
+    {
+      "id": "university-018",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "linear-algebra",
+      "difficulty": 5,
+      "type": "numeric",
+      "question": "行列 [[3,4],[2,5]] の行列式を求めなさい。",
+      "answer": 7,
+      "explanation": "2×2行列の行列式はad-bcなので、3×5-4×2=7です。",
+      "tags": [
+        "線形代数",
+        "行列式"
+      ]
+    },
+    {
+      "id": "university-019",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "linear-algebra",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "行列 [[7,2],[3,1]] の行列式を求めなさい。",
+      "answer": 1,
+      "explanation": "2×2行列の行列式はad-bcなので、7×1-2×3=1です。",
+      "tags": [
+        "線形代数",
+        "行列式"
+      ]
+    },
+    {
+      "id": "university-020",
+      "level": "university",
+      "subject": "mathematics",
+      "category": "linear-algebra",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "行列 [[4,-2],[5,3]] の行列式を求めなさい。",
+      "answer": 22,
+      "explanation": "2×2行列の行列式はad-bcなので、4×3--2×5=22です。",
+      "tags": [
+        "線形代数",
+        "行列式"
+      ]
+    },
+    {
+      "id": "university-021",
+      "level": "university",
+      "subject": "statistics",
+      "category": "descriptive-statistics",
+      "difficulty": 1,
+      "type": "numeric",
+      "question": "標本 2, 4, 6, 8, 10 の算術平均を求めなさい。",
+      "answer": 6,
+      "explanation": "合計を標本数5で割ると6です。",
+      "tags": [
+        "統計学",
+        "平均"
+      ]
+    },
+    {
+      "id": "university-022",
+      "level": "university",
+      "subject": "statistics",
+      "category": "descriptive-statistics",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "標本 1, 3, 5, 7, 9 の算術平均を求めなさい。",
+      "answer": 5,
+      "explanation": "合計を標本数5で割ると5です。",
+      "tags": [
+        "統計学",
+        "平均"
+      ]
+    },
+    {
+      "id": "university-023",
+      "level": "university",
+      "subject": "statistics",
+      "category": "descriptive-statistics",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "標本 5, 5, 10, 10, 20 の算術平均を求めなさい。",
+      "answer": 10,
+      "explanation": "合計を標本数5で割ると10です。",
+      "tags": [
+        "統計学",
+        "平均"
+      ]
+    },
+    {
+      "id": "university-024",
+      "level": "university",
+      "subject": "statistics",
+      "category": "descriptive-statistics",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "標本 12, 14, 16, 18, 20 の算術平均を求めなさい。",
+      "answer": 16,
+      "explanation": "合計を標本数5で割ると16です。",
+      "tags": [
+        "統計学",
+        "平均"
+      ]
+    },
+    {
+      "id": "university-025",
+      "level": "university",
+      "subject": "statistics",
+      "category": "descriptive-statistics",
+      "difficulty": 1,
+      "type": "numeric",
+      "question": "標本 3, 6, 9, 12, 15 の算術平均を求めなさい。",
+      "answer": 9,
+      "explanation": "合計を標本数5で割ると9です。",
+      "tags": [
+        "統計学",
+        "平均"
+      ]
+    },
+    {
+      "id": "university-026",
+      "level": "university",
+      "subject": "statistics",
+      "category": "descriptive-statistics",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "標本 4, 8, 12, 16, 20 の算術平均を求めなさい。",
+      "answer": 12,
+      "explanation": "合計を標本数5で割ると12です。",
+      "tags": [
+        "統計学",
+        "平均"
+      ]
+    },
+    {
+      "id": "university-027",
+      "level": "university",
+      "subject": "statistics",
+      "category": "descriptive-statistics",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "標本 7, 8, 9, 10, 11 の算術平均を求めなさい。",
+      "answer": 9,
+      "explanation": "合計を標本数5で割ると9です。",
+      "tags": [
+        "統計学",
+        "平均"
+      ]
+    },
+    {
+      "id": "university-028",
+      "level": "university",
+      "subject": "statistics",
+      "category": "descriptive-statistics",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "標本 10, 20, 30, 40, 50 の算術平均を求めなさい。",
+      "answer": 30,
+      "explanation": "合計を標本数5で割ると30です。",
+      "tags": [
+        "統計学",
+        "平均"
+      ]
+    },
+    {
+      "id": "university-029",
+      "level": "university",
+      "subject": "statistics",
+      "category": "descriptive-statistics",
+      "difficulty": 1,
+      "type": "numeric",
+      "question": "標本 2, 3, 3, 4, 8 の算術平均を求めなさい。",
+      "answer": 4,
+      "explanation": "合計を標本数5で割ると4です。",
+      "tags": [
+        "統計学",
+        "平均"
+      ]
+    },
+    {
+      "id": "university-030",
+      "level": "university",
+      "subject": "statistics",
+      "category": "descriptive-statistics",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "標本 6, 7, 8, 9, 10 の算術平均を求めなさい。",
+      "answer": 8,
+      "explanation": "合計を標本数5で割ると8です。",
+      "tags": [
+        "統計学",
+        "平均"
+      ]
+    },
+    {
+      "id": "university-031",
+      "level": "university",
+      "subject": "computer-science",
+      "category": "number-systems",
+      "difficulty": 1,
+      "type": "text",
+      "question": "10進整数13を2進数で表しなさい。",
+      "answer": "1101",
+      "explanation": "2のべきの和に分解すると、2進表現は1101です。",
+      "tags": [
+        "計算機科学",
+        "2進数"
+      ]
+    },
+    {
+      "id": "university-032",
+      "level": "university",
+      "subject": "computer-science",
+      "category": "number-systems",
+      "difficulty": 2,
+      "type": "text",
+      "question": "10進整数18を2進数で表しなさい。",
+      "answer": "10010",
+      "explanation": "2のべきの和に分解すると、2進表現は10010です。",
+      "tags": [
+        "計算機科学",
+        "2進数"
+      ]
+    },
+    {
+      "id": "university-033",
+      "level": "university",
+      "subject": "computer-science",
+      "category": "number-systems",
+      "difficulty": 3,
+      "type": "text",
+      "question": "10進整数21を2進数で表しなさい。",
+      "answer": "10101",
+      "explanation": "2のべきの和に分解すると、2進表現は10101です。",
+      "tags": [
+        "計算機科学",
+        "2進数"
+      ]
+    },
+    {
+      "id": "university-034",
+      "level": "university",
+      "subject": "computer-science",
+      "category": "number-systems",
+      "difficulty": 4,
+      "type": "text",
+      "question": "10進整数26を2進数で表しなさい。",
+      "answer": "11010",
+      "explanation": "2のべきの和に分解すると、2進表現は11010です。",
+      "tags": [
+        "計算機科学",
+        "2進数"
+      ]
+    },
+    {
+      "id": "university-035",
+      "level": "university",
+      "subject": "computer-science",
+      "category": "number-systems",
+      "difficulty": 1,
+      "type": "text",
+      "question": "10進整数31を2進数で表しなさい。",
+      "answer": "11111",
+      "explanation": "2のべきの和に分解すると、2進表現は11111です。",
+      "tags": [
+        "計算機科学",
+        "2進数"
+      ]
+    },
+    {
+      "id": "university-036",
+      "level": "university",
+      "subject": "computer-science",
+      "category": "number-systems",
+      "difficulty": 2,
+      "type": "text",
+      "question": "10進整数37を2進数で表しなさい。",
+      "answer": "100101",
+      "explanation": "2のべきの和に分解すると、2進表現は100101です。",
+      "tags": [
+        "計算機科学",
+        "2進数"
+      ]
+    },
+    {
+      "id": "university-037",
+      "level": "university",
+      "subject": "computer-science",
+      "category": "number-systems",
+      "difficulty": 3,
+      "type": "text",
+      "question": "10進整数42を2進数で表しなさい。",
+      "answer": "101010",
+      "explanation": "2のべきの和に分解すると、2進表現は101010です。",
+      "tags": [
+        "計算機科学",
+        "2進数"
+      ]
+    },
+    {
+      "id": "university-038",
+      "level": "university",
+      "subject": "computer-science",
+      "category": "number-systems",
+      "difficulty": 4,
+      "type": "text",
+      "question": "10進整数45を2進数で表しなさい。",
+      "answer": "101101",
+      "explanation": "2のべきの和に分解すると、2進表現は101101です。",
+      "tags": [
+        "計算機科学",
+        "2進数"
+      ]
+    },
+    {
+      "id": "university-039",
+      "level": "university",
+      "subject": "computer-science",
+      "category": "number-systems",
+      "difficulty": 1,
+      "type": "text",
+      "question": "10進整数50を2進数で表しなさい。",
+      "answer": "110010",
+      "explanation": "2のべきの和に分解すると、2進表現は110010です。",
+      "tags": [
+        "計算機科学",
+        "2進数"
+      ]
+    },
+    {
+      "id": "university-040",
+      "level": "university",
+      "subject": "computer-science",
+      "category": "number-systems",
+      "difficulty": 2,
+      "type": "text",
+      "question": "10進整数63を2進数で表しなさい。",
+      "answer": "111111",
+      "explanation": "2のべきの和に分解すると、2進表現は111111です。",
+      "tags": [
+        "計算機科学",
+        "2進数"
+      ]
+    },
+    {
+      "id": "university-041",
+      "level": "university",
+      "subject": "economics",
+      "category": "microeconomics",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "機会費用の説明として最も適切なものは？",
+      "choices": [
+        "支払った現金だけ",
+        "選ばなかった選択肢のうち最善のものの価値",
+        "会計上の利益",
+        "埋没費用の総額"
+      ],
+      "answer": "選ばなかった選択肢のうち最善のものの価値",
+      "explanation": "ある選択によって断念した次善の選択肢の価値が機会費用です。",
+      "tags": [
+        "ミクロ経済学",
+        "機会費用"
+      ]
+    },
+    {
+      "id": "university-042",
+      "level": "university",
+      "subject": "economics",
+      "category": "macroeconomics",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "実質GDPが名目GDPと異なる点は？",
+      "choices": [
+        "輸出を含まない",
+        "物価変動の影響を調整している",
+        "政府支出を含まない",
+        "人口で必ず割る"
+      ],
+      "answer": "物価変動の影響を調整している",
+      "explanation": "実質GDPは基準年価格などを用いて物価変動の影響を除きます。",
+      "tags": [
+        "マクロ経済学",
+        "GDP"
+      ]
+    },
+    {
+      "id": "university-043",
+      "level": "university",
+      "subject": "physics",
+      "category": "mechanics",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "運動量保存則が成り立つ条件として最も適切なものは？",
+      "choices": [
+        "運動エネルギーが常に0",
+        "系に働く外力の合力が0",
+        "物体が1個だけ",
+        "速度が一定"
+      ],
+      "answer": "系に働く外力の合力が0",
+      "explanation": "外力の合力が0の孤立系では全運動量が保存されます。",
+      "tags": [
+        "大学物理",
+        "運動量"
+      ]
+    },
+    {
+      "id": "university-044",
+      "level": "university",
+      "subject": "philosophy",
+      "category": "epistemology",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "演繹的に妥当な論証の特徴は？",
+      "choices": [
+        "結論が人気である",
+        "前提が真なら結論が必ず真",
+        "前提が一つだけ",
+        "結論が経験的でない"
+      ],
+      "answer": "前提が真なら結論が必ず真",
+      "explanation": "妥当性とは、すべての前提が真で結論が偽となる場合がないことです。",
+      "tags": [
+        "哲学",
+        "論理学"
+      ]
+    },
+    {
+      "id": "university-045",
+      "level": "university",
+      "subject": "research-methods",
+      "category": "measurement",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "信頼性が高い測定とは？",
+      "choices": [
+        "測りたい概念を必ず測る測定",
+        "反復しても一貫した結果が得られる測定",
+        "標本数が1の測定",
+        "誤差が報告されない測定"
+      ],
+      "answer": "反復しても一貫した結果が得られる測定",
+      "explanation": "信頼性は測定結果の一貫性や再現性を指します。",
+      "tags": [
+        "研究方法",
+        "信頼性"
+      ]
+    },
+    {
+      "id": "university-046",
+      "level": "university",
+      "subject": "academic-english",
+      "category": "writing",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "学術論文のabstractの主な役割は？",
+      "choices": [
+        "参考文献の列挙",
+        "研究目的・方法・結果・結論の要約",
+        "著者略歴の紹介",
+        "全データの掲載"
+      ],
+      "answer": "研究目的・方法・結果・結論の要約",
+      "explanation": "abstractは読者が研究の全体像を短時間で把握できる要約です。",
+      "tags": [
+        "アカデミック英語",
+        "論文構成"
+      ]
+    },
+    {
+      "id": "university-047",
+      "level": "university",
+      "subject": "computer-science",
+      "category": "algorithms",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "平均計算量O(n log n)の代表的な比較ソートは？",
+      "choices": [
+        "バブルソート",
+        "マージソート",
+        "線形探索",
+        "選択ソート"
+      ],
+      "answer": "マージソート",
+      "explanation": "マージソートは分割統治により平均・最悪ともO(n log n)です。",
+      "tags": [
+        "アルゴリズム",
+        "計算量"
+      ]
+    },
+    {
+      "id": "university-048",
+      "level": "university",
+      "subject": "statistics",
+      "category": "hypothesis-testing",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "p値の説明として正しいものは？",
+      "choices": [
+        "帰無仮説が真である確率",
+        "対立仮説が真である確率",
+        "帰無仮説の下で観測値以上に極端な結果が出る確率",
+        "研究が再現する確率"
+      ],
+      "answer": "帰無仮説の下で観測値以上に極端な結果が出る確率",
+      "explanation": "p値は帰無仮説を仮定した条件付き確率であり、仮説自体の確率ではありません。",
+      "tags": [
+        "統計学",
+        "p値"
+      ]
+    },
+    {
+      "id": "university-049",
+      "level": "university",
+      "subject": "biology",
+      "category": "evolution",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "自然選択が直接作用する対象は？",
+      "choices": [
+        "個体の必要性",
+        "個体の表現型の差",
+        "未来の環境",
+        "種全体の意思"
+      ],
+      "answer": "個体の表現型の差",
+      "explanation": "生存・繁殖成功に影響する表現型の差に自然選択が作用し、遺伝子頻度が変化します。",
+      "tags": [
+        "進化生物学",
+        "自然選択"
+      ]
+    },
+    {
+      "id": "university-050",
+      "level": "university",
+      "subject": "law",
+      "category": "legal-reasoning",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "判例を参照して類似事件を判断する推論は？",
+      "choices": [
+        "演繹のみ",
+        "類推",
+        "無作為化",
+        "循環論法"
+      ],
+      "answer": "類推",
+      "explanation": "事実関係の類似性と相違点を比較して先例を適用するのは類推です。",
+      "tags": [
+        "法学",
+        "判例"
+      ]
+    }
+  ]
+}

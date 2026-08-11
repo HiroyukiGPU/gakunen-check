@@ -35,11 +35,13 @@ export function selectNextQuestion(
   const avoidBalancedPool =
     notPreviouslyAskedPool.length > 0 ? notPreviouslyAskedPool : subjectBalancedPool;
 
-  // 現在レベルちょうどの問題を優先しつつ、隣接レベルも一定確率で選ぶ
+  // 現在レベルちょうどの問題を優先しつつ、隣接レベルも一定確率で選ぶ。
+  // ちょうどのレベルの問題数が少ない場合に毎回同じ狭い候補群へ収束してしまうのを
+  // 避けるため、優先度は控えめ（35%）にとどめる。
   const currentLevel = indexToLevel(centerIndex);
   const exactLevelPool = avoidBalancedPool.filter((q) => q.level === currentLevel);
   const finalPool =
-    exactLevelPool.length > 0 && Math.random() < 0.7 ? exactLevelPool : avoidBalancedPool;
+    exactLevelPool.length > 0 && Math.random() < 0.35 ? exactLevelPool : avoidBalancedPool;
 
   return pickRandom(finalPool);
 }

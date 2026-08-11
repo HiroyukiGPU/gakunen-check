@@ -1,0 +1,875 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "high-school-001",
+      "level": "high-school",
+      "subject": "math",
+      "category": "linear-equations",
+      "difficulty": 1,
+      "type": "numeric",
+      "question": "3x + 7 = 22 を解きなさい。",
+      "answer": 5,
+      "explanation": "移項すると3x=15となるため、x=5です。",
+      "tags": [
+        "数学I",
+        "方程式"
+      ]
+    },
+    {
+      "id": "high-school-002",
+      "level": "high-school",
+      "subject": "math",
+      "category": "linear-equations",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "4x - 3 = 17 を解きなさい。",
+      "answer": 5,
+      "explanation": "移項すると4x=20となるため、x=5です。",
+      "tags": [
+        "数学I",
+        "方程式"
+      ]
+    },
+    {
+      "id": "high-school-003",
+      "level": "high-school",
+      "subject": "math",
+      "category": "linear-equations",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "5x + 8 = 43 を解きなさい。",
+      "answer": 7,
+      "explanation": "移項すると5x=35となるため、x=7です。",
+      "tags": [
+        "数学I",
+        "方程式"
+      ]
+    },
+    {
+      "id": "high-school-004",
+      "level": "high-school",
+      "subject": "math",
+      "category": "linear-equations",
+      "difficulty": 1,
+      "type": "numeric",
+      "question": "6x - 5 = 31 を解きなさい。",
+      "answer": 6,
+      "explanation": "移項すると6x=36となるため、x=6です。",
+      "tags": [
+        "数学I",
+        "方程式"
+      ]
+    },
+    {
+      "id": "high-school-005",
+      "level": "high-school",
+      "subject": "math",
+      "category": "linear-equations",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "7x + 4 = 53 を解きなさい。",
+      "answer": 7,
+      "explanation": "移項すると7x=49となるため、x=7です。",
+      "tags": [
+        "数学I",
+        "方程式"
+      ]
+    },
+    {
+      "id": "high-school-006",
+      "level": "high-school",
+      "subject": "math",
+      "category": "linear-equations",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "8x - 9 = 47 を解きなさい。",
+      "answer": 7,
+      "explanation": "移項すると8x=56となるため、x=7です。",
+      "tags": [
+        "数学I",
+        "方程式"
+      ]
+    },
+    {
+      "id": "high-school-007",
+      "level": "high-school",
+      "subject": "math",
+      "category": "linear-equations",
+      "difficulty": 1,
+      "type": "numeric",
+      "question": "9x + 6 = 78 を解きなさい。",
+      "answer": 8,
+      "explanation": "移項すると9x=72となるため、x=8です。",
+      "tags": [
+        "数学I",
+        "方程式"
+      ]
+    },
+    {
+      "id": "high-school-008",
+      "level": "high-school",
+      "subject": "math",
+      "category": "linear-equations",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "10x - 7 = 63 を解きなさい。",
+      "answer": 7,
+      "explanation": "移項すると10x=70となるため、x=7です。",
+      "tags": [
+        "数学I",
+        "方程式"
+      ]
+    },
+    {
+      "id": "high-school-009",
+      "level": "high-school",
+      "subject": "math",
+      "category": "linear-equations",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "11x + 5 = 104 を解きなさい。",
+      "answer": 9,
+      "explanation": "移項すると11x=99となるため、x=9です。",
+      "tags": [
+        "数学I",
+        "方程式"
+      ]
+    },
+    {
+      "id": "high-school-010",
+      "level": "high-school",
+      "subject": "math",
+      "category": "linear-equations",
+      "difficulty": 1,
+      "type": "numeric",
+      "question": "12x - 11 = 97 を解きなさい。",
+      "answer": 9,
+      "explanation": "移項すると12x=108となるため、x=9です。",
+      "tags": [
+        "数学I",
+        "方程式"
+      ]
+    },
+    {
+      "id": "high-school-011",
+      "level": "high-school",
+      "subject": "physics",
+      "category": "electricity",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "抵抗4Ωに12Vの電圧を加えたときの電流は何Aですか？",
+      "answer": 3,
+      "explanation": "オームの法則I=V/Rより、12/4=3Aです。",
+      "tags": [
+        "物理基礎",
+        "オームの法則"
+      ]
+    },
+    {
+      "id": "high-school-012",
+      "level": "high-school",
+      "subject": "physics",
+      "category": "electricity",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "抵抗6Ωに18Vの電圧を加えたときの電流は何Aですか？",
+      "answer": 3,
+      "explanation": "オームの法則I=V/Rより、18/6=3Aです。",
+      "tags": [
+        "物理基礎",
+        "オームの法則"
+      ]
+    },
+    {
+      "id": "high-school-013",
+      "level": "high-school",
+      "subject": "physics",
+      "category": "electricity",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "抵抗5Ωに20Vの電圧を加えたときの電流は何Aですか？",
+      "answer": 4,
+      "explanation": "オームの法則I=V/Rより、20/5=4Aです。",
+      "tags": [
+        "物理基礎",
+        "オームの法則"
+      ]
+    },
+    {
+      "id": "high-school-014",
+      "level": "high-school",
+      "subject": "physics",
+      "category": "electricity",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "抵抗8Ωに24Vの電圧を加えたときの電流は何Aですか？",
+      "answer": 3,
+      "explanation": "オームの法則I=V/Rより、24/8=3Aです。",
+      "tags": [
+        "物理基礎",
+        "オームの法則"
+      ]
+    },
+    {
+      "id": "high-school-015",
+      "level": "high-school",
+      "subject": "physics",
+      "category": "electricity",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "抵抗5Ωに30Vの電圧を加えたときの電流は何Aですか？",
+      "answer": 6,
+      "explanation": "オームの法則I=V/Rより、30/5=6Aです。",
+      "tags": [
+        "物理基礎",
+        "オームの法則"
+      ]
+    },
+    {
+      "id": "high-school-016",
+      "level": "high-school",
+      "subject": "physics",
+      "category": "electricity",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "抵抗9Ωに36Vの電圧を加えたときの電流は何Aですか？",
+      "answer": 4,
+      "explanation": "オームの法則I=V/Rより、36/9=4Aです。",
+      "tags": [
+        "物理基礎",
+        "オームの法則"
+      ]
+    },
+    {
+      "id": "high-school-017",
+      "level": "high-school",
+      "subject": "physics",
+      "category": "electricity",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "抵抗7Ωに42Vの電圧を加えたときの電流は何Aですか？",
+      "answer": 6,
+      "explanation": "オームの法則I=V/Rより、42/7=6Aです。",
+      "tags": [
+        "物理基礎",
+        "オームの法則"
+      ]
+    },
+    {
+      "id": "high-school-018",
+      "level": "high-school",
+      "subject": "physics",
+      "category": "electricity",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "抵抗8Ωに48Vの電圧を加えたときの電流は何Aですか？",
+      "answer": 6,
+      "explanation": "オームの法則I=V/Rより、48/8=6Aです。",
+      "tags": [
+        "物理基礎",
+        "オームの法則"
+      ]
+    },
+    {
+      "id": "high-school-019",
+      "level": "high-school",
+      "subject": "physics",
+      "category": "electricity",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "抵抗10Ωに50Vの電圧を加えたときの電流は何Aですか？",
+      "answer": 5,
+      "explanation": "オームの法則I=V/Rより、50/10=5Aです。",
+      "tags": [
+        "物理基礎",
+        "オームの法則"
+      ]
+    },
+    {
+      "id": "high-school-020",
+      "level": "high-school",
+      "subject": "physics",
+      "category": "electricity",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "抵抗12Ωに60Vの電圧を加えたときの電流は何Aですか？",
+      "answer": 5,
+      "explanation": "オームの法則I=V/Rより、60/12=5Aです。",
+      "tags": [
+        "物理基礎",
+        "オームの法則"
+      ]
+    },
+    {
+      "id": "high-school-021",
+      "level": "high-school",
+      "subject": "chemistry",
+      "category": "amount-of-substance",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "モル質量18g/molの物質18gは何molですか？",
+      "answer": 1,
+      "explanation": "物質量=質量/モル質量より、18/18=1molです。",
+      "tags": [
+        "化学基礎",
+        "物質量"
+      ]
+    },
+    {
+      "id": "high-school-022",
+      "level": "high-school",
+      "subject": "chemistry",
+      "category": "amount-of-substance",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "モル質量44g/molの物質44gは何molですか？",
+      "answer": 1,
+      "explanation": "物質量=質量/モル質量より、44/44=1molです。",
+      "tags": [
+        "化学基礎",
+        "物質量"
+      ]
+    },
+    {
+      "id": "high-school-023",
+      "level": "high-school",
+      "subject": "chemistry",
+      "category": "amount-of-substance",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "モル質量18g/molの物質36gは何molですか？",
+      "answer": 2,
+      "explanation": "物質量=質量/モル質量より、36/18=2molです。",
+      "tags": [
+        "化学基礎",
+        "物質量"
+      ]
+    },
+    {
+      "id": "high-school-024",
+      "level": "high-school",
+      "subject": "chemistry",
+      "category": "amount-of-substance",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "モル質量44g/molの物質88gは何molですか？",
+      "answer": 2,
+      "explanation": "物質量=質量/モル質量より、88/44=2molです。",
+      "tags": [
+        "化学基礎",
+        "物質量"
+      ]
+    },
+    {
+      "id": "high-school-025",
+      "level": "high-school",
+      "subject": "chemistry",
+      "category": "amount-of-substance",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "モル質量18g/molの物質90gは何molですか？",
+      "answer": 5,
+      "explanation": "物質量=質量/モル質量より、90/18=5molです。",
+      "tags": [
+        "化学基礎",
+        "物質量"
+      ]
+    },
+    {
+      "id": "high-school-026",
+      "level": "high-school",
+      "subject": "chemistry",
+      "category": "amount-of-substance",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "モル質量44g/molの物質22gは何molですか？",
+      "answer": 0.5,
+      "explanation": "物質量=質量/モル質量より、22/44=0.5molです。",
+      "tags": [
+        "化学基礎",
+        "物質量"
+      ]
+    },
+    {
+      "id": "high-school-027",
+      "level": "high-school",
+      "subject": "chemistry",
+      "category": "amount-of-substance",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "モル質量18g/molの物質9gは何molですか？",
+      "answer": 0.5,
+      "explanation": "物質量=質量/モル質量より、9/18=0.5molです。",
+      "tags": [
+        "化学基礎",
+        "物質量"
+      ]
+    },
+    {
+      "id": "high-school-028",
+      "level": "high-school",
+      "subject": "chemistry",
+      "category": "amount-of-substance",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "モル質量44g/molの物質132gは何molですか？",
+      "answer": 3,
+      "explanation": "物質量=質量/モル質量より、132/44=3molです。",
+      "tags": [
+        "化学基礎",
+        "物質量"
+      ]
+    },
+    {
+      "id": "high-school-029",
+      "level": "high-school",
+      "subject": "chemistry",
+      "category": "amount-of-substance",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "モル質量18g/molの物質72gは何molですか？",
+      "answer": 4,
+      "explanation": "物質量=質量/モル質量より、72/18=4molです。",
+      "tags": [
+        "化学基礎",
+        "物質量"
+      ]
+    },
+    {
+      "id": "high-school-030",
+      "level": "high-school",
+      "subject": "chemistry",
+      "category": "amount-of-substance",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "モル質量44g/molの物質110gは何molですか？",
+      "answer": 2.5,
+      "explanation": "物質量=質量/モル質量より、110/44=2.5molです。",
+      "tags": [
+        "化学基礎",
+        "物質量"
+      ]
+    },
+    {
+      "id": "high-school-031",
+      "level": "high-school",
+      "subject": "english",
+      "category": "grammar",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "空欄に入る最も適切な語句を選びなさい。If I (　) enough time, I would travel around the world.",
+      "choices": [
+        "have",
+        "had",
+        "will have",
+        "am having"
+      ],
+      "answer": "had",
+      "explanation": "仮定法過去ではif節に過去形を使います。",
+      "tags": [
+        "高校英語",
+        "文法"
+      ]
+    },
+    {
+      "id": "high-school-032",
+      "level": "high-school",
+      "subject": "english",
+      "category": "grammar",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "空欄に入る最も適切な語句を選びなさい。The book (　) by many students last year.",
+      "choices": [
+        "reads",
+        "was read",
+        "has read",
+        "is reading"
+      ],
+      "answer": "was read",
+      "explanation": "過去の受動態はwas/were＋過去分詞です。",
+      "tags": [
+        "高校英語",
+        "文法"
+      ]
+    },
+    {
+      "id": "high-school-033",
+      "level": "high-school",
+      "subject": "english",
+      "category": "grammar",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "空欄に入る最も適切な語句を選びなさい。He is interested (　) environmental problems.",
+      "choices": [
+        "at",
+        "on",
+        "in",
+        "for"
+      ],
+      "answer": "in",
+      "explanation": "be interested inで「〜に興味がある」です。",
+      "tags": [
+        "高校英語",
+        "文法"
+      ]
+    },
+    {
+      "id": "high-school-034",
+      "level": "high-school",
+      "subject": "english",
+      "category": "grammar",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "空欄に入る最も適切な語句を選びなさい。No other mountain in Japan is (　) than Mt. Fuji.",
+      "choices": [
+        "high",
+        "higher",
+        "highest",
+        "the higher"
+      ],
+      "answer": "higher",
+      "explanation": "thanに対応する比較級higherを使います。",
+      "tags": [
+        "高校英語",
+        "文法"
+      ]
+    },
+    {
+      "id": "high-school-035",
+      "level": "high-school",
+      "subject": "english",
+      "category": "grammar",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "空欄に入る最も適切な語句を選びなさい。I remember (　) her at the station.",
+      "choices": [
+        "meet",
+        "to meet",
+        "meeting",
+        "met"
+      ],
+      "answer": "meeting",
+      "explanation": "remember doingは「〜したことを覚えている」です。",
+      "tags": [
+        "高校英語",
+        "文法"
+      ]
+    },
+    {
+      "id": "high-school-036",
+      "level": "high-school",
+      "subject": "english",
+      "category": "grammar",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "空欄に入る最も適切な語句を選びなさい。The man (　) lives next door is a doctor.",
+      "choices": [
+        "which",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "who",
+      "explanation": "人を先行詞とする主格の関係代名詞はwhoです。",
+      "tags": [
+        "高校英語",
+        "文法"
+      ]
+    },
+    {
+      "id": "high-school-037",
+      "level": "high-school",
+      "subject": "english",
+      "category": "grammar",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "空欄に入る最も適切な語句を選びなさい。It is important for us (　) different cultures.",
+      "choices": [
+        "understand",
+        "understood",
+        "to understand",
+        "understanding"
+      ],
+      "answer": "to understand",
+      "explanation": "It is ... for 人 to doの構文です。",
+      "tags": [
+        "高校英語",
+        "文法"
+      ]
+    },
+    {
+      "id": "high-school-038",
+      "level": "high-school",
+      "subject": "english",
+      "category": "grammar",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "空欄に入る最も適切な語句を選びなさい。By the time we arrived, the movie (　).",
+      "choices": [
+        "starts",
+        "has started",
+        "had started",
+        "will start"
+      ],
+      "answer": "had started",
+      "explanation": "到着より前に始まっていたため過去完了を使います。",
+      "tags": [
+        "高校英語",
+        "文法"
+      ]
+    },
+    {
+      "id": "high-school-039",
+      "level": "high-school",
+      "subject": "english",
+      "category": "grammar",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "空欄に入る最も適切な語句を選びなさい。She speaks English as (　) as her brother.",
+      "choices": [
+        "fluent",
+        "fluently",
+        "more fluent",
+        "most fluently"
+      ],
+      "answer": "fluently",
+      "explanation": "動詞speaksを修飾し、as ... asに入る副詞の原級はfluentlyです。",
+      "tags": [
+        "高校英語",
+        "文法"
+      ]
+    },
+    {
+      "id": "high-school-040",
+      "level": "high-school",
+      "subject": "english",
+      "category": "grammar",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "空欄に入る最も適切な語句を選びなさい。You (　) have told me earlier; I could have helped.",
+      "choices": [
+        "should",
+        "must",
+        "can",
+        "will"
+      ],
+      "answer": "should",
+      "explanation": "should have＋過去分詞は、過去への後悔・非難を表します。",
+      "tags": [
+        "高校英語",
+        "文法"
+      ]
+    },
+    {
+      "id": "high-school-041",
+      "level": "high-school",
+      "subject": "japanese",
+      "category": "classical-japanese",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "古文の「いみじ」の代表的な意味はどれですか？",
+      "choices": [
+        "すばらしい・ひどい",
+        "静かだ",
+        "新しい",
+        "小さい"
+      ],
+      "answer": "すばらしい・ひどい",
+      "explanation": "「いみじ」は程度が甚だしいことを表し、文脈により良い意味にも悪い意味にもなります。",
+      "tags": [
+        "古文",
+        "古語"
+      ]
+    },
+    {
+      "id": "high-school-042",
+      "level": "high-school",
+      "subject": "japanese",
+      "category": "rhetoric",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "「まるで宝石のような星」に使われた表現技法は？",
+      "choices": [
+        "直喩",
+        "隠喩",
+        "擬人法",
+        "倒置法"
+      ],
+      "answer": "直喩",
+      "explanation": "「ような」を用いて直接たとえているため直喩です。",
+      "tags": [
+        "現代文",
+        "表現技法"
+      ]
+    },
+    {
+      "id": "high-school-043",
+      "level": "high-school",
+      "subject": "japanese",
+      "category": "kanbun",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "漢文の返り点「レ点」の読み方として正しいものは？",
+      "choices": [
+        "直後の一字を読んでから戻る",
+        "二字先まで読んで戻る",
+        "必ず読まない",
+        "文末から読む"
+      ],
+      "answer": "直後の一字を読んでから戻る",
+      "explanation": "レ点は、その下の一字を先に読み、直前の字へ戻る記号です。",
+      "tags": [
+        "漢文",
+        "返り点"
+      ]
+    },
+    {
+      "id": "high-school-044",
+      "level": "high-school",
+      "subject": "history",
+      "category": "japanese-history",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "大日本帝国憲法が発布された年は？",
+      "choices": [
+        "1868年",
+        "1889年",
+        "1894年",
+        "1946年"
+      ],
+      "answer": "1889年",
+      "explanation": "大日本帝国憲法は1889年2月11日に発布されました。",
+      "tags": [
+        "日本史",
+        "近代"
+      ]
+    },
+    {
+      "id": "high-school-045",
+      "level": "high-school",
+      "subject": "history",
+      "category": "world-history",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "フランス革命が始まった年は？",
+      "choices": [
+        "1688年",
+        "1776年",
+        "1789年",
+        "1815年"
+      ],
+      "answer": "1789年",
+      "explanation": "バスティーユ牢獄襲撃が起きた1789年が革命の開始年とされます。",
+      "tags": [
+        "世界史",
+        "近代"
+      ]
+    },
+    {
+      "id": "high-school-046",
+      "level": "high-school",
+      "subject": "geography",
+      "category": "climate",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "地中海性気候の特徴として正しいものは？",
+      "choices": [
+        "年中多雨",
+        "夏に乾燥し冬に雨が多い",
+        "年中乾燥",
+        "冬に乾燥し夏に雨が多い"
+      ],
+      "answer": "夏に乾燥し冬に雨が多い",
+      "explanation": "亜熱帯高圧帯と偏西風の季節移動により、夏は乾燥し冬に降水があります。",
+      "tags": [
+        "地理",
+        "気候"
+      ]
+    },
+    {
+      "id": "high-school-047",
+      "level": "high-school",
+      "subject": "civics",
+      "category": "constitution",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "日本国憲法で内閣が国会に対して負う責任は？",
+      "choices": [
+        "個別責任のみ",
+        "連帯責任",
+        "無責任",
+        "司法責任"
+      ],
+      "answer": "連帯責任",
+      "explanation": "憲法第66条3項により、内閣は行政権の行使について国会に対し連帯して責任を負います。",
+      "tags": [
+        "政治経済",
+        "内閣"
+      ]
+    },
+    {
+      "id": "high-school-048",
+      "level": "high-school",
+      "subject": "biology",
+      "category": "genetics",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "DNAでアデニンと対をつくる塩基は？",
+      "choices": [
+        "グアニン",
+        "シトシン",
+        "チミン",
+        "ウラシル"
+      ],
+      "answer": "チミン",
+      "explanation": "DNAではアデニンとチミン、グアニンとシトシンが相補的に結合します。",
+      "tags": [
+        "生物基礎",
+        "DNA"
+      ]
+    },
+    {
+      "id": "high-school-049",
+      "level": "high-school",
+      "subject": "information",
+      "category": "algorithms",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "二分探索を使うために、対象データに必要な前提は？",
+      "choices": [
+        "暗号化されていること",
+        "整列されていること",
+        "重複がないこと",
+        "文字列であること"
+      ],
+      "answer": "整列されていること",
+      "explanation": "二分探索は大小関係で探索範囲を半分にするため、データの整列が必要です。",
+      "tags": [
+        "情報I",
+        "探索"
+      ]
+    },
+    {
+      "id": "high-school-050",
+      "level": "high-school",
+      "subject": "logic",
+      "category": "propositions",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "命題「PならばQ」の対偶は？",
+      "choices": [
+        "QならばP",
+        "PでないならばQでない",
+        "QでないならばPでない",
+        "PかつQ"
+      ],
+      "answer": "QでないならばPでない",
+      "explanation": "条件命題の対偶は前件・後件を入れ替えてそれぞれ否定します。",
+      "tags": [
+        "論理",
+        "対偶"
+      ]
+    }
+  ]
+}

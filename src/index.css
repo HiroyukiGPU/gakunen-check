@@ -99,6 +99,9 @@ a {
 
 .btn {
   appearance: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   border: 2px solid transparent;
   border-radius: var(--radius-md);
   font-size: 1.05rem;
@@ -106,6 +109,8 @@ a {
   padding: 14px 20px;
   min-height: 52px;
   cursor: pointer;
+  text-decoration: none;
+  box-sizing: border-box;
   transition:
     background-color 0.15s ease,
     border-color 0.15s ease,
@@ -597,6 +602,36 @@ a {
   flex-direction: column;
   gap: 12px;
   padding-top: 8px;
+}
+
+.share-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.share-buttons .btn {
+  flex: 1 1 140px;
+}
+
+.share-btn-x {
+  color: #fff;
+  background: #000;
+  border-color: #000;
+}
+
+.share-btn-x:hover {
+  background: #1a1a1a;
+}
+
+.share-btn-line {
+  color: #fff;
+  background: #06c755;
+  border-color: #06c755;
+}
+
+.share-btn-line:hover {
+  background: #05b34c;
 }
 
 /* --- dev questions page --- */

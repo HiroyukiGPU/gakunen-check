@@ -57,8 +57,17 @@ export function hasInProgressQuiz(): boolean {
   return loadProgress() !== null;
 }
 
+// 直近何問分の出題履歴を「できるだけ避ける問題」として保持するか。
+// 1回分のテスト(最大30問)だけでなく、複数回の再挑戦をまたいで累積することで、
+// 何度も試したときに同じ問題ばかりが再出題されるのを防ぐ。
+const MAX_TRACKED_ASKED_IDS = 90;
+
 export function saveLastSessionAskedIds(ids: string[]): void {
-  safeSetItem(LAST_ASKED_KEY, JSON.stringify(ids));
+  const previous = loadLastSessionAskedIds();
+  // 直近に出た問題ほど優先して回避したいので、新しいIDを後ろに積み重ねる。
+  const merged = [...previous.filter((id) => !ids.includes(id)), ...ids];
+  const trimmed = merged.slice(-MAX_TRACKED_ASKED_IDS);
+  safeSetItem(LAST_ASKED_KEY, JSON.stringify(trimmed));
 }
 
 export function loadLastSessionAskedIds(): string[] {

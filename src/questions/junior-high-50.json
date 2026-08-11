@@ -1,0 +1,962 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "junior-high-1-001",
+      "level": "junior-high-1",
+      "subject": "math",
+      "category": "positive-negative-numbers",
+      "difficulty": 1,
+      "type": "numeric",
+      "question": "(-7) + 12 - 4 を計算しなさい。",
+      "answer": 1,
+      "explanation": "(-7) + 12 = 5、5 - 4 = 1です。",
+      "tags": [
+        "正負の数",
+        "加減法"
+      ]
+    },
+    {
+      "id": "junior-high-1-002",
+      "level": "junior-high-1",
+      "subject": "math",
+      "category": "linear-equations",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "方程式 3x - 5 = 16 を解きなさい。",
+      "answer": 7,
+      "explanation": "両辺に5を足すと3x = 21となり、3で割るとx = 7です。",
+      "tags": [
+        "一次方程式"
+      ]
+    },
+    {
+      "id": "junior-high-1-003",
+      "level": "junior-high-1",
+      "subject": "math",
+      "category": "proportional-relationships",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "yはxに比例し、x = 4のときy = 10です。x = 6のときのyを求めなさい。",
+      "answer": 15,
+      "explanation": "y = axにx = 4、y = 10を代入するとa = 2.5です。したがってx = 6のときy = 2.5 × 6 = 15です。",
+      "tags": [
+        "比例",
+        "比例定数"
+      ]
+    },
+    {
+      "id": "junior-high-1-004",
+      "level": "junior-high-1",
+      "subject": "japanese",
+      "category": "grammar",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "「静かな町」の「静かな」の品詞として正しいものを選びなさい。",
+      "choices": [
+        "名詞",
+        "形容詞",
+        "形容動詞",
+        "副詞"
+      ],
+      "answer": "形容動詞",
+      "explanation": "「静かだ」は形容動詞で、「静かな」は名詞を修飾する連体形です。",
+      "tags": [
+        "品詞",
+        "形容動詞"
+      ]
+    },
+    {
+      "id": "junior-high-1-005",
+      "level": "junior-high-1",
+      "subject": "japanese",
+      "category": "reading-comprehension",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "「雨が強くなった。そこで、私たちは試合を中止した。」の「そこで」が表す関係を選びなさい。",
+      "choices": [
+        "逆接",
+        "原因・結果",
+        "並列",
+        "例示"
+      ],
+      "answer": "原因・結果",
+      "explanation": "雨が強くなったことを受け、その結果として試合を中止した関係です。",
+      "tags": [
+        "接続語",
+        "文章読解"
+      ]
+    },
+    {
+      "id": "junior-high-1-006",
+      "level": "junior-high-1",
+      "subject": "japanese",
+      "category": "kanji",
+      "difficulty": 3,
+      "type": "text",
+      "question": "「意見のソウイ点を明らかにする」の「ソウイ」を漢字で書きなさい。",
+      "answer": "相違",
+      "explanation": "「相違」は、二つのものの間に違いがあることを意味します。",
+      "tags": [
+        "漢字",
+        "語彙"
+      ]
+    },
+    {
+      "id": "junior-high-1-007",
+      "level": "junior-high-1",
+      "subject": "science",
+      "category": "plants",
+      "difficulty": 1,
+      "type": "multiple-choice",
+      "question": "被子植物で、受粉後に果実になる部分はどれですか？",
+      "choices": [
+        "柱頭",
+        "胚珠",
+        "子房",
+        "やく"
+      ],
+      "answer": "子房",
+      "explanation": "受粉・受精後、子房は果実に、胚珠は種子になります。",
+      "tags": [
+        "植物",
+        "花のつくり"
+      ]
+    },
+    {
+      "id": "junior-high-1-008",
+      "level": "junior-high-1",
+      "subject": "science",
+      "category": "density",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "質量54g、体積20cm³の物質の密度は何g/cm³ですか？",
+      "answer": 2.7,
+      "explanation": "密度 = 質量 ÷ 体積なので、54 ÷ 20 = 2.7g/cm³です。",
+      "tags": [
+        "密度",
+        "物質"
+      ]
+    },
+    {
+      "id": "junior-high-1-009",
+      "level": "junior-high-1",
+      "subject": "science",
+      "category": "light",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "光が鏡で反射するとき、入射角と反射角の関係として正しいものを選びなさい。",
+      "choices": [
+        "入射角の方が大きい",
+        "反射角の方が大きい",
+        "常に等しい",
+        "鏡の材質だけで決まる"
+      ],
+      "answer": "常に等しい",
+      "explanation": "反射の法則により、入射角と反射角は等しくなります。",
+      "tags": [
+        "光",
+        "反射の法則"
+      ]
+    },
+    {
+      "id": "junior-high-1-010",
+      "level": "junior-high-1",
+      "subject": "social-studies",
+      "category": "geography",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "日本で標準時の基準となる東経135度の経線が通る都市を選びなさい。",
+      "choices": [
+        "札幌市",
+        "明石市",
+        "長崎市",
+        "那覇市"
+      ],
+      "answer": "明石市",
+      "explanation": "兵庫県明石市を通る東経135度の経線が、日本標準時の基準です。",
+      "tags": [
+        "日本地理",
+        "標準時"
+      ]
+    },
+    {
+      "id": "junior-high-1-011",
+      "level": "junior-high-1",
+      "subject": "social-studies",
+      "category": "ancient-history",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "聖徳太子が定めたとされる、役人の心構えを示したきまりはどれですか？",
+      "choices": [
+        "十七条の憲法",
+        "御成敗式目",
+        "武家諸法度",
+        "五箇条の御誓文"
+      ],
+      "answer": "十七条の憲法",
+      "explanation": "十七条の憲法は、役人の道徳や政治に臨む心構えを示したものです。",
+      "tags": [
+        "日本史",
+        "飛鳥時代"
+      ]
+    },
+    {
+      "id": "junior-high-1-012",
+      "level": "junior-high-1",
+      "subject": "english",
+      "category": "be-verbs",
+      "difficulty": 1,
+      "type": "multiple-choice",
+      "question": "空欄に入る語を選びなさい。She (　) my sister.",
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "主語Sheは三人称単数なので、be動詞はisを使います。",
+      "tags": [
+        "be動詞",
+        "三人称単数"
+      ]
+    },
+    {
+      "id": "junior-high-1-013",
+      "level": "junior-high-1",
+      "subject": "english",
+      "category": "present-tense",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "空欄に入る語を選びなさい。Ken (　) soccer every Sunday.",
+      "choices": [
+        "play",
+        "plays",
+        "playing",
+        "played"
+      ],
+      "answer": "plays",
+      "explanation": "主語Kenは三人称単数で、every Sundayは現在の習慣を表すためplaysを使います。",
+      "tags": [
+        "一般動詞",
+        "三単現"
+      ]
+    },
+    {
+      "id": "junior-high-1-014",
+      "level": "junior-high-1",
+      "subject": "logic",
+      "category": "deduction",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "すべてのバラは花です。この植物はバラです。必ず言えることを選びなさい。",
+      "choices": [
+        "この植物は赤い",
+        "この植物は花である",
+        "すべての花はバラである",
+        "この植物にはとげがある"
+      ],
+      "answer": "この植物は花である",
+      "explanation": "「すべてのバラは花」と「この植物はバラ」から、この植物は花だと結論できます。",
+      "tags": [
+        "演繹",
+        "三段論法"
+      ]
+    },
+    {
+      "id": "junior-high-1-015",
+      "level": "junior-high-1",
+      "subject": "logic",
+      "category": "sequences",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "数列 2、5、11、23、47、？ の「？」に入る数を答えなさい。",
+      "answer": 95,
+      "explanation": "前の数を2倍して1を足す規則なので、47 × 2 + 1 = 95です。",
+      "tags": [
+        "数列",
+        "規則性"
+      ]
+    },
+    {
+      "id": "junior-high-2-001",
+      "level": "junior-high-2",
+      "subject": "math",
+      "category": "simultaneous-equations",
+      "difficulty": 2,
+      "type": "text",
+      "question": "連立方程式 x + y = 7、x - y = 1 を解き、xとyを「x=○, y=○」の形で答えなさい。",
+      "answer": "x=4, y=3",
+      "explanation": "2式を加えると2x = 8なのでx = 4です。x + y = 7に代入するとy = 3です。",
+      "tags": [
+        "連立方程式",
+        "加減法"
+      ]
+    },
+    {
+      "id": "junior-high-2-002",
+      "level": "junior-high-2",
+      "subject": "math",
+      "category": "linear-functions",
+      "difficulty": 3,
+      "type": "text",
+      "question": "2点 (1, 3)、(3, 7) を通る直線の式を「y=ax+b」の形で答えなさい。",
+      "answer": "y=2x+1",
+      "explanation": "傾きは(7 - 3) ÷ (3 - 1) = 2です。y = 2x + bに(1, 3)を代入するとb = 1です。",
+      "tags": [
+        "一次関数",
+        "傾き",
+        "切片"
+      ]
+    },
+    {
+      "id": "junior-high-2-003",
+      "level": "junior-high-2",
+      "subject": "math",
+      "category": "geometry",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "二等辺三角形の頂角が40°のとき、底角1つの大きさは何度ですか？",
+      "answer": 70,
+      "explanation": "三角形の内角の和は180°で、2つの底角は等しいため、(180 - 40) ÷ 2 = 70°です。",
+      "tags": [
+        "図形",
+        "二等辺三角形",
+        "角度"
+      ]
+    },
+    {
+      "id": "junior-high-2-004",
+      "level": "junior-high-2",
+      "subject": "japanese",
+      "category": "classical-japanese",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "古文の「いとをかし」の意味として最も適切なものを選びなさい。",
+      "choices": [
+        "とても趣がある",
+        "まったく面白くない",
+        "たいへん恐ろしい",
+        "少し腹立たしい"
+      ],
+      "answer": "とても趣がある",
+      "explanation": "「いと」は「とても」、「をかし」は「趣がある・すばらしい」などを意味します。",
+      "tags": [
+        "古文",
+        "古語"
+      ]
+    },
+    {
+      "id": "junior-high-2-005",
+      "level": "junior-high-2",
+      "subject": "japanese",
+      "category": "grammar",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "「弟は本を読みながら、音楽を聴いている。」の「ながら」と同じ働きをするものを選びなさい。",
+      "choices": [
+        "小さいながら力が強い",
+        "歩きながら話す",
+        "残念ながら欠席する",
+        "昔ながらの町並み"
+      ],
+      "answer": "歩きながら話す",
+      "explanation": "問題文の「ながら」は、二つの動作が同時に行われることを表します。「歩きながら話す」も同じ用法です。",
+      "tags": [
+        "文法",
+        "助詞",
+        "用法"
+      ]
+    },
+    {
+      "id": "junior-high-2-006",
+      "level": "junior-high-2",
+      "subject": "japanese",
+      "category": "rhetoric",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "「風が窓をたたいている」に使われている表現技法を選びなさい。",
+      "choices": [
+        "直喩",
+        "擬人法",
+        "反復法",
+        "倒置法"
+      ],
+      "answer": "擬人法",
+      "explanation": "風という自然現象を、人が窓をたたくように表現しているため擬人法です。",
+      "tags": [
+        "表現技法",
+        "擬人法"
+      ]
+    },
+    {
+      "id": "junior-high-2-007",
+      "level": "junior-high-2",
+      "subject": "science",
+      "category": "chemical-reactions",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "酸化銀を加熱したときに発生する気体はどれですか？",
+      "choices": [
+        "水素",
+        "酸素",
+        "二酸化炭素",
+        "窒素"
+      ],
+      "answer": "酸素",
+      "explanation": "酸化銀は加熱により銀と酸素に分解されます。",
+      "tags": [
+        "化学変化",
+        "分解",
+        "酸化銀"
+      ]
+    },
+    {
+      "id": "junior-high-2-008",
+      "level": "junior-high-2",
+      "subject": "science",
+      "category": "electricity",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "6Vの電圧を3Ωの抵抗に加えたとき、流れる電流は何Aですか？",
+      "answer": 2,
+      "explanation": "オームの法則I = V ÷ Rより、6 ÷ 3 = 2Aです。",
+      "tags": [
+        "電流",
+        "オームの法則"
+      ]
+    },
+    {
+      "id": "junior-high-2-009",
+      "level": "junior-high-2",
+      "subject": "science",
+      "category": "human-body",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "小腸の内側に多数の柔毛がある主な理由を選びなさい。",
+      "choices": [
+        "食物を細かく砕くため",
+        "表面積を広げて養分を吸収しやすくするため",
+        "体温を下げるため",
+        "酸素を取り込むため"
+      ],
+      "answer": "表面積を広げて養分を吸収しやすくするため",
+      "explanation": "多数の柔毛によって小腸の表面積が広がり、消化された養分を効率よく吸収できます。",
+      "tags": [
+        "人体",
+        "消化と吸収",
+        "小腸"
+      ]
+    },
+    {
+      "id": "junior-high-2-010",
+      "level": "junior-high-2",
+      "subject": "social-studies",
+      "category": "early-modern-history",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "江戸幕府が大名を統制するため、江戸と領地を往復させた制度は何ですか？",
+      "choices": [
+        "班田収授法",
+        "参勤交代",
+        "廃藩置県",
+        "地租改正"
+      ],
+      "answer": "参勤交代",
+      "explanation": "参勤交代は大名を一定期間江戸に住まわせ、領地との往復を義務づけた制度です。",
+      "tags": [
+        "日本史",
+        "江戸時代"
+      ]
+    },
+    {
+      "id": "junior-high-2-011",
+      "level": "junior-high-2",
+      "subject": "social-studies",
+      "category": "japanese-geography",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "冬に日本海側で雪が多くなる主な理由として正しいものを選びなさい。",
+      "choices": [
+        "季節風が日本海で水蒸気を含み、山地で上昇するため",
+        "太平洋から乾いた風が吹くため",
+        "赤道から暖流だけが流れ込むため",
+        "梅雨前線が一年中停滞するため"
+      ],
+      "answer": "季節風が日本海で水蒸気を含み、山地で上昇するため",
+      "explanation": "北西の季節風が日本海上で水蒸気を含み、日本列島の山地で上昇・冷却されて雪を降らせます。",
+      "tags": [
+        "日本地理",
+        "気候",
+        "季節風"
+      ]
+    },
+    {
+      "id": "junior-high-2-012",
+      "level": "junior-high-2",
+      "subject": "english",
+      "category": "comparatives",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "空欄に入る語を選びなさい。This river is (　) than that one.",
+      "choices": [
+        "long",
+        "longer",
+        "longest",
+        "more long"
+      ],
+      "answer": "longer",
+      "explanation": "thanがあるため比較級を使います。longの比較級はlongerです。",
+      "tags": [
+        "比較級",
+        "形容詞"
+      ]
+    },
+    {
+      "id": "junior-high-2-013",
+      "level": "junior-high-2",
+      "subject": "english",
+      "category": "infinitives",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "文「I went to the library to study English.」のto studyと同じ用法のものを選びなさい。",
+      "choices": [
+        "I want to read this book.",
+        "I have a lot of homework to do.",
+        "She got up early to catch the train.",
+        "To play tennis is fun."
+      ],
+      "answer": "She got up early to catch the train.",
+      "explanation": "問題文のto studyは目的を表す副詞的用法です。to catchも「電車に乗るために」という目的を表します。",
+      "tags": [
+        "不定詞",
+        "副詞的用法"
+      ]
+    },
+    {
+      "id": "junior-high-2-014",
+      "level": "junior-high-2",
+      "subject": "logic",
+      "category": "conditional-reasoning",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "「雨が降れば、試合は中止になる」が真です。試合が中止にならなかったとき、必ず言えることを選びなさい。",
+      "choices": [
+        "雨は降らなかった",
+        "雨は降った",
+        "風が強かった",
+        "会場が変更された"
+      ],
+      "answer": "雨は降らなかった",
+      "explanation": "「雨ならば中止」の対偶は「中止でないならば雨でない」で、元の命題と同じ真偽になります。",
+      "tags": [
+        "条件命題",
+        "対偶"
+      ]
+    },
+    {
+      "id": "junior-high-2-015",
+      "level": "junior-high-2",
+      "subject": "logic",
+      "category": "counting",
+      "difficulty": 5,
+      "type": "numeric",
+      "question": "A、B、C、Dの4人が一列に並びます。AとBが隣り合わない並び方は何通りありますか？",
+      "answer": 12,
+      "explanation": "全体は4! = 24通りです。AとBが隣り合う並びは、ABを1組と考えて3! × 2 = 12通りなので、24 - 12 = 12通りです。",
+      "tags": [
+        "場合の数",
+        "順列"
+      ]
+    },
+    {
+      "id": "junior-high-3-001",
+      "level": "junior-high-3",
+      "subject": "math",
+      "category": "square-roots",
+      "difficulty": 2,
+      "type": "text",
+      "question": "√48 - √12 を簡単にしなさい。",
+      "answer": "2√3",
+      "explanation": "√48 = 4√3、√12 = 2√3なので、4√3 - 2√3 = 2√3です。",
+      "tags": [
+        "平方根",
+        "根号"
+      ]
+    },
+    {
+      "id": "junior-high-3-002",
+      "level": "junior-high-3",
+      "subject": "math",
+      "category": "quadratic-equations",
+      "difficulty": 3,
+      "type": "text",
+      "question": "二次方程式 x² - 5x + 6 = 0 を解き、解を小さい順にカンマで区切って答えなさい。",
+      "answer": "2, 3",
+      "explanation": "左辺を因数分解すると(x - 2)(x - 3) = 0となるため、x = 2、3です。",
+      "tags": [
+        "二次方程式",
+        "因数分解"
+      ]
+    },
+    {
+      "id": "junior-high-3-003",
+      "level": "junior-high-3",
+      "subject": "math",
+      "category": "pythagorean-theorem",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "直角をはさむ2辺の長さが6cmと8cmの直角三角形で、斜辺の長さは何cmですか？",
+      "answer": 10,
+      "explanation": "三平方の定理より、斜辺² = 6² + 8² = 100なので、斜辺は10cmです。",
+      "tags": [
+        "三平方の定理",
+        "直角三角形"
+      ]
+    },
+    {
+      "id": "junior-high-3-004",
+      "level": "junior-high-3",
+      "subject": "japanese",
+      "category": "classical-japanese",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "古文の助動詞「けり」が文末で用いられたときの代表的な意味を選びなさい。",
+      "choices": [
+        "打消",
+        "過去・詠嘆",
+        "推量",
+        "可能"
+      ],
+      "answer": "過去・詠嘆",
+      "explanation": "助動詞「けり」は、過去または詠嘆を表すのが代表的です。文脈で判別します。",
+      "tags": [
+        "古文",
+        "助動詞"
+      ]
+    },
+    {
+      "id": "junior-high-3-005",
+      "level": "junior-high-3",
+      "subject": "japanese",
+      "category": "reading-comprehension",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "「便利さは時間を生む。しかし、生まれた時間をどう使うかまでは、道具は教えてくれない。」という文で筆者が最も強調していることを選びなさい。",
+      "choices": [
+        "便利な道具は使うべきでない",
+        "道具があれば時間の使い方も決まる",
+        "生まれた時間の使い方は人が考える必要がある",
+        "時間を生む道具は存在しない"
+      ],
+      "answer": "生まれた時間の使い方は人が考える必要がある",
+      "explanation": "「どう使うかまでは、道具は教えてくれない」という対比から、人自身の判断の必要性が読み取れます。",
+      "tags": [
+        "論説文",
+        "要旨"
+      ]
+    },
+    {
+      "id": "junior-high-3-006",
+      "level": "junior-high-3",
+      "subject": "japanese",
+      "category": "idioms",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "慣用句「水を差す」の意味として正しいものを選びなさい。",
+      "choices": [
+        "勢いよく応援する",
+        "うまくいっていることを邪魔する",
+        "秘密を守り通す",
+        "考えを完全に変える"
+      ],
+      "answer": "うまくいっていることを邪魔する",
+      "explanation": "「水を差す」は、順調な物事や仲のよい関係を邪魔することを意味します。",
+      "tags": [
+        "慣用句",
+        "語彙"
+      ]
+    },
+    {
+      "id": "junior-high-3-007",
+      "level": "junior-high-3",
+      "subject": "science",
+      "category": "genetics",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "生物の形質を伝える遺伝情報の本体として正しいものを選びなさい。",
+      "choices": [
+        "デンプン",
+        "DNA",
+        "脂肪",
+        "酸素"
+      ],
+      "answer": "DNA",
+      "explanation": "DNAは遺伝情報を担う物質で、遺伝子はDNAの一部です。",
+      "tags": [
+        "遺伝",
+        "DNA"
+      ]
+    },
+    {
+      "id": "junior-high-3-008",
+      "level": "junior-high-3",
+      "subject": "science",
+      "category": "ions",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "塩化銅水溶液を電気分解したとき、陰極に付着する物質はどれですか？",
+      "choices": [
+        "銅",
+        "塩素",
+        "酸素",
+        "炭素"
+      ],
+      "answer": "銅",
+      "explanation": "陽イオンである銅イオンが陰極で電子を受け取り、銅になります。",
+      "tags": [
+        "イオン",
+        "電気分解"
+      ]
+    },
+    {
+      "id": "junior-high-3-009",
+      "level": "junior-high-3",
+      "subject": "science",
+      "category": "astronomy",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "地球から見て、太陽が星座の間を西から東へ少しずつ移動して見える主な理由は何ですか？",
+      "choices": [
+        "地球の自転",
+        "地球の公転",
+        "月の公転",
+        "太陽の自転"
+      ],
+      "answer": "地球の公転",
+      "explanation": "地球が太陽の周りを公転するため、背景の星座に対する太陽の位置が一年かけて移動して見えます。",
+      "tags": [
+        "天体",
+        "地球の公転",
+        "年周運動"
+      ]
+    },
+    {
+      "id": "junior-high-3-010",
+      "level": "junior-high-3",
+      "subject": "social-studies",
+      "category": "civics",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "日本国憲法で国会は「国権の最高機関」であると同時に、何と定められていますか？",
+      "choices": [
+        "唯一の立法機関",
+        "最高の司法機関",
+        "行政の最高機関",
+        "地方自治の機関"
+      ],
+      "answer": "唯一の立法機関",
+      "explanation": "日本国憲法第41条は、国会を国権の最高機関であり、国の唯一の立法機関と定めています。",
+      "tags": [
+        "公民",
+        "日本国憲法",
+        "国会"
+      ]
+    },
+    {
+      "id": "junior-high-3-011",
+      "level": "junior-high-3",
+      "subject": "social-studies",
+      "category": "modern-history",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "次の出来事を古い順に並べたものを選びなさい。A：日清戦争、B：大政奉還、C：普通選挙法の制定",
+      "choices": [
+        "A→B→C",
+        "B→A→C",
+        "B→C→A",
+        "C→A→B"
+      ],
+      "answer": "B→A→C",
+      "explanation": "大政奉還は1867年、日清戦争は1894〜1895年、普通選挙法は1925年です。",
+      "tags": [
+        "日本史",
+        "近現代",
+        "年代整序"
+      ]
+    },
+    {
+      "id": "junior-high-3-012",
+      "level": "junior-high-3",
+      "subject": "english",
+      "category": "present-perfect",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "空欄に入る語を選びなさい。I have lived here (　) five years.",
+      "choices": [
+        "since",
+        "for",
+        "from",
+        "during"
+      ],
+      "answer": "for",
+      "explanation": "five yearsは期間を表すためforを使います。sinceは開始時点を表す語句とともに使います。",
+      "tags": [
+        "現在完了",
+        "継続",
+        "前置詞"
+      ]
+    },
+    {
+      "id": "junior-high-3-013",
+      "level": "junior-high-3",
+      "subject": "english",
+      "category": "relative-pronouns",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "空欄に入る語を選びなさい。This is the book (　) my teacher recommended.",
+      "choices": [
+        "who",
+        "whose",
+        "that",
+        "where"
+      ],
+      "answer": "that",
+      "explanation": "先行詞the bookは物で、空欄はrecommendedの目的語になるため、目的格の関係代名詞thatが適切です。",
+      "tags": [
+        "関係代名詞",
+        "目的格"
+      ]
+    },
+    {
+      "id": "junior-high-3-014",
+      "level": "junior-high-3",
+      "subject": "logic",
+      "category": "probability-reasoning",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "1から6までの目が出る公平なさいころを2回投げます。出た目の和が7になる確率を分数で表したとき、分子はいくつですか？（分数は約分すること）",
+      "answer": 1,
+      "explanation": "和が7になる組は6通りで、全36通り中6通りです。6/36を約分すると1/6なので分子は1です。",
+      "tags": [
+        "確率",
+        "場合分け"
+      ]
+    },
+    {
+      "id": "junior-high-3-015",
+      "level": "junior-high-3",
+      "subject": "logic",
+      "category": "constraint-satisfaction",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "A、B、Cの3人のうち、正直者は1人だけです。A「Bは正直者だ」、B「Cは正直者ではない」、C「Aはうそつきだ」。正直者は誰ですか？",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "特定できない"
+      ],
+      "answer": "C",
+      "explanation": "Cだけが正直者なら、「Aはうそつき」は真です。Aの発言は偽なのでBは正直者でなく、Bの発言も偽なのでCは正直者となり、すべて整合します。",
+      "tags": [
+        "論理パズル",
+        "真偽"
+      ]
+    },
+    {
+      "id": "junior-high-3-016",
+      "level": "junior-high-3",
+      "subject": "math",
+      "category": "statistics",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "データ 4、6、6、8、11 の中央値を求めなさい。",
+      "answer": 6,
+      "explanation": "小さい順に並んだ5個の中央、3番目の値は6です。",
+      "tags": [
+        "統計",
+        "中央値"
+      ]
+    },
+    {
+      "id": "junior-high-3-017",
+      "level": "junior-high-3",
+      "subject": "japanese",
+      "category": "grammar",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "「先生に褒められる」の「られる」の意味を選びなさい。",
+      "choices": [
+        "受け身",
+        "可能",
+        "自発",
+        "尊敬"
+      ],
+      "answer": "受け身",
+      "explanation": "褒める動作を受けることを表すため、受け身です。",
+      "tags": [
+        "文法",
+        "助動詞"
+      ]
+    },
+    {
+      "id": "junior-high-3-018",
+      "level": "junior-high-3",
+      "subject": "science",
+      "category": "energy",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "質量2kgの物体を3m持ち上げたときの位置エネルギーは何Jですか。重力加速度は10N/kgとします。",
+      "answer": 60,
+      "explanation": "位置エネルギーは質量×重力加速度×高さなので、2×10×3=60Jです。",
+      "tags": [
+        "力学的エネルギー",
+        "位置エネルギー"
+      ]
+    },
+    {
+      "id": "junior-high-3-019",
+      "level": "junior-high-3",
+      "subject": "social-studies",
+      "category": "economics",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "需要が変わらないまま供給量が減少したとき、一般に価格はどうなりますか？",
+      "choices": [
+        "上昇する",
+        "下落する",
+        "必ず0になる",
+        "変化しない"
+      ],
+      "answer": "上昇する",
+      "explanation": "品不足になるため、一般に均衡価格は上昇します。",
+      "tags": [
+        "公民",
+        "市場価格"
+      ]
+    },
+    {
+      "id": "junior-high-3-020",
+      "level": "junior-high-3",
+      "subject": "english",
+      "category": "passive-voice",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "空欄に入る語を選びなさい。This bridge was (　) in 1990.",
+      "choices": [
+        "build",
+        "built",
+        "building",
+        "builds"
+      ],
+      "answer": "built",
+      "explanation": "受け身はbe動詞＋過去分詞で表し、buildの過去分詞はbuiltです。",
+      "tags": [
+        "受動態",
+        "過去分詞"
+      ]
+    }
+  ]
+}
