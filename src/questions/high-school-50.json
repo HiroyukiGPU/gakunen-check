@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": "high-school-001",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "math",
       "category": "linear-equations",
       "difficulty": 1,
@@ -18,7 +18,7 @@
     },
     {
       "id": "high-school-002",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "math",
       "category": "linear-equations",
       "difficulty": 2,
@@ -33,7 +33,7 @@
     },
     {
       "id": "high-school-003",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "math",
       "category": "linear-equations",
       "difficulty": 3,
@@ -48,7 +48,7 @@
     },
     {
       "id": "high-school-004",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "math",
       "category": "linear-equations",
       "difficulty": 1,
@@ -63,7 +63,7 @@
     },
     {
       "id": "high-school-005",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "math",
       "category": "linear-equations",
       "difficulty": 2,
@@ -78,7 +78,7 @@
     },
     {
       "id": "high-school-006",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "math",
       "category": "linear-equations",
       "difficulty": 3,
@@ -93,7 +93,7 @@
     },
     {
       "id": "high-school-007",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "math",
       "category": "linear-equations",
       "difficulty": 1,
@@ -108,7 +108,7 @@
     },
     {
       "id": "high-school-008",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "math",
       "category": "linear-equations",
       "difficulty": 2,
@@ -123,7 +123,7 @@
     },
     {
       "id": "high-school-009",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "math",
       "category": "linear-equations",
       "difficulty": 3,
@@ -138,7 +138,7 @@
     },
     {
       "id": "high-school-010",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "math",
       "category": "linear-equations",
       "difficulty": 1,
@@ -153,7 +153,7 @@
     },
     {
       "id": "high-school-011",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "physics",
       "category": "electricity",
       "difficulty": 2,
@@ -168,7 +168,7 @@
     },
     {
       "id": "high-school-012",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "physics",
       "category": "electricity",
       "difficulty": 3,
@@ -183,7 +183,7 @@
     },
     {
       "id": "high-school-013",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "physics",
       "category": "electricity",
       "difficulty": 4,
@@ -198,7 +198,7 @@
     },
     {
       "id": "high-school-014",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "physics",
       "category": "electricity",
       "difficulty": 2,
@@ -213,7 +213,7 @@
     },
     {
       "id": "high-school-015",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "physics",
       "category": "electricity",
       "difficulty": 3,
@@ -228,7 +228,7 @@
     },
     {
       "id": "high-school-016",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "physics",
       "category": "electricity",
       "difficulty": 4,
@@ -243,7 +243,7 @@
     },
     {
       "id": "high-school-017",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "physics",
       "category": "electricity",
       "difficulty": 2,
@@ -258,7 +258,7 @@
     },
     {
       "id": "high-school-018",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "physics",
       "category": "electricity",
       "difficulty": 3,
@@ -273,7 +273,7 @@
     },
     {
       "id": "high-school-019",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "physics",
       "category": "electricity",
       "difficulty": 4,
@@ -288,7 +288,7 @@
     },
     {
       "id": "high-school-020",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "physics",
       "category": "electricity",
       "difficulty": 2,
@@ -303,7 +303,7 @@
     },
     {
       "id": "high-school-021",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "chemistry",
       "category": "amount-of-substance",
       "difficulty": 2,
@@ -318,7 +318,7 @@
     },
     {
       "id": "high-school-022",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "chemistry",
       "category": "amount-of-substance",
       "difficulty": 3,
@@ -333,7 +333,7 @@
     },
     {
       "id": "high-school-023",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "chemistry",
       "category": "amount-of-substance",
       "difficulty": 4,
@@ -348,7 +348,7 @@
     },
     {
       "id": "high-school-024",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "chemistry",
       "category": "amount-of-substance",
       "difficulty": 2,
@@ -363,7 +363,7 @@
     },
     {
       "id": "high-school-025",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "chemistry",
       "category": "amount-of-substance",
       "difficulty": 3,
@@ -378,7 +378,7 @@
     },
     {
       "id": "high-school-026",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "chemistry",
       "category": "amount-of-substance",
       "difficulty": 4,
@@ -393,7 +393,7 @@
     },
     {
       "id": "high-school-027",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "chemistry",
       "category": "amount-of-substance",
       "difficulty": 2,
@@ -408,7 +408,7 @@
     },
     {
       "id": "high-school-028",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "chemistry",
       "category": "amount-of-substance",
       "difficulty": 3,
@@ -423,7 +423,7 @@
     },
     {
       "id": "high-school-029",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "chemistry",
       "category": "amount-of-substance",
       "difficulty": 4,
@@ -438,7 +438,7 @@
     },
     {
       "id": "high-school-030",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "chemistry",
       "category": "amount-of-substance",
       "difficulty": 2,
@@ -453,7 +453,7 @@
     },
     {
       "id": "high-school-031",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "english",
       "category": "grammar",
       "difficulty": 2,
@@ -474,7 +474,7 @@
     },
     {
       "id": "high-school-032",
-      "level": "high-school",
+      "level": "high-school-2",
       "subject": "english",
       "category": "grammar",
       "difficulty": 3,
@@ -495,7 +495,7 @@
     },
     {
       "id": "high-school-033",
-      "level": "high-school",
+      "level": "high-school-3",
       "subject": "english",
       "category": "grammar",
       "difficulty": 4,
@@ -516,7 +516,7 @@
     },
     {
       "id": "high-school-034",
-      "level": "high-school",
+      "level": "high-school-3",
       "subject": "english",
       "category": "grammar",
       "difficulty": 5,
@@ -537,7 +537,7 @@
     },
     {
       "id": "high-school-035",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "english",
       "category": "grammar",
       "difficulty": 2,
@@ -558,7 +558,7 @@
     },
     {
       "id": "high-school-036",
-      "level": "high-school",
+      "level": "high-school-2",
       "subject": "english",
       "category": "grammar",
       "difficulty": 3,
@@ -579,7 +579,7 @@
     },
     {
       "id": "high-school-037",
-      "level": "high-school",
+      "level": "high-school-3",
       "subject": "english",
       "category": "grammar",
       "difficulty": 4,
@@ -600,7 +600,7 @@
     },
     {
       "id": "high-school-038",
-      "level": "high-school",
+      "level": "high-school-3",
       "subject": "english",
       "category": "grammar",
       "difficulty": 5,
@@ -621,7 +621,7 @@
     },
     {
       "id": "high-school-039",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "english",
       "category": "grammar",
       "difficulty": 2,
@@ -642,7 +642,7 @@
     },
     {
       "id": "high-school-040",
-      "level": "high-school",
+      "level": "high-school-2",
       "subject": "english",
       "category": "grammar",
       "difficulty": 3,
@@ -663,7 +663,7 @@
     },
     {
       "id": "high-school-041",
-      "level": "high-school",
+      "level": "high-school-2",
       "subject": "japanese",
       "category": "classical-japanese",
       "difficulty": 3,
@@ -684,7 +684,7 @@
     },
     {
       "id": "high-school-042",
-      "level": "high-school",
+      "level": "high-school-2",
       "subject": "japanese",
       "category": "rhetoric",
       "difficulty": 4,
@@ -705,7 +705,7 @@
     },
     {
       "id": "high-school-043",
-      "level": "high-school",
+      "level": "high-school-3",
       "subject": "japanese",
       "category": "kanbun",
       "difficulty": 5,
@@ -726,7 +726,7 @@
     },
     {
       "id": "high-school-044",
-      "level": "high-school",
+      "level": "high-school-2",
       "subject": "history",
       "category": "japanese-history",
       "difficulty": 3,
@@ -747,7 +747,7 @@
     },
     {
       "id": "high-school-045",
-      "level": "high-school",
+      "level": "high-school-2",
       "subject": "history",
       "category": "world-history",
       "difficulty": 4,
@@ -768,7 +768,7 @@
     },
     {
       "id": "high-school-046",
-      "level": "high-school",
+      "level": "high-school-3",
       "subject": "geography",
       "category": "climate",
       "difficulty": 5,
@@ -789,7 +789,7 @@
     },
     {
       "id": "high-school-047",
-      "level": "high-school",
+      "level": "high-school-2",
       "subject": "civics",
       "category": "constitution",
       "difficulty": 3,
@@ -810,7 +810,7 @@
     },
     {
       "id": "high-school-048",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "biology",
       "category": "genetics",
       "difficulty": 4,
@@ -831,7 +831,7 @@
     },
     {
       "id": "high-school-049",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "information",
       "category": "algorithms",
       "difficulty": 5,
@@ -852,7 +852,7 @@
     },
     {
       "id": "high-school-050",
-      "level": "high-school",
+      "level": "high-school-1",
       "subject": "logic",
       "category": "propositions",
       "difficulty": 3,

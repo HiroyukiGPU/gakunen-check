@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": "university-001",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "calculus",
       "difficulty": 4,
@@ -18,7 +18,7 @@
     },
     {
       "id": "university-002",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "calculus",
       "difficulty": 2,
@@ -33,7 +33,7 @@
     },
     {
       "id": "university-003",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "calculus",
       "difficulty": 3,
@@ -48,7 +48,7 @@
     },
     {
       "id": "university-004",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "calculus",
       "difficulty": 4,
@@ -63,7 +63,7 @@
     },
     {
       "id": "university-005",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "calculus",
       "difficulty": 2,
@@ -78,7 +78,7 @@
     },
     {
       "id": "university-006",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "calculus",
       "difficulty": 3,
@@ -93,7 +93,7 @@
     },
     {
       "id": "university-007",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "calculus",
       "difficulty": 4,
@@ -108,7 +108,7 @@
     },
     {
       "id": "university-008",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "calculus",
       "difficulty": 2,
@@ -123,7 +123,7 @@
     },
     {
       "id": "university-009",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "calculus",
       "difficulty": 3,
@@ -138,7 +138,7 @@
     },
     {
       "id": "university-010",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "calculus",
       "difficulty": 4,
@@ -153,7 +153,7 @@
     },
     {
       "id": "university-011",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "linear-algebra",
       "difficulty": 2,
@@ -168,7 +168,7 @@
     },
     {
       "id": "university-012",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "linear-algebra",
       "difficulty": 3,
@@ -183,7 +183,7 @@
     },
     {
       "id": "university-013",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "linear-algebra",
       "difficulty": 4,
@@ -198,7 +198,7 @@
     },
     {
       "id": "university-014",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "linear-algebra",
       "difficulty": 5,
@@ -213,7 +213,7 @@
     },
     {
       "id": "university-015",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "linear-algebra",
       "difficulty": 2,
@@ -228,7 +228,7 @@
     },
     {
       "id": "university-016",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "linear-algebra",
       "difficulty": 3,
@@ -243,7 +243,7 @@
     },
     {
       "id": "university-017",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "linear-algebra",
       "difficulty": 4,
@@ -258,7 +258,7 @@
     },
     {
       "id": "university-018",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "linear-algebra",
       "difficulty": 5,
@@ -273,7 +273,7 @@
     },
     {
       "id": "university-019",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "linear-algebra",
       "difficulty": 2,
@@ -288,7 +288,7 @@
     },
     {
       "id": "university-020",
-      "level": "university",
+      "level": "university-1",
       "subject": "mathematics",
       "category": "linear-algebra",
       "difficulty": 3,
@@ -303,7 +303,7 @@
     },
     {
       "id": "university-021",
-      "level": "university",
+      "level": "university-1",
       "subject": "statistics",
       "category": "descriptive-statistics",
       "difficulty": 1,
@@ -318,7 +318,7 @@
     },
     {
       "id": "university-022",
-      "level": "university",
+      "level": "university-1",
       "subject": "statistics",
       "category": "descriptive-statistics",
       "difficulty": 2,
@@ -333,7 +333,7 @@
     },
     {
       "id": "university-023",
-      "level": "university",
+      "level": "university-1",
       "subject": "statistics",
       "category": "descriptive-statistics",
       "difficulty": 3,
@@ -348,7 +348,7 @@
     },
     {
       "id": "university-024",
-      "level": "university",
+      "level": "university-1",
       "subject": "statistics",
       "category": "descriptive-statistics",
       "difficulty": 4,
@@ -363,7 +363,7 @@
     },
     {
       "id": "university-025",
-      "level": "university",
+      "level": "university-1",
       "subject": "statistics",
       "category": "descriptive-statistics",
       "difficulty": 1,
@@ -378,7 +378,7 @@
     },
     {
       "id": "university-026",
-      "level": "university",
+      "level": "university-1",
       "subject": "statistics",
       "category": "descriptive-statistics",
       "difficulty": 2,
@@ -393,7 +393,7 @@
     },
     {
       "id": "university-027",
-      "level": "university",
+      "level": "university-1",
       "subject": "statistics",
       "category": "descriptive-statistics",
       "difficulty": 3,
@@ -408,7 +408,7 @@
     },
     {
       "id": "university-028",
-      "level": "university",
+      "level": "university-1",
       "subject": "statistics",
       "category": "descriptive-statistics",
       "difficulty": 4,
@@ -423,7 +423,7 @@
     },
     {
       "id": "university-029",
-      "level": "university",
+      "level": "university-1",
       "subject": "statistics",
       "category": "descriptive-statistics",
       "difficulty": 1,
@@ -438,7 +438,7 @@
     },
     {
       "id": "university-030",
-      "level": "university",
+      "level": "university-1",
       "subject": "statistics",
       "category": "descriptive-statistics",
       "difficulty": 2,
@@ -453,7 +453,7 @@
     },
     {
       "id": "university-031",
-      "level": "university",
+      "level": "university-1",
       "subject": "computer-science",
       "category": "number-systems",
       "difficulty": 1,
@@ -468,7 +468,7 @@
     },
     {
       "id": "university-032",
-      "level": "university",
+      "level": "university-1",
       "subject": "computer-science",
       "category": "number-systems",
       "difficulty": 2,
@@ -483,7 +483,7 @@
     },
     {
       "id": "university-033",
-      "level": "university",
+      "level": "university-1",
       "subject": "computer-science",
       "category": "number-systems",
       "difficulty": 3,
@@ -498,7 +498,7 @@
     },
     {
       "id": "university-034",
-      "level": "university",
+      "level": "university-1",
       "subject": "computer-science",
       "category": "number-systems",
       "difficulty": 4,
@@ -513,7 +513,7 @@
     },
     {
       "id": "university-035",
-      "level": "university",
+      "level": "university-1",
       "subject": "computer-science",
       "category": "number-systems",
       "difficulty": 1,
@@ -528,7 +528,7 @@
     },
     {
       "id": "university-036",
-      "level": "university",
+      "level": "university-1",
       "subject": "computer-science",
       "category": "number-systems",
       "difficulty": 2,
@@ -543,7 +543,7 @@
     },
     {
       "id": "university-037",
-      "level": "university",
+      "level": "university-1",
       "subject": "computer-science",
       "category": "number-systems",
       "difficulty": 3,
@@ -558,7 +558,7 @@
     },
     {
       "id": "university-038",
-      "level": "university",
+      "level": "university-1",
       "subject": "computer-science",
       "category": "number-systems",
       "difficulty": 4,
@@ -573,7 +573,7 @@
     },
     {
       "id": "university-039",
-      "level": "university",
+      "level": "university-1",
       "subject": "computer-science",
       "category": "number-systems",
       "difficulty": 1,
@@ -588,7 +588,7 @@
     },
     {
       "id": "university-040",
-      "level": "university",
+      "level": "university-1",
       "subject": "computer-science",
       "category": "number-systems",
       "difficulty": 2,
@@ -603,7 +603,7 @@
     },
     {
       "id": "university-041",
-      "level": "university",
+      "level": "university-2",
       "subject": "economics",
       "category": "microeconomics",
       "difficulty": 3,
@@ -624,7 +624,7 @@
     },
     {
       "id": "university-042",
-      "level": "university",
+      "level": "university-2",
       "subject": "economics",
       "category": "macroeconomics",
       "difficulty": 4,
@@ -645,7 +645,7 @@
     },
     {
       "id": "university-043",
-      "level": "university",
+      "level": "university-2",
       "subject": "physics",
       "category": "mechanics",
       "difficulty": 5,
@@ -666,7 +666,7 @@
     },
     {
       "id": "university-044",
-      "level": "university",
+      "level": "university-2",
       "subject": "philosophy",
       "category": "epistemology",
       "difficulty": 3,
@@ -687,7 +687,7 @@
     },
     {
       "id": "university-045",
-      "level": "university",
+      "level": "university-3",
       "subject": "research-methods",
       "category": "measurement",
       "difficulty": 4,
@@ -708,7 +708,7 @@
     },
     {
       "id": "university-046",
-      "level": "university",
+      "level": "university-4",
       "subject": "academic-english",
       "category": "writing",
       "difficulty": 5,
@@ -729,7 +729,7 @@
     },
     {
       "id": "university-047",
-      "level": "university",
+      "level": "university-2",
       "subject": "computer-science",
       "category": "algorithms",
       "difficulty": 3,
@@ -750,7 +750,7 @@
     },
     {
       "id": "university-048",
-      "level": "university",
+      "level": "university-3",
       "subject": "statistics",
       "category": "hypothesis-testing",
       "difficulty": 4,
@@ -771,7 +771,7 @@
     },
     {
       "id": "university-049",
-      "level": "university",
+      "level": "university-3",
       "subject": "biology",
       "category": "evolution",
       "difficulty": 5,
@@ -792,7 +792,7 @@
     },
     {
       "id": "university-050",
-      "level": "university",
+      "level": "university-2",
       "subject": "law",
       "category": "legal-reasoning",
       "difficulty": 3,

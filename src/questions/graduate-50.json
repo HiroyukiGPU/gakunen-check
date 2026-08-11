@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": "graduate-001",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "statistics",
       "category": "confidence-intervals",
       "difficulty": 3,
@@ -18,7 +18,7 @@
     },
     {
       "id": "graduate-002",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "statistics",
       "category": "confidence-intervals",
       "difficulty": 4,
@@ -33,7 +33,7 @@
     },
     {
       "id": "graduate-003",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "statistics",
       "category": "confidence-intervals",
       "difficulty": 5,
@@ -48,7 +48,7 @@
     },
     {
       "id": "graduate-004",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "statistics",
       "category": "confidence-intervals",
       "difficulty": 3,
@@ -63,7 +63,7 @@
     },
     {
       "id": "graduate-005",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "statistics",
       "category": "confidence-intervals",
       "difficulty": 4,
@@ -78,7 +78,7 @@
     },
     {
       "id": "graduate-006",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "statistics",
       "category": "confidence-intervals",
       "difficulty": 5,
@@ -93,7 +93,7 @@
     },
     {
       "id": "graduate-007",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "statistics",
       "category": "confidence-intervals",
       "difficulty": 3,
@@ -108,7 +108,7 @@
     },
     {
       "id": "graduate-008",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "statistics",
       "category": "confidence-intervals",
       "difficulty": 4,
@@ -123,7 +123,7 @@
     },
     {
       "id": "graduate-009",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "statistics",
       "category": "confidence-intervals",
       "difficulty": 5,
@@ -138,7 +138,7 @@
     },
     {
       "id": "graduate-010",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "statistics",
       "category": "confidence-intervals",
       "difficulty": 3,
@@ -153,7 +153,7 @@
     },
     {
       "id": "graduate-011",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "machine-learning",
       "category": "evaluation",
       "difficulty": 3,
@@ -169,7 +169,7 @@
     },
     {
       "id": "graduate-012",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "machine-learning",
       "category": "evaluation",
       "difficulty": 4,
@@ -185,7 +185,7 @@
     },
     {
       "id": "graduate-013",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "machine-learning",
       "category": "evaluation",
       "difficulty": 5,
@@ -201,7 +201,7 @@
     },
     {
       "id": "graduate-014",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "machine-learning",
       "category": "evaluation",
       "difficulty": 3,
@@ -217,7 +217,7 @@
     },
     {
       "id": "graduate-015",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "machine-learning",
       "category": "evaluation",
       "difficulty": 4,
@@ -233,7 +233,7 @@
     },
     {
       "id": "graduate-016",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "machine-learning",
       "category": "evaluation",
       "difficulty": 5,
@@ -249,7 +249,7 @@
     },
     {
       "id": "graduate-017",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "machine-learning",
       "category": "evaluation",
       "difficulty": 3,
@@ -265,7 +265,7 @@
     },
     {
       "id": "graduate-018",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "machine-learning",
       "category": "evaluation",
       "difficulty": 4,
@@ -281,7 +281,7 @@
     },
     {
       "id": "graduate-019",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "machine-learning",
       "category": "evaluation",
       "difficulty": 5,
@@ -297,7 +297,7 @@
     },
     {
       "id": "graduate-020",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "machine-learning",
       "category": "evaluation",
       "difficulty": 3,
@@ -313,7 +313,7 @@
     },
     {
       "id": "graduate-021",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "optimization",
       "category": "gradients",
       "difficulty": 2,
@@ -328,7 +328,7 @@
     },
     {
       "id": "graduate-022",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "optimization",
       "category": "gradients",
       "difficulty": 3,
@@ -343,7 +343,7 @@
     },
     {
       "id": "graduate-023",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "optimization",
       "category": "gradients",
       "difficulty": 4,
@@ -358,7 +358,7 @@
     },
     {
       "id": "graduate-024",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "optimization",
       "category": "gradients",
       "difficulty": 5,
@@ -373,7 +373,7 @@
     },
     {
       "id": "graduate-025",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "optimization",
       "category": "gradients",
       "difficulty": 2,
@@ -388,7 +388,7 @@
     },
     {
       "id": "graduate-026",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "optimization",
       "category": "gradients",
       "difficulty": 3,
@@ -403,7 +403,7 @@
     },
     {
       "id": "graduate-027",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "optimization",
       "category": "gradients",
       "difficulty": 4,
@@ -418,7 +418,7 @@
     },
     {
       "id": "graduate-028",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "optimization",
       "category": "gradients",
       "difficulty": 5,
@@ -433,7 +433,7 @@
     },
     {
       "id": "graduate-029",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "optimization",
       "category": "gradients",
       "difficulty": 2,
@@ -448,7 +448,7 @@
     },
     {
       "id": "graduate-030",
-      "level": "graduate",
+      "level": "graduate-master-1",
       "subject": "optimization",
       "category": "gradients",
       "difficulty": 3,
@@ -463,7 +463,7 @@
     },
     {
       "id": "graduate-031",
-      "level": "graduate",
+      "level": "graduate-master-2",
       "subject": "causal-inference",
       "category": "identification",
       "difficulty": 4,
@@ -484,7 +484,7 @@
     },
     {
       "id": "graduate-032",
-      "level": "graduate",
+      "level": "graduate-master-2",
       "subject": "causal-inference",
       "category": "randomization",
       "difficulty": 5,
@@ -505,7 +505,7 @@
     },
     {
       "id": "graduate-033",
-      "level": "graduate",
+      "level": "graduate-master-2",
       "subject": "research-methods",
       "category": "preregistration",
       "difficulty": 4,
@@ -526,7 +526,7 @@
     },
     {
       "id": "graduate-034",
-      "level": "graduate",
+      "level": "graduate-master-2",
       "subject": "research-methods",
       "category": "power",
       "difficulty": 5,
@@ -547,7 +547,7 @@
     },
     {
       "id": "graduate-035",
-      "level": "graduate",
+      "level": "graduate-master-2",
       "subject": "research-ethics",
       "category": "informed-consent",
       "difficulty": 4,
@@ -568,7 +568,7 @@
     },
     {
       "id": "graduate-036",
-      "level": "graduate",
+      "level": "graduate-master-2",
       "subject": "research-ethics",
       "category": "authorship",
       "difficulty": 5,
@@ -589,7 +589,7 @@
     },
     {
       "id": "graduate-037",
-      "level": "graduate",
+      "level": "graduate-master-2",
       "subject": "academic-writing",
       "category": "claims",
       "difficulty": 4,
@@ -610,7 +610,7 @@
     },
     {
       "id": "graduate-038",
-      "level": "graduate",
+      "level": "graduate-master-2",
       "subject": "academic-writing",
       "category": "literature-review",
       "difficulty": 5,
@@ -631,7 +631,7 @@
     },
     {
       "id": "graduate-039",
-      "level": "graduate",
+      "level": "graduate-master-2",
       "subject": "open-science",
       "category": "reproducibility",
       "difficulty": 4,
@@ -652,7 +652,7 @@
     },
     {
       "id": "graduate-040",
-      "level": "graduate",
+      "level": "graduate-master-2",
       "subject": "peer-review",
       "category": "evaluation",
       "difficulty": 5,
@@ -673,7 +673,7 @@
     },
     {
       "id": "graduate-041",
-      "level": "graduate",
+      "level": "graduate-doctoral",
       "subject": "distributed-systems",
       "category": "consensus",
       "difficulty": 4,
@@ -694,7 +694,7 @@
     },
     {
       "id": "graduate-042",
-      "level": "graduate",
+      "level": "graduate-doctoral",
       "subject": "machine-learning",
       "category": "regularization",
       "difficulty": 5,
@@ -715,7 +715,7 @@
     },
     {
       "id": "graduate-043",
-      "level": "graduate",
+      "level": "graduate-doctoral",
       "subject": "statistics",
       "category": "multiple-testing",
       "difficulty": 4,
@@ -736,7 +736,7 @@
     },
     {
       "id": "graduate-044",
-      "level": "graduate",
+      "level": "graduate-doctoral",
       "subject": "bayesian-statistics",
       "category": "posterior",
       "difficulty": 5,
@@ -757,7 +757,7 @@
     },
     {
       "id": "graduate-045",
-      "level": "graduate",
+      "level": "graduate-doctoral",
       "subject": "qualitative-research",
       "category": "saturation",
       "difficulty": 4,
@@ -778,7 +778,7 @@
     },
     {
       "id": "graduate-046",
-      "level": "graduate",
+      "level": "graduate-doctoral",
       "subject": "optimization",
       "category": "convexity",
       "difficulty": 5,
@@ -799,7 +799,7 @@
     },
     {
       "id": "graduate-047",
-      "level": "graduate",
+      "level": "graduate-doctoral",
       "subject": "causal-inference",
       "category": "difference-in-differences",
       "difficulty": 4,
@@ -820,7 +820,7 @@
     },
     {
       "id": "graduate-048",
-      "level": "graduate",
+      "level": "graduate-doctoral",
       "subject": "research-design",
       "category": "external-validity",
       "difficulty": 5,
@@ -841,7 +841,7 @@
     },
     {
       "id": "graduate-049",
-      "level": "graduate",
+      "level": "graduate-doctoral",
       "subject": "information-theory",
       "category": "entropy",
       "difficulty": 4,
@@ -862,7 +862,7 @@
     },
     {
       "id": "graduate-050",
-      "level": "graduate",
+      "level": "graduate-master-2",
       "subject": "logic",
       "category": "fallacies",
       "difficulty": 5,
