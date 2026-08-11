@@ -23,8 +23,8 @@
       "choices": [
         "凝縮",
         "蒸発",
-        "凝固",
-        "融解"
+        "融解",
+        "凝固"
       ],
       "answer": "融解",
       "explanation": "固体が液体に変わる変化を融解といいます。"
@@ -49,10 +49,10 @@
       "type": "multiple-choice",
       "question": "\"I ___ a student.\" に入る正しい語はどれですか？",
       "choices": [
-        "am",
-        "is",
+        "are",
         "be",
-        "are"
+        "is",
+        "am"
       ],
       "answer": "am",
       "explanation": "主語がIのとき、be動詞はamを使います。"

@@ -20,7 +20,12 @@
       "difficulty": 2,
       "type": "multiple-choice",
       "question": "「あ」からはじまる言葉はどれですか？",
-      "choices": ["あめ", "いぬ", "うみ", "えき"],
+      "choices": [
+        "えき",
+        "いぬ",
+        "うみ",
+        "あめ"
+      ],
       "answer": "あめ",
       "explanation": "「あめ」は「あ」から始まる言葉です。"
     },

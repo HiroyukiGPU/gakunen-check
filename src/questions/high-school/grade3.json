@@ -23,8 +23,8 @@
       "type": "multiple-choice",
       "question": "運動量 = 質量 × ？",
       "choices": [
-        "エネルギー",
         "力",
+        "エネルギー",
         "速度",
         "加速度"
       ],

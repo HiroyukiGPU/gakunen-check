@@ -22,9 +22,9 @@
       "type": "multiple-choice",
       "question": "塩化ナトリウムが水に溶けるとNa⁺と何イオンに分かれますか？",
       "choices": [
-        "H⁺",
         "OH⁻",
         "Cl⁻",
+        "H⁺",
         "SO₄²⁻"
       ],
       "answer": "Cl⁻",

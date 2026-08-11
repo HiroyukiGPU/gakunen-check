@@ -145,10 +145,10 @@
       "type": "multiple-choice",
       "question": "空欄に入る最も適切な語句を選びなさい。If I (　) enough time, I would travel around the world.",
       "choices": [
-        "have",
+        "am having",
         "had",
         "will have",
-        "am having"
+        "have"
       ],
       "answer": "had",
       "explanation": "仮定法過去ではif節に過去形を使います。",
@@ -166,10 +166,10 @@
       "type": "multiple-choice",
       "question": "空欄に入る最も適切な語句を選びなさい。The book (　) by many students last year.",
       "choices": [
-        "reads",
-        "was read",
         "has read",
-        "is reading"
+        "is reading",
+        "was read",
+        "reads"
       ],
       "answer": "was read",
       "explanation": "過去の受動態はwas/were＋過去分詞です。",
@@ -187,10 +187,10 @@
       "type": "multiple-choice",
       "question": "空欄に入る最も適切な語句を選びなさい。He is interested (　) environmental problems.",
       "choices": [
-        "at",
+        "for",
         "on",
-        "in",
-        "for"
+        "at",
+        "in"
       ],
       "answer": "in",
       "explanation": "be interested inで「〜に興味がある」です。",
@@ -208,10 +208,10 @@
       "type": "multiple-choice",
       "question": "空欄に入る最も適切な語句を選びなさい。No other mountain in Japan is (　) than Mt. Fuji.",
       "choices": [
-        "high",
         "higher",
-        "highest",
-        "the higher"
+        "the higher",
+        "high",
+        "highest"
       ],
       "answer": "higher",
       "explanation": "thanに対応する比較級higherを使います。",
@@ -230,8 +230,8 @@
       "question": "空欄に入る最も適切な語句を選びなさい。I remember (　) her at the station.",
       "choices": [
         "meet",
-        "to meet",
         "meeting",
+        "to meet",
         "met"
       ],
       "answer": "meeting",
@@ -251,8 +251,8 @@
       "question": "空欄に入る最も適切な語句を選びなさい。The man (　) lives next door is a doctor.",
       "choices": [
         "which",
-        "who",
         "where",
+        "who",
         "whose"
       ],
       "answer": "who",
@@ -271,10 +271,10 @@
       "type": "multiple-choice",
       "question": "空欄に入る最も適切な語句を選びなさい。It is important for us (　) different cultures.",
       "choices": [
-        "understand",
         "understood",
-        "to understand",
-        "understanding"
+        "understand",
+        "understanding",
+        "to understand"
       ],
       "answer": "to understand",
       "explanation": "It is ... for 人 to doの構文です。",
@@ -292,10 +292,10 @@
       "type": "multiple-choice",
       "question": "空欄に入る最も適切な語句を選びなさい。By the time we arrived, the movie (　).",
       "choices": [
-        "starts",
-        "has started",
         "had started",
-        "will start"
+        "has started",
+        "will start",
+        "starts"
       ],
       "answer": "had started",
       "explanation": "到着より前に始まっていたため過去完了を使います。",
@@ -315,8 +315,8 @@
       "choices": [
         "fluent",
         "fluently",
-        "more fluent",
-        "most fluently"
+        "most fluently",
+        "more fluent"
       ],
       "answer": "fluently",
       "explanation": "動詞speaksを修飾し、as ... asに入る副詞の原級はfluentlyです。",
@@ -334,9 +334,9 @@
       "type": "multiple-choice",
       "question": "空欄に入る最も適切な語句を選びなさい。You (　) have told me earlier; I could have helped.",
       "choices": [
-        "should",
         "must",
         "can",
+        "should",
         "will"
       ],
       "answer": "should",
@@ -355,10 +355,10 @@
       "type": "multiple-choice",
       "question": "古文の「いみじ」の代表的な意味はどれですか？",
       "choices": [
-        "すばらしい・ひどい",
-        "静かだ",
-        "新しい",
-        "小さい"
+        "とても小さいようす",
+        "とても静かなようす",
+        "とても新しいようす",
+        "すばらしい・ひどい"
       ],
       "answer": "すばらしい・ひどい",
       "explanation": "「いみじ」は程度が甚だしいことを表し、文脈により良い意味にも悪い意味にもなります。",
@@ -377,9 +377,9 @@
       "question": "「まるで宝石のような星」に使われた表現技法は？",
       "choices": [
         "直喩",
+        "倒置法",
         "隠喩",
-        "擬人法",
-        "倒置法"
+        "擬人法"
       ],
       "answer": "直喩",
       "explanation": "「ような」を用いて直接たとえているため直喩です。",
@@ -397,10 +397,10 @@
       "type": "multiple-choice",
       "question": "漢文の返り点「レ点」の読み方として正しいものは？",
       "choices": [
+        "返り点があっても読まない",
         "直後の一字を読んでから戻る",
-        "二字先まで読んで戻る",
-        "必ず読まない",
-        "文末から読む"
+        "二字先まで読んでから戻る",
+        "文末から順に読んでいく"
       ],
       "answer": "直後の一字を読んでから戻る",
       "explanation": "レ点は、その下の一字を先に読み、直前の字へ戻る記号です。",
@@ -418,9 +418,9 @@
       "type": "multiple-choice",
       "question": "大日本帝国憲法が発布された年は？",
       "choices": [
+        "1894年",
         "1868年",
         "1889年",
-        "1894年",
         "1946年"
       ],
       "answer": "1889年",
@@ -439,10 +439,10 @@
       "type": "multiple-choice",
       "question": "フランス革命が始まった年は？",
       "choices": [
+        "1815年",
         "1688年",
         "1776年",
-        "1789年",
-        "1815年"
+        "1789年"
       ],
       "answer": "1789年",
       "explanation": "バスティーユ牢獄襲撃が起きた1789年が革命の開始年とされます。",
@@ -460,10 +460,10 @@
       "type": "multiple-choice",
       "question": "地中海性気候の特徴として正しいものは？",
       "choices": [
-        "年中多雨",
         "夏に乾燥し冬に雨が多い",
-        "年中乾燥",
-        "冬に乾燥し夏に雨が多い"
+        "年中多雨",
+        "冬に乾燥し夏に雨が多い",
+        "年中乾燥"
       ],
       "answer": "夏に乾燥し冬に雨が多い",
       "explanation": "亜熱帯高圧帯と偏西風の季節移動により、夏は乾燥し冬に降水があります。",
@@ -483,8 +483,8 @@
       "choices": [
         "個別責任のみ",
         "連帯責任",
-        "無責任",
-        "司法責任"
+        "司法責任",
+        "無責任"
       ],
       "answer": "連帯責任",
       "explanation": "憲法第66条3項により、内閣は行政権の行使について国会に対し連帯して責任を負います。",
@@ -502,8 +502,8 @@
       "type": "multiple-choice",
       "question": "DNAでアデニンと対をつくる塩基は？",
       "choices": [
-        "グアニン",
         "シトシン",
+        "グアニン",
         "チミン",
         "ウラシル"
       ],
@@ -523,10 +523,10 @@
       "type": "multiple-choice",
       "question": "二分探索を使うために、対象データに必要な前提は？",
       "choices": [
+        "文字列であること",
         "暗号化されていること",
-        "整列されていること",
         "重複がないこと",
-        "文字列であること"
+        "整列されていること"
       ],
       "answer": "整列されていること",
       "explanation": "二分探索は大小関係で探索範囲を半分にするため、データの整列が必要です。",
@@ -544,9 +544,9 @@
       "type": "multiple-choice",
       "question": "命題「PならばQ」の対偶は？",
       "choices": [
-        "QならばP",
-        "PでないならばQでない",
         "QでないならばPでない",
+        "PでないならばQでない",
+        "QならばP",
         "PかつQ"
       ],
       "answer": "QでないならばPでない",

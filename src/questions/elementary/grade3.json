@@ -41,10 +41,10 @@
       "type": "multiple-choice",
       "question": "日本の首都はどこですか？",
       "choices": [
-        "大阪",
+        "名古屋",
         "東京",
         "京都",
-        "名古屋"
+        "大阪"
       ],
       "answer": "東京",
       "explanation": "日本の首都は東京です。"

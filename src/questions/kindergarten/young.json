@@ -10,10 +10,10 @@
       "type": "multiple-choice",
       "question": "赤いものはどれですか？",
       "choices": [
-        "そら",
         "りんご",
+        "バナナ",
         "くさ",
-        "バナナ"
+        "そら"
       ],
       "answer": "りんご",
       "explanation": "りんごは赤い色をしています。",
