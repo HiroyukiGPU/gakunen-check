@@ -88,21 +88,6 @@
       ]
     },
     {
-      "id": "junior-high-1-006",
-      "level": "junior-high-1",
-      "subject": "japanese",
-      "category": "kanji",
-      "difficulty": 3,
-      "type": "text",
-      "question": "「意見のソウイ点を明らかにする」の「ソウイ」を漢字で書きなさい。",
-      "answer": "相違",
-      "explanation": "「相違」は、二つのものの間に違いがあることを意味します。",
-      "tags": [
-        "漢字",
-        "語彙"
-      ]
-    },
-    {
       "id": "junior-high-1-007",
       "level": "junior-high-1",
       "subject": "science",
