@@ -238,8 +238,8 @@
       "difficulty": 2,
       "type": "numeric",
       "question": "総量100のうち20%にあたる量を、10で割った値はいくつですか？",
-      "answer": 5,
-      "explanation": "100×20/100=50で、それを10で割ると5です。",
+      "answer": 2,
+      "explanation": "100×20/100=20で、それを10で割ると2です。",
       "tags": [
         "地理",
         "資料読解",
@@ -254,13 +254,14 @@
       "difficulty": 3,
       "type": "numeric",
       "question": "総量120のうち30%にあたる量を、10で割った値はいくつですか？",
-      "answer": 4,
-      "explanation": "120×30/100=40で、それを10で割ると4です。",
+      "answer": 3.6,
+      "explanation": "120×30/100=36で、それを10で割ると3.6です。",
       "tags": [
         "地理",
         "資料読解",
         "割合"
-      ]
+      ],
+      "tolerance": 0.01
     },
     {
       "id": "high-school-science-social-038",
@@ -270,13 +271,14 @@
       "difficulty": 4,
       "type": "numeric",
       "question": "総量150のうち25%にあたる量を、10で割った値はいくつですか？",
-      "answer": 6,
-      "explanation": "150×25/100=60で、それを10で割ると6です。",
+      "answer": 3.75,
+      "explanation": "150×25/100=37.5で、それを10で割ると3.75です。",
       "tags": [
         "地理",
         "資料読解",
         "割合"
-      ]
+      ],
+      "tolerance": 0.01
     },
     {
       "id": "high-school-science-social-046",
