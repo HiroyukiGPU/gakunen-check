@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "university4-math-001",
+      "level": "university-4",
+      "subject": "math",
+      "category": "linear-algebra",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "行列 [[2,0],[0,3]] の固有値の積はいくつですか？",
+      "answer": 6
+    },
+    {
+      "id": "university4-programming-001",
+      "level": "university-4",
+      "subject": "programming",
+      "category": "algorithms",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "n入力に対して時間計算量が最も大きくなるのはどれですか？",
+      "choices": ["O(n!)", "O(2^n)", "O(n²)", "O(n log n)"],
+      "answer": "O(n!)"
+    },
+    {
+      "id": "university4-research-001",
+      "level": "university-4",
+      "subject": "research",
+      "category": "statistics",
+      "difficulty": 3,
+      "type": "true-false",
+      "question": "p値が0.05未満であれば、必ず実験結果が正しいと証明される。",
+      "answer": false
+    },
+    {
+      "id": "university4-statistics-001",
+      "level": "university-4",
+      "subject": "statistics",
+      "category": "regression",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "回帰分析における決定係数R²の範囲はどれですか？",
+      "choices": ["0以上1以下", "-1以上1以下", "0以上100以下", "制限なし"],
+      "answer": "0以上1以下"
+    }
+  ]
+}

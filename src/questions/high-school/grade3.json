@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "high-school3-math-001",
+      "level": "high-school-3",
+      "subject": "math",
+      "category": "calculus",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "次の定積分の値を求めてください（小数第2位まで）。",
+      "latex": "\\int_0^1 x^2\\,dx",
+      "answer": 0.33,
+      "tolerance": 0.01
+    },
+    {
+      "id": "high-school3-science-001",
+      "level": "high-school-3",
+      "subject": "science",
+      "category": "physics",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "運動量 = 質量 × ？",
+      "choices": ["速度", "加速度", "力", "エネルギー"],
+      "answer": "速度"
+    },
+    {
+      "id": "high-school3-statistics-001",
+      "level": "high-school-3",
+      "subject": "statistics",
+      "category": "distribution",
+      "difficulty": 4,
+      "type": "multiple-select",
+      "question": "正規分布の特徴としてあてはまるものをすべて選んでください。",
+      "choices": ["左右対称である", "平均と中央値が一致する", "常に平均は0である", "裾が指数関数的に減少する"],
+      "answer": ["左右対称である", "平均と中央値が一致する", "裾が指数関数的に減少する"]
+    },
+    {
+      "id": "high-school3-research-001",
+      "level": "high-school-3",
+      "subject": "research",
+      "category": "experiment-design",
+      "difficulty": 3,
+      "type": "true-false",
+      "question": "対照実験では、調べたい要因以外の条件をそろえる。",
+      "answer": true
+    }
+  ]
+}

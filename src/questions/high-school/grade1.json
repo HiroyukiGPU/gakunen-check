@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "high-school1-math-001",
+      "level": "high-school-1",
+      "subject": "math",
+      "category": "factoring",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "次の式を因数分解してください。",
+      "latex": "x^2 - 5x + 6",
+      "choices": ["(x-2)(x-3)", "(x+2)(x+3)", "(x-1)(x-6)", "(x+1)(x-6)"],
+      "answer": "(x-2)(x-3)"
+    },
+    {
+      "id": "high-school1-math-002",
+      "level": "high-school-1",
+      "subject": "math",
+      "category": "trigonometry",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "sin30°の値はいくつですか？",
+      "answer": 0.5,
+      "tolerance": 0.01
+    },
+    {
+      "id": "high-school1-science-001",
+      "level": "high-school-1",
+      "subject": "science",
+      "category": "physics",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "等速直線運動で速さが一定のとき、移動距離は時間に対しどうなりますか？",
+      "choices": ["比例する", "反比例する", "時間の2乗に比例する", "無関係である"],
+      "answer": "比例する"
+    },
+    {
+      "id": "high-school1-social-001",
+      "level": "high-school-1",
+      "subject": "social",
+      "category": "civics",
+      "difficulty": 3,
+      "type": "true-false",
+      "question": "衆議院は参議院より任期が短い。",
+      "answer": true
+    },
+    {
+      "id": "high-school1-logic-001",
+      "level": "high-school-1",
+      "subject": "logic",
+      "category": "number-theory",
+      "difficulty": 3,
+      "type": "multiple-select",
+      "question": "素数をすべて選んでください。",
+      "choices": ["11", "15", "17", "21", "23"],
+      "answer": ["11", "17", "23"]
+    }
+  ]
+}

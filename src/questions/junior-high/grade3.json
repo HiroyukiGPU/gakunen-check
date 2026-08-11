@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "junior-high3-math-001",
+      "level": "junior-high-3",
+      "subject": "math",
+      "category": "quadratic-equation",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "次の方程式の解のうち、小さい方の値はいくつですか？",
+      "latex": "x^2 - 5x + 6 = 0",
+      "answer": 2
+    },
+    {
+      "id": "junior-high3-science-001",
+      "level": "junior-high-3",
+      "subject": "science",
+      "category": "chemistry",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "塩化ナトリウムが水に溶けるとNa⁺と何イオンに分かれますか？",
+      "choices": ["Cl⁻", "OH⁻", "H⁺", "SO₄²⁻"],
+      "answer": "Cl⁻"
+    },
+    {
+      "id": "junior-high3-social-001",
+      "level": "junior-high-3",
+      "subject": "social",
+      "category": "geography",
+      "difficulty": 3,
+      "type": "multiple-select",
+      "question": "日本の三大都市圏に含まれる都市をすべて選んでください。",
+      "choices": ["東京", "大阪", "名古屋", "札幌", "福岡"],
+      "answer": ["東京", "大阪", "名古屋"]
+    },
+    {
+      "id": "junior-high3-english-001",
+      "level": "junior-high-3",
+      "subject": "english",
+      "category": "grammar",
+      "difficulty": 3,
+      "type": "true-false",
+      "question": "\"I have lived here for 10 years.\" は文法的に正しい文である。",
+      "answer": true
+    }
+  ]
+}

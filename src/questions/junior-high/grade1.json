@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "junior-high1-math-001",
+      "level": "junior-high-1",
+      "subject": "math",
+      "category": "equation",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "2x + 3 = 11 のとき、xの値はいくつですか？",
+      "answer": 4
+    },
+    {
+      "id": "junior-high1-science-001",
+      "level": "junior-high-1",
+      "subject": "science",
+      "category": "states-of-matter",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "氷が水になる状態変化を何といいますか？",
+      "choices": ["融解", "凝固", "蒸発", "凝縮"],
+      "answer": "融解"
+    },
+    {
+      "id": "junior-high1-social-001",
+      "level": "junior-high-1",
+      "subject": "social",
+      "category": "geography",
+      "difficulty": 2,
+      "type": "true-false",
+      "question": "日本は火山が多い国である。",
+      "answer": true
+    },
+    {
+      "id": "junior-high1-english-001",
+      "level": "junior-high-1",
+      "subject": "english",
+      "category": "grammar",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "\"I ___ a student.\" に入る正しい語はどれですか？",
+      "choices": ["am", "is", "are", "be"],
+      "answer": "am"
+    },
+    {
+      "id": "junior-high1-logic-001",
+      "level": "junior-high-1",
+      "subject": "logic",
+      "category": "number",
+      "difficulty": 2,
+      "type": "multiple-select",
+      "question": "偶数をすべて選んでください。",
+      "choices": ["3", "4", "6", "9", "10"],
+      "answer": ["4", "6", "10"]
+    },
+    {
+      "id": "junior-high1-japanese-001",
+      "level": "junior-high-1",
+      "subject": "japanese",
+      "category": "reading",
+      "difficulty": 1,
+      "type": "text",
+      "question": "「花」の読み方をひらがなで答えてください。",
+      "answer": "はな"
+    }
+  ]
+}

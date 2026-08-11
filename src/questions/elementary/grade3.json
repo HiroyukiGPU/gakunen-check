@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "elementary3-math-001",
+      "level": "elementary-3",
+      "subject": "math",
+      "category": "division",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "240 ÷ 6 はいくつですか？",
+      "answer": 40
+    },
+    {
+      "id": "elementary3-science-001",
+      "level": "elementary-3",
+      "subject": "science",
+      "category": "insects",
+      "difficulty": 4,
+      "type": "multiple-select",
+      "question": "昆虫はどれですか？あてはまるものをすべて選んでください。",
+      "choices": ["アリ", "クモ", "チョウ", "ダンゴムシ"],
+      "answer": ["アリ", "チョウ"],
+      "explanation": "クモやダンゴムシは昆虫ではありません。昆虫は体が3つの部分に分かれ、あしが6本です。"
+    },
+    {
+      "id": "elementary3-social-001",
+      "level": "elementary-3",
+      "subject": "social",
+      "category": "geography",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "日本の首都はどこですか？",
+      "choices": ["大阪", "京都", "東京", "名古屋"],
+      "answer": "東京"
+    }
+  ]
+}

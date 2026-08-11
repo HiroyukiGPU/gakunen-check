@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "kindergarten-old-math-001",
+      "level": "kindergarten-old",
+      "subject": "math",
+      "category": "addition",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "5 + 3 は いくつですか？",
+      "answer": 8
+    },
+    {
+      "id": "kindergarten-old-japanese-001",
+      "level": "kindergarten-old",
+      "subject": "japanese",
+      "category": "vocabulary",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "「あ」からはじまる言葉はどれですか？",
+      "choices": ["あめ", "いぬ", "うみ", "えき"],
+      "answer": "あめ"
+    },
+    {
+      "id": "kindergarten-old-math-002",
+      "level": "kindergarten-old",
+      "subject": "math",
+      "category": "subtraction",
+      "difficulty": 3,
+      "type": "text",
+      "question": "10から4をひくと いくつですか？",
+      "answer": "6"
+    }
+  ]
+}

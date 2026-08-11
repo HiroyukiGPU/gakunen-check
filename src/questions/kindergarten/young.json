@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "kindergarten-young-general-001",
+      "level": "kindergarten-young",
+      "subject": "general",
+      "category": "color",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "赤いものはどれですか？",
+      "choices": ["りんご", "そら", "くさ", "バナナ"],
+      "answer": "りんご",
+      "explanation": "りんごは赤い色をしています。",
+      "tags": ["color", "everyday"]
+    },
+    {
+      "id": "kindergarten-young-math-001",
+      "level": "kindergarten-young",
+      "subject": "math",
+      "category": "counting",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "りんごが2こ、みかんが1こあります。あわせてなんこですか？",
+      "answer": 3,
+      "explanation": "2 + 1 = 3 です。"
+    },
+    {
+      "id": "kindergarten-young-general-002",
+      "level": "kindergarten-young",
+      "subject": "general",
+      "category": "animals",
+      "difficulty": 1,
+      "type": "true-false",
+      "question": "いぬは あしが4本ある。",
+      "answer": true,
+      "explanation": "いぬの あしは4本です。"
+    }
+  ]
+}

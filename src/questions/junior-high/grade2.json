@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "junior-high2-math-001",
+      "level": "junior-high-2",
+      "subject": "math",
+      "category": "function",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "y = 2x + 1 のとき、x = 3 のときのyの値はいくつですか？",
+      "answer": 7
+    },
+    {
+      "id": "junior-high2-science-001",
+      "level": "junior-high-2",
+      "subject": "science",
+      "category": "biology",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "光合成によって作られる気体はどれですか？",
+      "choices": ["酸素", "二酸化炭素", "窒素", "水素"],
+      "answer": "酸素"
+    },
+    {
+      "id": "junior-high2-social-001",
+      "level": "junior-high-2",
+      "subject": "social",
+      "category": "civics",
+      "difficulty": 4,
+      "type": "multiple-select",
+      "question": "三権分立の「三権」に含まれるものをすべて選んでください。",
+      "choices": ["立法権", "行政権", "司法権", "課税権"],
+      "answer": ["立法権", "行政権", "司法権"]
+    },
+    {
+      "id": "junior-high2-english-001",
+      "level": "junior-high-2",
+      "subject": "english",
+      "category": "grammar",
+      "difficulty": 3,
+      "type": "true-false",
+      "question": "\"There is a cat under the table.\" という文は現在完了形である。",
+      "answer": false,
+      "explanation": "この文は現在形（There is + 名詞）です。"
+    },
+    {
+      "id": "junior-high2-statistics-001",
+      "level": "junior-high-2",
+      "subject": "statistics",
+      "category": "probability",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "さいころを1回投げて偶数の目が出る確率を小数で答えてください。",
+      "answer": 0.5,
+      "tolerance": 0.01
+    }
+  ]
+}

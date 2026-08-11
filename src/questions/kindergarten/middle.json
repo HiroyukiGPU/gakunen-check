@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "kindergarten-middle-math-001",
+      "level": "kindergarten-middle",
+      "subject": "math",
+      "category": "counting",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "りんごが3こあります。あと2こもらいました。ぜんぶでなんこですか？",
+      "answer": 5,
+      "explanation": "3 + 2 = 5 です。"
+    },
+    {
+      "id": "kindergarten-middle-general-001",
+      "level": "kindergarten-middle",
+      "subject": "general",
+      "category": "shapes",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "さんかくの形はどれですか？",
+      "choices": ["まる", "しかく", "さんかく", "ほし"],
+      "answer": "さんかく",
+      "explanation": "3本の線でできている形が「さんかく」です。"
+    },
+    {
+      "id": "kindergarten-middle-general-002",
+      "level": "kindergarten-middle",
+      "subject": "general",
+      "category": "nature",
+      "difficulty": 2,
+      "type": "true-false",
+      "question": "たいようは よるに出る。",
+      "answer": false,
+      "explanation": "たいようは あさから ひるに出て、よるは出ません。"
+    }
+  ]
+}

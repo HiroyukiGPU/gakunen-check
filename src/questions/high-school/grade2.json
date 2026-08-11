@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "high-school2-math-001",
+      "level": "high-school-2",
+      "subject": "math",
+      "category": "calculus",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "f(x) = x² のとき、f'(3) の値はいくつですか？",
+      "latex": "f(x) = x^2",
+      "answer": 6
+    },
+    {
+      "id": "high-school2-science-001",
+      "level": "high-school-2",
+      "subject": "science",
+      "category": "chemistry",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "0.5molの水分子の個数はおよそ何個ですか？（アボガドロ数を6.0×10²³とする）",
+      "choices": ["3.0×10²³", "6.0×10²³", "1.2×10²⁴", "3.0×10²²"],
+      "answer": "3.0×10²³"
+    },
+    {
+      "id": "high-school2-social-001",
+      "level": "high-school-2",
+      "subject": "social",
+      "category": "civics",
+      "difficulty": 3,
+      "type": "true-false",
+      "question": "日本国憲法第9条は戦争放棄を定めている。",
+      "answer": true
+    },
+    {
+      "id": "high-school2-statistics-001",
+      "level": "high-school-2",
+      "subject": "statistics",
+      "category": "basic",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "10個のデータの平均が5のとき、データの合計値はいくつですか？",
+      "answer": 50
+    }
+  ]
+}

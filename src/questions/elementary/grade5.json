@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "elementary5-math-001",
+      "level": "elementary-5",
+      "subject": "math",
+      "category": "area",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "底辺6cm、高さ4cmの三角形の面積は何cm²ですか？",
+      "answer": 12
+    },
+    {
+      "id": "elementary5-japanese-001",
+      "level": "elementary-5",
+      "subject": "japanese",
+      "category": "rhetoric",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "「まるで雪のように白い」のような、「まるで〜のようだ」を使ったたとえの表現技法は何ですか？",
+      "choices": ["直喩", "隠喩", "擬人法", "反復法"],
+      "answer": "直喩"
+    },
+    {
+      "id": "elementary5-science-001",
+      "level": "elementary-5",
+      "subject": "science",
+      "category": "mechanics",
+      "difficulty": 4,
+      "type": "multiple-select",
+      "question": "てこの「3点」に含まれるものをすべて選んでください。",
+      "choices": ["支点", "力点", "作用点", "重心"],
+      "answer": ["支点", "力点", "作用点"]
+    }
+  ]
+}

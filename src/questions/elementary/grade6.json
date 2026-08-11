@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "elementary6-math-001",
+      "level": "elementary-6",
+      "subject": "math",
+      "category": "area",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "半径5cmの円の面積はおよそ何cm²ですか？（円周率は3.14とします）",
+      "answer": 78.5,
+      "tolerance": 0.5
+    },
+    {
+      "id": "elementary6-social-001",
+      "level": "elementary-6",
+      "subject": "social",
+      "category": "civics",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "日本国憲法の三大原則に含まれないものはどれですか？",
+      "choices": ["国民主権", "基本的人権の尊重", "平和主義", "三権分立"],
+      "answer": "三権分立",
+      "explanation": "三権分立は重要な仕組みですが、日本国憲法の三大原則には含まれません。"
+    },
+    {
+      "id": "elementary6-science-001",
+      "level": "elementary-6",
+      "subject": "science",
+      "category": "plants",
+      "difficulty": 2,
+      "type": "true-false",
+      "question": "植物は光合成によって酸素を作り出す。",
+      "answer": true
+    },
+    {
+      "id": "elementary6-math-002",
+      "level": "elementary-6",
+      "subject": "math",
+      "category": "fraction",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "2/3 × 3/4 の計算結果として正しいものはどれですか？",
+      "choices": ["1/2", "5/7", "3/4", "2/7"],
+      "answer": "1/2"
+    },
+    {
+      "id": "elementary6-english-001",
+      "level": "elementary-6",
+      "subject": "english",
+      "category": "vocabulary",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "「apple」の意味はどれですか？",
+      "choices": ["りんご", "ばなな", "ぶどう", "みかん"],
+      "answer": "りんご"
+    }
+  ]
+}

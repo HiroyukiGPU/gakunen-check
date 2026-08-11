@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "graduate-master2-statistics-001",
+      "level": "graduate-master-2",
+      "subject": "statistics",
+      "category": "bayes",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "ベイズの定理 P(A|B) = P(B|A)P(A) / P(B) において、P(A)=0.1, P(B|A)=0.8, P(B)=0.2 のとき、P(A|B) はいくつですか？",
+      "answer": 0.4,
+      "tolerance": 0.01
+    },
+    {
+      "id": "graduate-master2-programming-001",
+      "level": "graduate-master-2",
+      "subject": "programming",
+      "category": "complexity-theory",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "NP完全問題の説明として正しいものはどれですか？",
+      "choices": [
+        "NPに属し、すべてのNP問題から多項式時間で帰着可能な問題",
+        "P=NPが既に証明されている問題",
+        "常に多項式時間で解ける問題",
+        "乱数を用いないと解けない問題"
+      ],
+      "answer": "NPに属し、すべてのNP問題から多項式時間で帰着可能な問題"
+    },
+    {
+      "id": "graduate-master2-research-001",
+      "level": "graduate-master-2",
+      "subject": "research",
+      "category": "methodology",
+      "difficulty": 3,
+      "type": "true-false",
+      "question": "査読（ピアレビュー）は論文の質を担保する仕組みの一つである。",
+      "answer": true
+    },
+    {
+      "id": "graduate-master2-statistics-002",
+      "level": "graduate-master-2",
+      "subject": "statistics",
+      "category": "regression",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "多重共線性が起きているとき、回帰係数の解釈はどうなりますか？",
+      "choices": ["不安定になる", "常に正しくなる", "必ず有意になる", "標準誤差が小さくなる"],
+      "answer": "不安定になる"
+    }
+  ]
+}

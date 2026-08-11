@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "elementary2-math-001",
+      "level": "elementary-2",
+      "subject": "math",
+      "category": "calculation",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "37 + 48 はいくつですか？",
+      "choices": ["75", "85", "95", "105"],
+      "answer": "85",
+      "explanation": "37 + 48 = 85です。",
+      "tags": ["addition", "two-digit"]
+    },
+    {
+      "id": "elementary2-math-002",
+      "level": "elementary-2",
+      "subject": "math",
+      "category": "multiplication",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "8 × 7 はいくつですか？",
+      "choices": ["54", "56", "58", "64"],
+      "answer": "56"
+    }
+  ]
+}

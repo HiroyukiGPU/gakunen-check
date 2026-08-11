@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "elementary4-math-001",
+      "level": "elementary-4",
+      "subject": "math",
+      "category": "fraction",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "1/2 + 1/4 を小数で表すといくつですか？",
+      "answer": 0.75,
+      "tolerance": 0.01
+    },
+    {
+      "id": "elementary4-science-001",
+      "level": "elementary-4",
+      "subject": "science",
+      "category": "states-of-matter",
+      "difficulty": 2,
+      "type": "true-false",
+      "question": "水は0度で氷になる。",
+      "answer": true
+    },
+    {
+      "id": "elementary4-social-001",
+      "level": "elementary-4",
+      "subject": "social",
+      "category": "geography",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "都道府県の中で一番人口が多いのはどこですか？",
+      "choices": ["東京都", "大阪府", "神奈川県", "愛知県"],
+      "answer": "東京都"
+    }
+  ]
+}

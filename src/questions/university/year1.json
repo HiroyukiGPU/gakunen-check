@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "university1-math-001",
+      "level": "university-1",
+      "subject": "math",
+      "category": "calculus",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "次の極限値を求めてください。",
+      "latex": "\\lim_{x \\to 0} \\frac{\\sin x}{x}",
+      "answer": 1
+    },
+    {
+      "id": "university1-programming-001",
+      "level": "university-1",
+      "subject": "programming",
+      "category": "oop",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "オブジェクト指向プログラミングの三大要素に含まれないものはどれですか？",
+      "choices": ["カプセル化", "継承", "ポリモーフィズム", "再帰"],
+      "answer": "再帰"
+    },
+    {
+      "id": "university1-science-001",
+      "level": "university-1",
+      "subject": "science",
+      "category": "biology",
+      "difficulty": 2,
+      "type": "true-false",
+      "question": "DNAは二重らせん構造をしている。",
+      "answer": true
+    },
+    {
+      "id": "university1-statistics-001",
+      "level": "university-1",
+      "subject": "statistics",
+      "category": "descriptive",
+      "difficulty": 3,
+      "type": "multiple-select",
+      "question": "中央値の説明として正しいものをすべて選んでください。",
+      "choices": [
+        "データを大きさ順に並べたときの真ん中の値",
+        "外れ値の影響を受けにくい",
+        "平均と必ず一致する",
+        "データの個数が偶数のとき中央2つの平均をとる"
+      ],
+      "answer": [
+        "データを大きさ順に並べたときの真ん中の値",
+        "外れ値の影響を受けにくい",
+        "データの個数が偶数のとき中央2つの平均をとる"
+      ]
+    }
+  ]
+}

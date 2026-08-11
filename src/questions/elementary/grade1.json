@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "elementary1-math-001",
+      "level": "elementary-1",
+      "subject": "math",
+      "category": "addition",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "7 + 5 はいくつですか？",
+      "answer": 12,
+      "explanation": "7 + 5 = 12 です。"
+    },
+    {
+      "id": "elementary1-japanese-001",
+      "level": "elementary-1",
+      "subject": "japanese",
+      "category": "antonym",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "「大きい」の反対の意味の言葉はどれですか？",
+      "choices": ["小さい", "高い", "長い", "重い"],
+      "answer": "小さい"
+    },
+    {
+      "id": "elementary1-science-001",
+      "level": "elementary-1",
+      "subject": "science",
+      "category": "animals",
+      "difficulty": 2,
+      "type": "true-false",
+      "question": "魚はえらで呼吸する。",
+      "answer": true,
+      "explanation": "多くの魚はえらを使って水中の酸素を取り込みます。"
+    },
+    {
+      "id": "elementary1-math-002",
+      "level": "elementary-1",
+      "subject": "math",
+      "category": "shapes",
+      "difficulty": 1,
+      "type": "multiple-choice",
+      "question": "この形の名前はどれですか？",
+      "image": "/question-assets/elementary/shape-001.svg",
+      "choices": ["三角形", "四角形", "丸", "星"],
+      "answer": "三角形"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "graduate-doctoral-research-001",
+      "level": "graduate-doctoral",
+      "subject": "research",
+      "category": "methodology",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "学術研究における「再現性の危機」の原因として指摘されているものはどれですか？",
+      "choices": [
+        "p-hackingや事前登録の欠如",
+        "査読者の不足のみ",
+        "出版社の利益追求のみ",
+        "実験機器の高騰のみ"
+      ],
+      "answer": "p-hackingや事前登録の欠如"
+    },
+    {
+      "id": "graduate-doctoral-statistics-001",
+      "level": "graduate-doctoral",
+      "subject": "statistics",
+      "category": "model-selection",
+      "difficulty": 5,
+      "type": "numeric",
+      "question": "情報量規準 AIC = 2k - 2ln(L) について、k=3, ln(L)=-10 のときのAICの値はいくつですか？",
+      "latex": "AIC = 2k - 2\\ln(L)",
+      "answer": 26
+    },
+    {
+      "id": "graduate-doctoral-research-002",
+      "level": "graduate-doctoral",
+      "subject": "research",
+      "category": "methodology",
+      "difficulty": 3,
+      "type": "true-false",
+      "question": "査読付き論文であれば、結果は必ず再現される。",
+      "answer": false
+    },
+    {
+      "id": "graduate-doctoral-research-003",
+      "level": "graduate-doctoral",
+      "subject": "research",
+      "category": "open-science",
+      "difficulty": 4,
+      "type": "multiple-select",
+      "question": "オープンサイエンスの実践として適切なものをすべて選んでください。",
+      "choices": ["事前登録", "データとコードの公開", "結果が出るまで仮説を秘匿し続ける", "査読前プレプリントの公開"],
+      "answer": ["事前登録", "データとコードの公開", "査読前プレプリントの公開"]
+    }
+  ]
+}

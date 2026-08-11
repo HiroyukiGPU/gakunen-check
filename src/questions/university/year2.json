@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "university2-math-001",
+      "level": "university-2",
+      "subject": "math",
+      "category": "calculus",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "f(x) = x³ のとき、f''(2) の値はいくつですか？",
+      "latex": "f(x) = x^3",
+      "answer": 12
+    },
+    {
+      "id": "university2-statistics-001",
+      "level": "university-2",
+      "subject": "statistics",
+      "category": "descriptive",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "標準偏差はデータの何を表す指標ですか？",
+      "choices": ["ばらつき", "中心傾向", "相関", "歪度"],
+      "answer": "ばらつき"
+    },
+    {
+      "id": "university2-programming-001",
+      "level": "university-2",
+      "subject": "programming",
+      "category": "algorithms",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "平均計算量がO(n log n)であるアルゴリズムはどれですか？",
+      "choices": ["クイックソート（平均時）", "バブルソート", "線形探索", "選択ソート"],
+      "answer": "クイックソート（平均時）"
+    },
+    {
+      "id": "university2-science-001",
+      "level": "university-2",
+      "subject": "science",
+      "category": "biology",
+      "difficulty": 3,
+      "type": "true-false",
+      "question": "生物の進化において自然選択は重要な要因の一つである。",
+      "answer": true
+    }
+  ]
+}
