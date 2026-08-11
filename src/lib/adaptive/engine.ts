@@ -69,27 +69,12 @@ export function applyAnswer(
   };
 }
 
-const MIN_QUESTIONS = 15;
-const MAX_QUESTIONS = 30;
-const STABILITY_WINDOW = 5;
-const STABILITY_THRESHOLD = 0.75;
-const MIN_NEAR_LEVEL_ANSWERS = 6;
+// テストは常にちょうど TOTAL_QUESTIONS 問で終了する。
+const TOTAL_QUESTIONS = 30;
 
 export function shouldStopTest(state: AdaptiveState): boolean {
-  if (state.answeredCount >= MAX_QUESTIONS) return true;
-  if (state.answeredCount < MIN_QUESTIONS) return false;
-
-  const recent = state.history.slice(-STABILITY_WINDOW).map((h) => h.abilityAfter);
-  const variation = Math.max(...recent) - Math.min(...recent);
-
-  const currentLevelIndex = Math.round(state.currentAbility);
-  const nearLevelAnswers = state.history.filter(
-    (h) => Math.abs(Math.round(h.abilityBefore) - currentLevelIndex) <= 1,
-  ).length;
-
-  return variation < STABILITY_THRESHOLD && nearLevelAnswers >= MIN_NEAR_LEVEL_ANSWERS;
+  return state.answeredCount >= TOTAL_QUESTIONS;
 }
 
-// UI表示用のおおよその想定問題数（最大出題数 MAX_QUESTIONS と一致させ、
-// 実際の出題数が表示上の総数を超えないようにする）
-export const ESTIMATED_TOTAL_QUESTIONS = MAX_QUESTIONS;
+// UI表示用の想定問題数（実際の出題数 TOTAL_QUESTIONS と一致させる）
+export const ESTIMATED_TOTAL_QUESTIONS = TOTAL_QUESTIONS;

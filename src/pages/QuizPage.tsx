@@ -169,6 +169,7 @@ export function QuizPage() {
             value={draftAnswer}
             onChange={setDraftAnswer}
             disabled={phase === "feedback"}
+            showResult={phase === "feedback"}
           />
         </QuestionCard>
 
