@@ -9,7 +9,7 @@
       "difficulty": 4,
       "type": "text",
       "question": "f(x)=x^2 の導関数を求めなさい。",
-      "answer": "2x^1",
+      "answer": "2x",
       "explanation": "べき関数の微分公式 d(x^n)/dx=nx^(n-1) を使います。",
       "tags": [
         "微分積分",
