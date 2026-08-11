@@ -1,0 +1,402 @@
+{
+  "version": 1,
+  "focus": [
+    "science",
+    "social-studies"
+  ],
+  "questions": [
+    {
+      "id": "graduate-science-social-001",
+      "level": "graduate-master-2",
+      "subject": "meta-analysis",
+      "category": "inverse-variance-weighting",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "効果量推定値の分散が1のとき、逆分散重みを求めなさい。",
+      "answer": 1,
+      "explanation": "逆分散重みは1/分散なので、1/1=1です。",
+      "tags": [
+        "メタ分析",
+        "逆分散法"
+      ]
+    },
+    {
+      "id": "graduate-science-social-002",
+      "level": "graduate-master-2",
+      "subject": "meta-analysis",
+      "category": "inverse-variance-weighting",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "効果量推定値の分散が2のとき、逆分散重みを求めなさい。",
+      "answer": 0.5,
+      "explanation": "逆分散重みは1/分散なので、1/2=0.5です。",
+      "tags": [
+        "メタ分析",
+        "逆分散法"
+      ]
+    },
+    {
+      "id": "graduate-science-social-003",
+      "level": "graduate-master-2",
+      "subject": "meta-analysis",
+      "category": "inverse-variance-weighting",
+      "difficulty": 5,
+      "type": "numeric",
+      "question": "効果量推定値の分散が4のとき、逆分散重みを求めなさい。",
+      "answer": 0.25,
+      "explanation": "逆分散重みは1/分散なので、1/4=0.25です。",
+      "tags": [
+        "メタ分析",
+        "逆分散法"
+      ]
+    },
+    {
+      "id": "graduate-science-social-011",
+      "level": "graduate-master-1",
+      "subject": "epidemiology",
+      "category": "sensitivity",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "真陽性TP=80、偽陰性FN=20の検査の感度を求めなさい。",
+      "answer": 0.8,
+      "explanation": "感度=TP/(TP+FN)=80/100=0.8です。",
+      "tags": [
+        "疫学",
+        "診断精度",
+        "感度"
+      ]
+    },
+    {
+      "id": "graduate-science-social-012",
+      "level": "graduate-master-1",
+      "subject": "epidemiology",
+      "category": "sensitivity",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "真陽性TP=75、偽陰性FN=25の検査の感度を求めなさい。",
+      "answer": 0.75,
+      "explanation": "感度=TP/(TP+FN)=75/100=0.75です。",
+      "tags": [
+        "疫学",
+        "診断精度",
+        "感度"
+      ]
+    },
+    {
+      "id": "graduate-science-social-013",
+      "level": "graduate-master-1",
+      "subject": "epidemiology",
+      "category": "sensitivity",
+      "difficulty": 5,
+      "type": "numeric",
+      "question": "真陽性TP=90、偽陰性FN=10の検査の感度を求めなさい。",
+      "answer": 0.9,
+      "explanation": "感度=TP/(TP+FN)=90/100=0.9です。",
+      "tags": [
+        "疫学",
+        "診断精度",
+        "感度"
+      ]
+    },
+    {
+      "id": "graduate-science-social-021",
+      "level": "graduate-master-2",
+      "subject": "natural-science",
+      "category": "advanced-methods",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "ランダム効果メタ分析が固定効果モデルと異なる点は？",
+      "choices": [
+        "標本誤差を無視する",
+        "研究間の真の効果の異質性をモデル化する",
+        "研究を一つだけ使う",
+        "効果量を計算しない"
+      ],
+      "answer": "研究間の真の効果の異質性をモデル化する",
+      "explanation": "ランダム効果モデルは研究内誤差に加えて研究間分散を考慮します。",
+      "tags": [
+        "メタ分析",
+        "ランダム効果"
+      ]
+    },
+    {
+      "id": "graduate-science-social-022",
+      "level": "graduate-master-2",
+      "subject": "natural-science",
+      "category": "advanced-methods",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "ベイズ推定で事後予測分布が表すものは？",
+      "choices": [
+        "事前分布だけ",
+        "観測データを踏まえた将来データの分布",
+        "p値の分布だけ",
+        "パラメータの最尤値だけ"
+      ],
+      "answer": "観測データを踏まえた将来データの分布",
+      "explanation": "事後分布でパラメータを積分し、未知の将来観測を予測します。",
+      "tags": [
+        "ベイズ統計",
+        "事後予測"
+      ]
+    },
+    {
+      "id": "graduate-science-social-023",
+      "level": "graduate-master-2",
+      "subject": "natural-science",
+      "category": "advanced-methods",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "多重共線性が強い回帰モデルで起こりやすいことは？",
+      "choices": [
+        "残差が必ず0になる",
+        "係数推定の標準誤差が大きくなる",
+        "標本数が増える",
+        "従属変数が消える"
+      ],
+      "answer": "係数推定の標準誤差が大きくなる",
+      "explanation": "説明変数同士が強く相関すると個別係数の識別が難しくなります。",
+      "tags": [
+        "回帰分析",
+        "多重共線性"
+      ]
+    },
+    {
+      "id": "graduate-science-social-024",
+      "level": "graduate-master-2",
+      "subject": "natural-science",
+      "category": "advanced-methods",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "交差検証の主な目的は？",
+      "choices": [
+        "訓練誤差を必ず0にする",
+        "未知データへの予測性能を推定する",
+        "変数をすべて削除する",
+        "因果効果を保証する"
+      ],
+      "answer": "未知データへの予測性能を推定する",
+      "explanation": "データ分割を繰り返し、汎化性能を見積もります。",
+      "tags": [
+        "機械学習",
+        "交差検証"
+      ]
+    },
+    {
+      "id": "graduate-science-social-025",
+      "level": "graduate-master-2",
+      "subject": "natural-science",
+      "category": "advanced-methods",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "実験でブラインド化を行う主な目的は？",
+      "choices": [
+        "標本数を増やす",
+        "期待や評価によるバイアスを減らす",
+        "無作為化を不要にする",
+        "欠測を完全に防ぐ"
+      ],
+      "answer": "期待や評価によるバイアスを減らす",
+      "explanation": "処置情報を隠すことで参加者や評価者の期待の影響を抑えます。",
+      "tags": [
+        "研究デザイン",
+        "盲検化"
+      ]
+    },
+    {
+      "id": "graduate-science-social-026",
+      "level": "graduate-doctoral",
+      "subject": "causal-inference",
+      "category": "difference-in-differences",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "処置群が10から15、対照群が4から6へ変化しました。差の差推定量を求めなさい。",
+      "answer": 3,
+      "explanation": "(15-10)-(6-4)=3です。",
+      "tags": [
+        "因果推論",
+        "差の差法"
+      ]
+    },
+    {
+      "id": "graduate-science-social-027",
+      "level": "graduate-doctoral",
+      "subject": "causal-inference",
+      "category": "difference-in-differences",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "処置群が20から30、対照群が8から13へ変化しました。差の差推定量を求めなさい。",
+      "answer": 5,
+      "explanation": "(30-20)-(13-8)=5です。",
+      "tags": [
+        "因果推論",
+        "差の差法"
+      ]
+    },
+    {
+      "id": "graduate-science-social-028",
+      "level": "graduate-doctoral",
+      "subject": "causal-inference",
+      "category": "difference-in-differences",
+      "difficulty": 5,
+      "type": "numeric",
+      "question": "処置群が30から42、対照群が12から18へ変化しました。差の差推定量を求めなさい。",
+      "answer": 6,
+      "explanation": "(42-30)-(18-12)=6です。",
+      "tags": [
+        "因果推論",
+        "差の差法"
+      ]
+    },
+    {
+      "id": "graduate-science-social-036",
+      "level": "graduate-master-2",
+      "subject": "economics",
+      "category": "elasticity",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "価格変化率2%に対し需要量変化率が4%でした。弾力性の絶対値を求めなさい。",
+      "answer": 2,
+      "explanation": "需要量変化率÷価格変化率=4÷2=2です。",
+      "tags": [
+        "経済学",
+        "弾力性"
+      ]
+    },
+    {
+      "id": "graduate-science-social-037",
+      "level": "graduate-master-2",
+      "subject": "economics",
+      "category": "elasticity",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "価格変化率3%に対し需要量変化率が6%でした。弾力性の絶対値を求めなさい。",
+      "answer": 2,
+      "explanation": "需要量変化率÷価格変化率=6÷3=2です。",
+      "tags": [
+        "経済学",
+        "弾力性"
+      ]
+    },
+    {
+      "id": "graduate-science-social-038",
+      "level": "graduate-master-2",
+      "subject": "economics",
+      "category": "elasticity",
+      "difficulty": 5,
+      "type": "numeric",
+      "question": "価格変化率4%に対し需要量変化率が8%でした。弾力性の絶対値を求めなさい。",
+      "answer": 2,
+      "explanation": "需要量変化率÷価格変化率=8÷4=2です。",
+      "tags": [
+        "経済学",
+        "弾力性"
+      ]
+    },
+    {
+      "id": "graduate-science-social-046",
+      "level": "graduate-doctoral",
+      "subject": "social-science",
+      "category": "advanced-social-methods",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "操作変数が満たすべき除外制約は？",
+      "choices": [
+        "処置と無相関である",
+        "結果へ処置を介さず直接影響しない",
+        "必ず連続変数である",
+        "標本平均が0である"
+      ],
+      "answer": "結果へ処置を介さず直接影響しない",
+      "explanation": "有効な操作変数は結果に対し処置を通じてのみ影響する必要があります。",
+      "tags": [
+        "因果推論",
+        "操作変数"
+      ]
+    },
+    {
+      "id": "graduate-science-social-047",
+      "level": "graduate-doctoral",
+      "subject": "social-science",
+      "category": "advanced-social-methods",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "回帰不連続デザインの中心的発想は？",
+      "choices": [
+        "遠く離れた集団を比較する",
+        "閾値付近の単位を比較する",
+        "時系列を無視する",
+        "標本を便宜抽出する"
+      ],
+      "answer": "閾値付近の単位を比較する",
+      "explanation": "割当変数の閾値直前・直後では単位が似ているという発想を利用します。",
+      "tags": [
+        "因果推論",
+        "RDD"
+      ]
+    },
+    {
+      "id": "graduate-science-social-048",
+      "level": "graduate-doctoral",
+      "subject": "social-science",
+      "category": "advanced-social-methods",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "研究データ管理でFAIR原則のFが表すものは？",
+      "choices": [
+        "Fixed",
+        "Findable",
+        "Formal",
+        "Final"
+      ],
+      "answer": "Findable",
+      "explanation": "FAIRはFindable, Accessible, Interoperable, Reusableの頭文字です。",
+      "tags": [
+        "オープンサイエンス",
+        "FAIR"
+      ]
+    },
+    {
+      "id": "graduate-science-social-049",
+      "level": "graduate-doctoral",
+      "subject": "social-science",
+      "category": "advanced-social-methods",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "政策評価で費用便益分析が比較するものは？",
+      "choices": [
+        "投票数だけ",
+        "便益と費用を共通の貨幣尺度で比較する",
+        "効果量だけ",
+        "倫理だけ"
+      ],
+      "answer": "便益と費用を共通の貨幣尺度で比較する",
+      "explanation": "多様な効果を可能な範囲で貨幣換算し、純便益などを評価します。",
+      "tags": [
+        "公共政策",
+        "費用便益分析"
+      ]
+    },
+    {
+      "id": "graduate-science-social-050",
+      "level": "graduate-doctoral",
+      "subject": "social-science",
+      "category": "advanced-social-methods",
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "質的研究のトライアンギュレーションの目的は？",
+      "choices": [
+        "三人だけ調査する",
+        "複数の資料や方法から解釈の頑健性を高める",
+        "統計検定を不要にする",
+        "反対事例を削除する"
+      ],
+      "answer": "複数の資料や方法から解釈の頑健性を高める",
+      "explanation": "異なるデータ源・研究者・方法を組み合わせ、理解の厚みと信頼性を高めます。",
+      "tags": [
+        "質的研究",
+        "トライアンギュレーション"
+      ]
+    }
+  ]
+}

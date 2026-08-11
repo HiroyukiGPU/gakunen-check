@@ -1,0 +1,390 @@
+{
+  "version": 1,
+  "focus": [
+    "science",
+    "social-studies"
+  ],
+  "questions": [
+    {
+      "id": "university-science-social-001",
+      "level": "university-1",
+      "subject": "physics",
+      "category": "work",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "一定の力2Nで物体を力の向きに3m動かしたときの仕事は何Jですか？",
+      "answer": 6,
+      "explanation": "仕事W=Fdなので、2×3=6Jです。",
+      "tags": [
+        "大学物理",
+        "仕事"
+      ]
+    },
+    {
+      "id": "university-science-social-002",
+      "level": "university-1",
+      "subject": "physics",
+      "category": "work",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "一定の力4Nで物体を力の向きに5m動かしたときの仕事は何Jですか？",
+      "answer": 20,
+      "explanation": "仕事W=Fdなので、4×5=20Jです。",
+      "tags": [
+        "大学物理",
+        "仕事"
+      ]
+    },
+    {
+      "id": "university-science-social-003",
+      "level": "university-1",
+      "subject": "physics",
+      "category": "work",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "一定の力6Nで物体を力の向きに2m動かしたときの仕事は何Jですか？",
+      "answer": 12,
+      "explanation": "仕事W=Fdなので、6×2=12Jです。",
+      "tags": [
+        "大学物理",
+        "仕事"
+      ]
+    },
+    {
+      "id": "university-science-social-011",
+      "level": "university-2",
+      "subject": "statistics",
+      "category": "standard-error",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "標準偏差2、標本サイズ16の標本平均の標準誤差を求めなさい。",
+      "answer": 0.5,
+      "explanation": "標準誤差=標準偏差÷√nなので、2÷4=0.5です。",
+      "tags": [
+        "統計学",
+        "標準誤差"
+      ]
+    },
+    {
+      "id": "university-science-social-012",
+      "level": "university-2",
+      "subject": "statistics",
+      "category": "standard-error",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "標準偏差3、標本サイズ36の標本平均の標準誤差を求めなさい。",
+      "answer": 0.5,
+      "explanation": "標準誤差=標準偏差÷√nなので、3÷6=0.5です。",
+      "tags": [
+        "統計学",
+        "標準誤差"
+      ]
+    },
+    {
+      "id": "university-science-social-021",
+      "level": "university-2",
+      "subject": "natural-science",
+      "category": "science-concepts",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "PCRでDNA量が理想的に1サイクルごとに2倍になるとき、10サイクル後の倍率は？",
+      "choices": [
+        "100",
+        "512",
+        "1024",
+        "2048"
+      ],
+      "answer": "1024",
+      "explanation": "2の10乗=1024倍です。",
+      "tags": [
+        "分子生物学",
+        "PCR"
+      ]
+    },
+    {
+      "id": "university-science-social-022",
+      "level": "university-2",
+      "subject": "natural-science",
+      "category": "science-concepts",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "ミカエリス定数Kmが小さい酵素は、一般に基質への何が高い？",
+      "choices": [
+        "毒性",
+        "親和性",
+        "温度",
+        "分子量"
+      ],
+      "answer": "親和性",
+      "explanation": "Kmが小さいほど低い基質濃度で半最大速度に達し、親和性が高いと解釈されます。",
+      "tags": [
+        "生化学",
+        "酵素反応"
+      ]
+    },
+    {
+      "id": "university-science-social-023",
+      "level": "university-2",
+      "subject": "natural-science",
+      "category": "science-concepts",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "自然選択が集団に与える直接的な変化は？",
+      "choices": [
+        "個体の遺伝子を目的に合わせて変える",
+        "世代を通じた対立遺伝子頻度の変化",
+        "突然変異を止める",
+        "環境を一定にする"
+      ],
+      "answer": "世代を通じた対立遺伝子頻度の変化",
+      "explanation": "適応度差により、対立遺伝子の相対頻度が世代間で変化します。",
+      "tags": [
+        "進化生物学",
+        "自然選択"
+      ]
+    },
+    {
+      "id": "university-science-social-024",
+      "level": "university-1",
+      "subject": "natural-science",
+      "category": "science-concepts",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "放射性同位体の半減期が3日なら、12日後に残る割合は？",
+      "choices": [
+        "1/2",
+        "1/4",
+        "1/8",
+        "1/16"
+      ],
+      "answer": "1/16",
+      "explanation": "12日は4半減期なので、(1/2)^4=1/16です。",
+      "tags": [
+        "物理学",
+        "半減期"
+      ]
+    },
+    {
+      "id": "university-science-social-025",
+      "level": "university-1",
+      "subject": "natural-science",
+      "category": "science-concepts",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "理想気体で温度一定のとき、圧力と体積の関係は？",
+      "choices": [
+        "比例",
+        "反比例",
+        "無関係",
+        "常に等しい"
+      ],
+      "answer": "反比例",
+      "explanation": "ボイルの法則PV=一定より、圧力と体積は反比例します。",
+      "tags": [
+        "熱力学",
+        "気体"
+      ]
+    },
+    {
+      "id": "university-science-social-026",
+      "level": "university-1",
+      "subject": "economics",
+      "category": "percentage-change",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "価格100の財が5%値下げされたときの新価格を求めなさい。",
+      "answer": 95,
+      "explanation": "新価格=100×(1-5/100)=95です。",
+      "tags": [
+        "経済学",
+        "価格",
+        "割合"
+      ]
+    },
+    {
+      "id": "university-science-social-027",
+      "level": "university-1",
+      "subject": "economics",
+      "category": "percentage-change",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "価格120の財が10%値下げされたときの新価格を求めなさい。",
+      "answer": 108,
+      "explanation": "新価格=120×(1-10/100)=108です。",
+      "tags": [
+        "経済学",
+        "価格",
+        "割合"
+      ]
+    },
+    {
+      "id": "university-science-social-028",
+      "level": "university-1",
+      "subject": "economics",
+      "category": "percentage-change",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "価格150の財が20%値下げされたときの新価格を求めなさい。",
+      "answer": 120,
+      "explanation": "新価格=150×(1-20/100)=120です。",
+      "tags": [
+        "経済学",
+        "価格",
+        "割合"
+      ]
+    },
+    {
+      "id": "university-science-social-036",
+      "level": "university-3",
+      "subject": "social-science",
+      "category": "difference-in-differences",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "処置群は10から12、対照群は5から7に変化しました。差の差推定量を求めなさい。",
+      "answer": 0,
+      "explanation": "(12-10)-(7-5)=0です。",
+      "tags": [
+        "社会科学",
+        "因果推論",
+        "差の差法"
+      ]
+    },
+    {
+      "id": "university-science-social-037",
+      "level": "university-3",
+      "subject": "social-science",
+      "category": "difference-in-differences",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "処置群は20から25、対照群は8から13に変化しました。差の差推定量を求めなさい。",
+      "answer": 0,
+      "explanation": "(25-20)-(13-8)=0です。",
+      "tags": [
+        "社会科学",
+        "因果推論",
+        "差の差法"
+      ]
+    },
+    {
+      "id": "university-science-social-038",
+      "level": "university-3",
+      "subject": "social-science",
+      "category": "difference-in-differences",
+      "difficulty": 5,
+      "type": "numeric",
+      "question": "処置群は30から36、対照群は10から16に変化しました。差の差推定量を求めなさい。",
+      "answer": 0,
+      "explanation": "(36-30)-(16-10)=0です。",
+      "tags": [
+        "社会科学",
+        "因果推論",
+        "差の差法"
+      ]
+    },
+    {
+      "id": "university-science-social-046",
+      "level": "university-3",
+      "subject": "social-science",
+      "category": "social-concepts",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "社会調査で母集団の各要素が同じ確率で選ばれる抽出法は？",
+      "choices": [
+        "便宜抽出",
+        "単純無作為抽出",
+        "雪だるま式抽出",
+        "割当抽出"
+      ],
+      "answer": "単純無作為抽出",
+      "explanation": "単純無作為抽出では各要素に等しい選択確率を与えます。",
+      "tags": [
+        "社会調査",
+        "標本抽出"
+      ]
+    },
+    {
+      "id": "university-science-social-047",
+      "level": "university-3",
+      "subject": "social-science",
+      "category": "social-concepts",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "公共財の代表的な性質は？",
+      "choices": [
+        "排除性と競合性",
+        "非排除性と非競合性",
+        "希少性がないことだけ",
+        "政府が生産することだけ"
+      ],
+      "answer": "非排除性と非競合性",
+      "explanation": "純粋公共財は利用から排除しにくく、一人の利用が他人の利用を減らしません。",
+      "tags": [
+        "公共経済学",
+        "公共財"
+      ]
+    },
+    {
+      "id": "university-science-social-048",
+      "level": "university-3",
+      "subject": "social-science",
+      "category": "social-concepts",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "相関係数が0なら必ず言えることは？",
+      "choices": [
+        "因果関係がない",
+        "あらゆる関連がない",
+        "線形な関連がない",
+        "二変数が同一である"
+      ],
+      "answer": "線形な関連がない",
+      "explanation": "相関係数0は線形関連がないことを示しますが、非線形関連はあり得ます。",
+      "tags": [
+        "社会統計",
+        "相関"
+      ]
+    },
+    {
+      "id": "university-science-social-049",
+      "level": "university-3",
+      "subject": "social-science",
+      "category": "social-concepts",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "外的妥当性が扱う中心的な問いは？",
+      "choices": [
+        "測定が一貫しているか",
+        "結果を他の集団や状況へ一般化できるか",
+        "計算ミスがないか",
+        "帰無仮説が真か"
+      ],
+      "answer": "結果を他の集団や状況へ一般化できるか",
+      "explanation": "外的妥当性は研究結果の一般化可能性に関わります。",
+      "tags": [
+        "研究方法",
+        "外的妥当性"
+      ]
+    },
+    {
+      "id": "university-science-social-050",
+      "level": "university-3",
+      "subject": "social-science",
+      "category": "social-concepts",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "インフレ率が名目利子率を上回ると、実質利子率は概ねどうなる？",
+      "choices": [
+        "正になる",
+        "負になる",
+        "必ず0になる",
+        "計算できない"
+      ],
+      "answer": "負になる",
+      "explanation": "フィッシャー近似では実質利子率≈名目利子率−インフレ率です。",
+      "tags": [
+        "マクロ経済学",
+        "実質利子率"
+      ]
+    }
+  ]
+}

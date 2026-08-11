@@ -1,0 +1,387 @@
+{
+  "version": 1,
+  "focus": [
+    "science",
+    "social-studies"
+  ],
+  "questions": [
+    {
+      "id": "high-school-science-social-001",
+      "level": "high-school-1",
+      "subject": "physics",
+      "category": "kinetic-energy",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "質量2kgの物体が速さ3m/sで運動しています。運動エネルギーは何Jですか？",
+      "answer": 9,
+      "explanation": "運動エネルギーは(1/2)mv²なので、0.5×2×3²=9Jです。",
+      "tags": [
+        "物理基礎",
+        "運動エネルギー"
+      ]
+    },
+    {
+      "id": "high-school-science-social-002",
+      "level": "high-school-1",
+      "subject": "physics",
+      "category": "kinetic-energy",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "質量4kgの物体が速さ5m/sで運動しています。運動エネルギーは何Jですか？",
+      "answer": 50,
+      "explanation": "運動エネルギーは(1/2)mv²なので、0.5×4×5²=50Jです。",
+      "tags": [
+        "物理基礎",
+        "運動エネルギー"
+      ]
+    },
+    {
+      "id": "high-school-science-social-003",
+      "level": "high-school-1",
+      "subject": "physics",
+      "category": "kinetic-energy",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "質量6kgの物体が速さ2m/sで運動しています。運動エネルギーは何Jですか？",
+      "answer": 12,
+      "explanation": "運動エネルギーは(1/2)mv²なので、0.5×6×2²=12Jです。",
+      "tags": [
+        "物理基礎",
+        "運動エネルギー"
+      ]
+    },
+    {
+      "id": "high-school-science-social-011",
+      "level": "high-school-1",
+      "subject": "chemistry",
+      "category": "moles",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "モル質量22g/molの物質11gの物質量は何molですか？",
+      "answer": 0.5,
+      "explanation": "物質量=質量÷モル質量なので、11÷22=0.5molです。",
+      "tags": [
+        "化学基礎",
+        "物質量"
+      ]
+    },
+    {
+      "id": "high-school-science-social-012",
+      "level": "high-school-1",
+      "subject": "chemistry",
+      "category": "moles",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "モル質量22g/molの物質22gの物質量は何molですか？",
+      "answer": 1,
+      "explanation": "物質量=質量÷モル質量なので、22÷22=1molです。",
+      "tags": [
+        "化学基礎",
+        "物質量"
+      ]
+    },
+    {
+      "id": "high-school-science-social-013",
+      "level": "high-school-1",
+      "subject": "chemistry",
+      "category": "moles",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "モル質量44g/molの物質33gの物質量は何molですか？",
+      "answer": 0.75,
+      "explanation": "物質量=質量÷モル質量なので、33÷44=0.75molです。",
+      "tags": [
+        "化学基礎",
+        "物質量"
+      ]
+    },
+    {
+      "id": "high-school-science-social-021",
+      "level": "high-school-1",
+      "subject": "science",
+      "category": "science-concepts",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "減数分裂によって配偶子の染色体数はどうなる？",
+      "choices": [
+        "2倍になる",
+        "体細胞の半分になる",
+        "変わらない",
+        "0になる"
+      ],
+      "answer": "体細胞の半分になる",
+      "explanation": "減数分裂では相同染色体が分かれ、染色体数が半減します。",
+      "tags": [
+        "生物基礎",
+        "減数分裂"
+      ]
+    },
+    {
+      "id": "high-school-science-social-022",
+      "level": "high-school-1",
+      "subject": "science",
+      "category": "science-concepts",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "生態系で有機物を無機物に分解する生物は？",
+      "choices": [
+        "生産者",
+        "消費者",
+        "分解者",
+        "捕食者だけ"
+      ],
+      "answer": "分解者",
+      "explanation": "菌類や細菌などの分解者が遺体や排出物を分解します。",
+      "tags": [
+        "生物基礎",
+        "生態系"
+      ]
+    },
+    {
+      "id": "high-school-science-social-023",
+      "level": "high-school-1",
+      "subject": "science",
+      "category": "science-concepts",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "寒冷前線の通過時に起こりやすい天気は？",
+      "choices": [
+        "長時間の弱い雨だけ",
+        "短時間の強い雨",
+        "必ず快晴",
+        "一年中雪"
+      ],
+      "answer": "短時間の強い雨",
+      "explanation": "寒気が暖気を急に押し上げ、積乱雲が発達しやすくなります。",
+      "tags": [
+        "地学基礎",
+        "前線"
+      ]
+    },
+    {
+      "id": "high-school-science-social-024",
+      "level": "high-school-1",
+      "subject": "science",
+      "category": "science-concepts",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "恒星の表面温度が高いほど、色はどう見える？",
+      "choices": [
+        "赤く見える",
+        "青白く見える",
+        "必ず緑になる",
+        "色は温度と無関係"
+      ],
+      "answer": "青白く見える",
+      "explanation": "高温の恒星ほど放射のピークが短波長側に移り、青白く見えます。",
+      "tags": [
+        "地学基礎",
+        "恒星"
+      ]
+    },
+    {
+      "id": "high-school-science-social-025",
+      "level": "high-school-2",
+      "subject": "science",
+      "category": "science-concepts",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "触媒の働きとして正しいものは？",
+      "choices": [
+        "反応熱を変える",
+        "活性化エネルギーを下げる",
+        "平衡定数を変える",
+        "生成物を別物にする"
+      ],
+      "answer": "活性化エネルギーを下げる",
+      "explanation": "触媒は別の反応経路を与え、活性化エネルギーを下げます。",
+      "tags": [
+        "化学",
+        "反応速度"
+      ]
+    },
+    {
+      "id": "high-school-science-social-026",
+      "level": "high-school-2",
+      "subject": "economics",
+      "category": "price-elasticity",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "価格が10%変化したとき需要量が5%変化しました。需要の価格弾力性の絶対値を小数第4位まで求めなさい。",
+      "answer": 0.5,
+      "explanation": "価格弾力性=需要量の変化率÷価格の変化率なので、5÷10=0.5です。",
+      "tags": [
+        "政治経済",
+        "価格弾力性"
+      ]
+    },
+    {
+      "id": "high-school-science-social-027",
+      "level": "high-school-2",
+      "subject": "economics",
+      "category": "price-elasticity",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "価格が12%変化したとき需要量が4%変化しました。需要の価格弾力性の絶対値を小数第4位まで求めなさい。",
+      "answer": 0.3333,
+      "explanation": "価格弾力性=需要量の変化率÷価格の変化率なので、4÷12=0.3333です。",
+      "tags": [
+        "政治経済",
+        "価格弾力性"
+      ]
+    },
+    {
+      "id": "high-school-science-social-036",
+      "level": "high-school-1",
+      "subject": "geography",
+      "category": "composition-ratio",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "総量100のうち20%にあたる量を、10で割った値はいくつですか？",
+      "answer": 5,
+      "explanation": "100×20/100=50で、それを10で割ると5です。",
+      "tags": [
+        "地理",
+        "資料読解",
+        "割合"
+      ]
+    },
+    {
+      "id": "high-school-science-social-037",
+      "level": "high-school-1",
+      "subject": "geography",
+      "category": "composition-ratio",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "総量120のうち30%にあたる量を、10で割った値はいくつですか？",
+      "answer": 4,
+      "explanation": "120×30/100=40で、それを10で割ると4です。",
+      "tags": [
+        "地理",
+        "資料読解",
+        "割合"
+      ]
+    },
+    {
+      "id": "high-school-science-social-038",
+      "level": "high-school-1",
+      "subject": "geography",
+      "category": "composition-ratio",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "総量150のうち25%にあたる量を、10で割った値はいくつですか？",
+      "answer": 6,
+      "explanation": "150×25/100=60で、それを10で割ると6です。",
+      "tags": [
+        "地理",
+        "資料読解",
+        "割合"
+      ]
+    },
+    {
+      "id": "high-school-science-social-046",
+      "level": "high-school-2",
+      "subject": "social-studies",
+      "category": "social-concepts",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "ウェストファリア条約が結ばれた戦争は？",
+      "choices": [
+        "百年戦争",
+        "三十年戦争",
+        "七年戦争",
+        "クリミア戦争"
+      ],
+      "answer": "三十年戦争",
+      "explanation": "1648年のウェストファリア条約は三十年戦争を終結させました。",
+      "tags": [
+        "世界史",
+        "近世ヨーロッパ"
+      ]
+    },
+    {
+      "id": "high-school-science-social-047",
+      "level": "high-school-2",
+      "subject": "social-studies",
+      "category": "social-concepts",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "日本で普通選挙法が制定された年は？",
+      "choices": [
+        "1889年",
+        "1905年",
+        "1925年",
+        "1947年"
+      ],
+      "answer": "1925年",
+      "explanation": "1925年に25歳以上の男子へ選挙権を広げる普通選挙法が制定されました。",
+      "tags": [
+        "日本史",
+        "大正時代"
+      ]
+    },
+    {
+      "id": "high-school-science-social-048",
+      "level": "high-school-2",
+      "subject": "social-studies",
+      "category": "social-concepts",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "衆議院の優越が認められていないものは？",
+      "choices": [
+        "予算の議決",
+        "内閣総理大臣の指名",
+        "条約の承認",
+        "憲法改正の発議"
+      ],
+      "answer": "憲法改正の発議",
+      "explanation": "憲法改正の発議には各議院で総議員の3分の2以上の賛成が必要です。",
+      "tags": [
+        "政治経済",
+        "国会"
+      ]
+    },
+    {
+      "id": "high-school-science-social-049",
+      "level": "high-school-2",
+      "subject": "social-studies",
+      "category": "social-concepts",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "EUの共通通貨は？",
+      "choices": [
+        "ドル",
+        "ユーロ",
+        "ポンド",
+        "元"
+      ],
+      "answer": "ユーロ",
+      "explanation": "ユーロはEU加盟国のうちユーロ圏諸国が採用する共通通貨です。",
+      "tags": [
+        "地理",
+        "EU"
+      ]
+    },
+    {
+      "id": "high-school-science-social-050",
+      "level": "high-school-2",
+      "subject": "social-studies",
+      "category": "social-concepts",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "少子高齢化で一般に上昇しやすい指標は？",
+      "choices": [
+        "年少人口割合",
+        "老年人口割合",
+        "出生率",
+        "合計特殊出生率"
+      ],
+      "answer": "老年人口割合",
+      "explanation": "総人口に占める65歳以上人口の割合が上昇します。",
+      "tags": [
+        "地理",
+        "人口"
+      ]
+    }
+  ]
+}

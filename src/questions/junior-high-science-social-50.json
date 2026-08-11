@@ -1,0 +1,402 @@
+{
+  "version": 1,
+  "focus": [
+    "science",
+    "social-studies"
+  ],
+  "questions": [
+    {
+      "id": "junior-high-science-social-001",
+      "level": "junior-high-1",
+      "subject": "science",
+      "category": "density",
+      "difficulty": 1,
+      "type": "numeric",
+      "question": "質量40g、体積20cm³の物質の密度は何g/cm³ですか？",
+      "answer": 2,
+      "explanation": "密度=質量÷体積なので、40÷20=2g/cm³です。",
+      "tags": [
+        "理科",
+        "密度"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-002",
+      "level": "junior-high-1",
+      "subject": "science",
+      "category": "density",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "質量54g、体積20cm³の物質の密度は何g/cm³ですか？",
+      "answer": 2.7,
+      "explanation": "密度=質量÷体積なので、54÷20=2.7g/cm³です。",
+      "tags": [
+        "理科",
+        "密度"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-003",
+      "level": "junior-high-1",
+      "subject": "science",
+      "category": "density",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "質量72g、体積30cm³の物質の密度は何g/cm³ですか？",
+      "answer": 2.4,
+      "explanation": "密度=質量÷体積なので、72÷30=2.4g/cm³です。",
+      "tags": [
+        "理科",
+        "密度"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-011",
+      "level": "junior-high-2",
+      "subject": "science",
+      "category": "electric-power",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "電圧3V、電流2Aの電気器具の電力は何Wですか？",
+      "answer": 6,
+      "explanation": "電力=電圧×電流なので、3×2=6Wです。",
+      "tags": [
+        "理科",
+        "電力"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-012",
+      "level": "junior-high-2",
+      "subject": "science",
+      "category": "electric-power",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "電圧4V、電流3Aの電気器具の電力は何Wですか？",
+      "answer": 12,
+      "explanation": "電力=電圧×電流なので、4×3=12Wです。",
+      "tags": [
+        "理科",
+        "電力"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-013",
+      "level": "junior-high-2",
+      "subject": "science",
+      "category": "electric-power",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "電圧5V、電流4Aの電気器具の電力は何Wですか？",
+      "answer": 20,
+      "explanation": "電力=電圧×電流なので、5×4=20Wです。",
+      "tags": [
+        "理科",
+        "電力"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-021",
+      "level": "junior-high-1",
+      "subject": "science",
+      "category": "science-concepts",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "植物が光合成で取り入れる気体は？",
+      "choices": [
+        "酸素",
+        "二酸化炭素",
+        "窒素",
+        "水素"
+      ],
+      "answer": "二酸化炭素",
+      "explanation": "光合成では二酸化炭素と水から養分をつくり、酸素を放出します。",
+      "tags": [
+        "生物",
+        "光合成"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-022",
+      "level": "junior-high-1",
+      "subject": "science",
+      "category": "science-concepts",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "地震の初期微動を伝える波は？",
+      "choices": [
+        "P波",
+        "S波",
+        "表面波だけ",
+        "電磁波"
+      ],
+      "answer": "P波",
+      "explanation": "速いP波が初期微動を、遅いS波が主要動を伝えます。",
+      "tags": [
+        "地学",
+        "地震"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-023",
+      "level": "junior-high-2",
+      "subject": "science",
+      "category": "science-concepts",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "血液中で酸素を運ぶ主な成分は？",
+      "choices": [
+        "赤血球",
+        "血小板",
+        "血しょうだけ",
+        "リンパ球だけ"
+      ],
+      "answer": "赤血球",
+      "explanation": "赤血球中のヘモグロビンが酸素と結びつきます。",
+      "tags": [
+        "生物",
+        "血液"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-024",
+      "level": "junior-high-3",
+      "subject": "science",
+      "category": "science-concepts",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "中和で酸とアルカリから生じるものは？",
+      "choices": [
+        "塩と水",
+        "酸素だけ",
+        "水素だけ",
+        "金属だけ"
+      ],
+      "answer": "塩と水",
+      "explanation": "酸の水素イオンとアルカリの水酸化物イオンから水ができ、塩も生じます。",
+      "tags": [
+        "化学",
+        "中和"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-025",
+      "level": "junior-high-1",
+      "subject": "science",
+      "category": "science-concepts",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "凸レンズで、物体を焦点の内側に置くとできる像は？",
+      "choices": [
+        "正立で拡大された虚像",
+        "倒立の実像",
+        "同じ大きさの実像",
+        "像は必ずできない"
+      ],
+      "answer": "正立で拡大された虚像",
+      "explanation": "焦点内の物体は虫眼鏡と同じく、正立・拡大の虚像になります。",
+      "tags": [
+        "物理",
+        "凸レンズ"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-026",
+      "level": "junior-high-1",
+      "subject": "social-studies",
+      "category": "population-density",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "人口120万人、面積30km²の地域の人口密度は何万人/km²ですか？",
+      "answer": 4,
+      "explanation": "人口密度=人口÷面積なので、120÷30=4万人/km²です。",
+      "tags": [
+        "地理",
+        "人口密度"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-027",
+      "level": "junior-high-1",
+      "subject": "social-studies",
+      "category": "population-density",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "人口150万人、面積50km²の地域の人口密度は何万人/km²ですか？",
+      "answer": 3,
+      "explanation": "人口密度=人口÷面積なので、150÷50=3万人/km²です。",
+      "tags": [
+        "地理",
+        "人口密度"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-028",
+      "level": "junior-high-1",
+      "subject": "social-studies",
+      "category": "population-density",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "人口180万人、面積60km²の地域の人口密度は何万人/km²ですか？",
+      "answer": 3,
+      "explanation": "人口密度=人口÷面積なので、180÷60=3万人/km²です。",
+      "tags": [
+        "地理",
+        "人口密度"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-036",
+      "level": "junior-high-2",
+      "subject": "social-studies",
+      "category": "time-difference",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "東経135度を基準にすると、経度135度の地点との時差は何時間ですか？東を正、西を負で答えなさい。",
+      "answer": 0,
+      "explanation": "経度15度で1時間です。(135-135)÷15=0時間です。",
+      "tags": [
+        "地理",
+        "時差",
+        "経度"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-037",
+      "level": "junior-high-2",
+      "subject": "social-studies",
+      "category": "time-difference",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "東経135度を基準にすると、経度150度の地点との時差は何時間ですか？東を正、西を負で答えなさい。",
+      "answer": 1,
+      "explanation": "経度15度で1時間です。(150-135)÷15=1時間です。",
+      "tags": [
+        "地理",
+        "時差",
+        "経度"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-038",
+      "level": "junior-high-2",
+      "subject": "social-studies",
+      "category": "time-difference",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "東経135度を基準にすると、経度120度の地点との時差は何時間ですか？東を正、西を負で答えなさい。",
+      "answer": -1,
+      "explanation": "経度15度で1時間です。(120-135)÷15=-1時間です。",
+      "tags": [
+        "地理",
+        "時差",
+        "経度"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-046",
+      "level": "junior-high-1",
+      "subject": "social-studies",
+      "category": "social-concepts",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "鎌倉幕府を開いた人物は？",
+      "choices": [
+        "源頼朝",
+        "足利尊氏",
+        "徳川家康",
+        "平清盛"
+      ],
+      "answer": "源頼朝",
+      "explanation": "源頼朝は征夷大将軍となり鎌倉幕府を開きました。",
+      "tags": [
+        "歴史",
+        "鎌倉時代"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-047",
+      "level": "junior-high-2",
+      "subject": "social-studies",
+      "category": "social-concepts",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "明治政府が藩を廃止して府県を置いた改革は？",
+      "choices": [
+        "廃藩置県",
+        "版籍奉還",
+        "地租改正",
+        "学制"
+      ],
+      "answer": "廃藩置県",
+      "explanation": "1871年の廃藩置県で中央集権化が進みました。",
+      "tags": [
+        "歴史",
+        "明治時代"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-048",
+      "level": "junior-high-3",
+      "subject": "social-studies",
+      "category": "social-concepts",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "三権分立で法律を制定する機関は？",
+      "choices": [
+        "国会",
+        "内閣",
+        "裁判所",
+        "日本銀行"
+      ],
+      "answer": "国会",
+      "explanation": "立法権は国会、行政権は内閣、司法権は裁判所が担います。",
+      "tags": [
+        "公民",
+        "三権分立"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-049",
+      "level": "junior-high-1",
+      "subject": "social-studies",
+      "category": "social-concepts",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "赤道付近に広がる、年中高温多雨の気候は？",
+      "choices": [
+        "熱帯雨林気候",
+        "砂漠気候",
+        "ツンドラ気候",
+        "地中海性気候"
+      ],
+      "answer": "熱帯雨林気候",
+      "explanation": "赤道付近では上昇気流が生じやすく、年中高温で降水量が多くなります。",
+      "tags": [
+        "地理",
+        "気候"
+      ]
+    },
+    {
+      "id": "junior-high-science-social-050",
+      "level": "junior-high-3",
+      "subject": "social-studies",
+      "category": "social-concepts",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "国際連合の本部がある都市は？",
+      "choices": [
+        "ニューヨーク",
+        "ジュネーブ",
+        "パリ",
+        "東京"
+      ],
+      "answer": "ニューヨーク",
+      "explanation": "国際連合本部はアメリカ合衆国のニューヨークにあります。",
+      "tags": [
+        "公民",
+        "国際連合"
+      ]
+    }
+  ]
+}
