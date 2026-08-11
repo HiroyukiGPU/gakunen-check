@@ -7,10 +7,10 @@
       "subject": "math",
       "category": "fraction",
       "difficulty": 4,
-      "type": "numeric",
+      "type": "multiple-choice",
       "question": "1/2 + 1/4 を小数で表すといくつですか？",
-      "answer": 0.75,
-      "tolerance": 0.01,
+      "choices": ["0.6", "0.75", "1.25", "0.34"],
+      "answer": "0.75",
       "explanation": "1/2は0.5、1/4は0.25なので、合わせると0.75です。"
     },
     {
