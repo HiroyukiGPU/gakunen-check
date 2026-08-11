@@ -9,10 +9,18 @@
       "difficulty": 2,
       "type": "multiple-choice",
       "question": "赤いものはどれですか？",
-      "choices": ["りんご", "そら", "くさ", "バナナ"],
+      "choices": [
+        "そら",
+        "りんご",
+        "くさ",
+        "バナナ"
+      ],
       "answer": "りんご",
       "explanation": "りんごは赤い色をしています。",
-      "tags": ["color", "everyday"]
+      "tags": [
+        "color",
+        "everyday"
+      ]
     },
     {
       "id": "kindergarten-young-math-001",
@@ -32,9 +40,9 @@
       "category": "animals",
       "difficulty": 1,
       "type": "true-false",
-      "question": "いぬは あしが4本ある。",
-      "answer": true,
-      "explanation": "いぬの あしは4本です。"
+      "question": "ねこは あしが2本ある。",
+      "answer": false,
+      "explanation": "ねこの あしは4本です。2本ではありません。"
     }
   ]
 }

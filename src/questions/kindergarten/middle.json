@@ -20,7 +20,12 @@
       "difficulty": 2,
       "type": "multiple-choice",
       "question": "さんかくの形はどれですか？",
-      "choices": ["まる", "しかく", "さんかく", "ほし"],
+      "choices": [
+        "ほし",
+        "まる",
+        "しかく",
+        "さんかく"
+      ],
       "answer": "さんかく",
       "explanation": "3本の線でできている形が「さんかく」です。"
     },

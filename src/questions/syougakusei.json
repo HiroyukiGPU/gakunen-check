@@ -1,1551 +1,1551 @@
 {
-    "version": 1,
-    "questions": [
-        {
-            "id": "elementary-1-001",
-            "level": "elementary-1",
-            "subject": "math",
-            "category": "addition",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "8 + 7 はいくつですか？",
-            "answer": 15,
-            "explanation": "8に7を足すと15です。",
-            "tags": [
-                "たし算"
-            ]
-        },
-        {
-            "id": "elementary-1-002",
-            "level": "elementary-1",
-            "subject": "math",
-            "category": "subtraction",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "16 - 9 はいくつですか？",
-            "answer": 7,
-            "explanation": "16から9を引くと7です。",
-            "tags": [
-                "ひき算"
-            ]
-        },
-        {
-            "id": "elementary-1-003",
-            "level": "elementary-1",
-            "subject": "math",
-            "category": "number-order",
-            "difficulty": 1,
-            "type": "multiple-choice",
-            "question": "3、4、5、6の次にくる数はどれですか？",
-            "choices": [
-                "5",
-                "6",
-                "7",
-                "8"
-            ],
-            "answer": "7",
-            "explanation": "1ずつ増えているので、6の次は7です。",
-            "tags": [
-                "数の順番"
-            ]
-        },
-        {
-            "id": "elementary-1-004",
-            "level": "elementary-1",
-            "subject": "math",
-            "category": "comparison",
-            "difficulty": 1,
-            "type": "multiple-choice",
-            "question": "12と17では、どちらが大きいですか？",
-            "choices": [
-                "12",
-                "17"
-            ],
-            "answer": "17",
-            "explanation": "17は12より大きい数です。",
-            "tags": [
-                "大小比較"
-            ]
-        },
-        {
-            "id": "elementary-1-005",
-            "level": "elementary-1",
-            "subject": "math",
-            "category": "money",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "10円玉が3枚あります。全部で何円ですか？",
-            "answer": 30,
-            "explanation": "10円が3枚なので、10 + 10 + 10 = 30円です。",
-            "tags": [
-                "お金"
-            ]
-        },
-        {
-            "id": "elementary-1-006",
-            "level": "elementary-1",
-            "subject": "math",
-            "category": "time",
-            "difficulty": 3,
-            "type": "numeric",
-            "question": "1時間は何分ですか？",
-            "answer": 60,
-            "explanation": "1時間は60分です。",
-            "tags": [
-                "時間"
-            ]
-        },
-        {
-            "id": "elementary-1-007",
-            "level": "elementary-1",
-            "subject": "math",
-            "category": "shape",
-            "difficulty": 1,
-            "type": "numeric",
-            "question": "三角形の角はいくつありますか？",
-            "answer": 3,
-            "explanation": "三角形には角が3つあります。",
-            "tags": [
-                "図形"
-            ]
-        },
-        {
-            "id": "elementary-1-008",
-            "level": "elementary-1",
-            "subject": "japanese",
-            "category": "reading",
-            "difficulty": 1,
-            "type": "multiple-choice",
-            "question": "「きょうは あめです。」今日の天気は何ですか？",
-            "choices": [
-                "晴れ",
-                "雨",
-                "雪"
-            ],
-            "answer": "雨",
-            "explanation": "文に「あめです」と書かれています。",
-            "tags": [
-                "読解"
-            ]
-        },
-        {
-            "id": "elementary-1-009",
-            "level": "elementary-1",
-            "subject": "japanese",
-            "category": "hiragana",
-            "difficulty": 1,
-            "type": "multiple-choice",
-            "question": "「りんご」の最初の文字はどれですか？",
-            "choices": [
-                "り",
-                "ん",
-                "ご"
-            ],
-            "answer": "り",
-            "explanation": "「りんご」は「り」から始まります。",
-            "tags": [
-                "ひらがな"
-            ]
-        },
-        {
-            "id": "elementary-1-010",
-            "level": "elementary-1",
-            "subject": "japanese",
-            "category": "opposite-word",
-            "difficulty": 2,
-            "type": "multiple-choice",
-            "question": "「大きい」の反対の意味の言葉はどれですか？",
-            "choices": [
-                "長い",
-                "小さい",
-                "高い"
-            ],
-            "answer": "小さい",
-            "explanation": "「大きい」の反対は「小さい」です。",
-            "tags": [
-                "反対語"
-            ]
-        },
-        {
-            "id": "elementary-1-011",
-            "level": "elementary-1",
-            "subject": "general",
-            "category": "season",
-            "difficulty": 1,
-            "type": "multiple-choice",
-            "question": "春の次の季節はどれですか？",
-            "choices": [
-                "冬",
-                "夏",
-                "秋"
-            ],
-            "answer": "夏",
-            "explanation": "季節は春、夏、秋、冬の順に進みます。",
-            "tags": [
-                "季節"
-            ]
-        },
-        {
-            "id": "elementary-1-012",
-            "level": "elementary-1",
-            "subject": "science",
-            "category": "plants",
-            "difficulty": 2,
-            "type": "multiple-choice",
-            "question": "植物に水をまったくあげなかった場合、どうなりやすいですか？",
-            "choices": [
-                "枯れる",
-                "大きくなる",
-                "石になる"
-            ],
-            "answer": "枯れる",
-            "explanation": "植物が育つためには水が必要です。",
-            "tags": [
-                "植物"
-            ]
-        },
-        {
-            "id": "elementary-1-013",
-            "level": "elementary-1",
-            "subject": "science",
-            "category": "animals",
-            "difficulty": 1,
-            "type": "multiple-choice",
-            "question": "魚が生活している場所として最も自然なのはどこですか？",
-            "choices": [
-                "水の中",
-                "空の上",
-                "木の中"
-            ],
-            "answer": "水の中",
-            "explanation": "魚は主に水の中で生活します。",
-            "tags": [
-                "生き物"
-            ]
-        },
-        {
-            "id": "elementary-1-014",
-            "level": "elementary-1",
-            "subject": "logic",
-            "category": "position",
-            "difficulty": 2,
-            "type": "multiple-choice",
-            "question": "AさんはBさんより前に並んでいます。後ろにいるのはだれですか？",
-            "choices": [
-                "Aさん",
-                "Bさん"
-            ],
-            "answer": "Bさん",
-            "explanation": "Aさんが前なので、Bさんが後ろです。",
-            "tags": [
-                "位置関係"
-            ]
-        },
-        {
-            "id": "elementary-1-015",
-            "level": "elementary-1",
-            "subject": "logic",
-            "category": "pattern",
-            "difficulty": 2,
-            "type": "multiple-choice",
-            "question": "○ △ ○ △ ○ の次にくる形はどれですか？",
-            "choices": [
-                "○",
-                "△",
-                "□"
-            ],
-            "answer": "△",
-            "explanation": "○と△が交互に並んでいます。",
-            "tags": [
-                "規則性"
-            ]
-        },
-        {
-            "id": "elementary-2-001",
-            "level": "elementary-2",
-            "subject": "math",
-            "category": "addition",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "37 + 48 はいくつですか？",
-            "answer": 85,
-            "explanation": "37 + 48 = 85です。",
-            "tags": [
-                "たし算",
-                "筆算"
-            ]
-        },
-        {
-            "id": "elementary-2-002",
-            "level": "elementary-2",
-            "subject": "math",
-            "category": "subtraction",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "82 - 56 はいくつですか？",
-            "answer": 26,
-            "explanation": "82 - 56 = 26です。",
-            "tags": [
-                "ひき算",
-                "筆算"
-            ]
-        },
-        {
-            "id": "elementary-2-003",
-            "level": "elementary-2",
-            "subject": "math",
-            "category": "multiplication",
-            "difficulty": 1,
-            "type": "numeric",
-            "question": "4 × 6 はいくつですか？",
-            "answer": 24,
-            "explanation": "4 × 6 = 24です。",
-            "tags": [
-                "九九"
-            ]
-        },
-        {
-            "id": "elementary-2-004",
-            "level": "elementary-2",
-            "subject": "math",
-            "category": "multiplication",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "8 × 7 はいくつですか？",
-            "answer": 56,
-            "explanation": "8 × 7 = 56です。",
-            "tags": [
-                "九九"
-            ]
-        },
-        {
-            "id": "elementary-2-005",
-            "level": "elementary-2",
-            "subject": "math",
-            "category": "subtraction",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "100 - 38 はいくつですか？",
-            "answer": 62,
-            "explanation": "100 - 38 = 62です。",
-            "tags": [
-                "ひき算"
-            ]
-        },
-        {
-            "id": "elementary-2-006",
-            "level": "elementary-2",
-            "subject": "math",
-            "category": "length",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "1mは何cmですか？",
-            "answer": 100,
-            "explanation": "1mは100cmです。",
-            "tags": [
-                "長さ",
-                "単位"
-            ]
-        },
-        {
-            "id": "elementary-2-007",
-            "level": "elementary-2",
-            "subject": "math",
-            "category": "money",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "500円玉1枚と100円玉3枚では、全部で何円ですか？",
-            "answer": 800,
-            "explanation": "500 + 100 × 3 = 800円です。",
-            "tags": [
-                "お金"
-            ]
-        },
-        {
-            "id": "elementary-2-008",
-            "level": "elementary-2",
-            "subject": "math",
-            "category": "time",
-            "difficulty": 2,
-            "type": "multiple-choice",
-            "question": "午前10時から2時間後は何時ですか？",
-            "choices": [
-                "午前11時",
-                "正午12時",
-                "午後1時"
-            ],
-            "answer": "正午12時",
-            "explanation": "午前10時の2時間後は12時です。",
-            "tags": [
-                "時刻"
-            ]
-        },
-        {
-            "id": "elementary-2-009",
-            "level": "elementary-2",
-            "subject": "japanese",
-            "category": "reading",
-            "difficulty": 1,
-            "type": "multiple-choice",
-            "question": "「私は公園で友達とサッカーをしました。」どこでサッカーをしましたか？",
-            "choices": [
-                "学校",
-                "公園",
-                "家"
-            ],
-            "answer": "公園",
-            "explanation": "文に「公園で」と書かれています。",
-            "tags": [
-                "読解"
-            ]
-        },
-        {
-            "id": "elementary-2-010",
-            "level": "elementary-2",
-            "subject": "japanese",
-            "category": "opposite-word",
-            "difficulty": 2,
-            "type": "multiple-choice",
-            "question": "「強い」の反対の意味の言葉はどれですか？",
-            "choices": [
-                "弱い",
-                "速い",
-                "大きい"
-            ],
-            "answer": "弱い",
-            "explanation": "「強い」の反対は「弱い」です。",
-            "tags": [
-                "反対語"
-            ]
-        },
-        {
-            "id": "elementary-2-011",
-            "level": "elementary-2",
-            "subject": "logic",
-            "category": "classification",
-            "difficulty": 2,
-            "type": "multiple-choice",
-            "question": "犬、ねこ、うさぎの共通点として正しいものはどれですか？",
-            "choices": [
-                "植物",
-                "動物",
-                "乗り物"
-            ],
-            "answer": "動物",
-            "explanation": "犬、ねこ、うさぎはすべて動物です。",
-            "tags": [
-                "仲間分け"
-            ]
-        },
-        {
-            "id": "elementary-2-012",
-            "level": "elementary-2",
-            "subject": "science",
-            "category": "water",
-            "difficulty": 1,
-            "type": "multiple-choice",
-            "question": "水が冷えて固まったものを何といいますか？",
-            "choices": [
-                "氷",
-                "水蒸気",
-                "雨"
-            ],
-            "answer": "氷",
-            "explanation": "水は十分に冷えると氷になります。",
-            "tags": [
-                "水",
-                "状態変化"
-            ]
-        },
-        {
-            "id": "elementary-2-013",
-            "level": "elementary-2",
-            "subject": "general",
-            "category": "direction",
-            "difficulty": 3,
-            "type": "multiple-choice",
-            "question": "太陽が沈む方角はどちらですか？",
-            "choices": [
-                "東",
-                "西",
-                "北",
-                "南"
-            ],
-            "answer": "西",
-            "explanation": "太陽はおおむね東から昇り、西へ沈みます。",
-            "tags": [
-                "方角"
-            ]
-        },
-        {
-            "id": "elementary-2-014",
-            "level": "elementary-2",
-            "subject": "logic",
-            "category": "number-pattern",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "2、4、6、8の次にくる数はいくつですか？",
-            "answer": 10,
-            "explanation": "2ずつ増えているので、次は10です。",
-            "tags": [
-                "規則性"
-            ]
-        },
-        {
-            "id": "elementary-2-015",
-            "level": "elementary-2",
-            "subject": "math",
-            "category": "word-problem",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "Aさんはりんごを5個、Bさんは3個持っています。AさんはBさんより何個多いですか？",
-            "answer": 2,
-            "explanation": "5 - 3 = 2なので、2個多いです。",
-            "tags": [
-                "文章題"
-            ]
-        },
-        {
-            "id": "elementary-3-001",
-            "level": "elementary-3",
-            "subject": "math",
-            "category": "division",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "240 ÷ 6 はいくつですか？",
-            "answer": 40,
-            "explanation": "240 ÷ 6 = 40です。",
-            "tags": [
-                "わり算"
-            ]
-        },
-        {
-            "id": "elementary-3-002",
-            "level": "elementary-3",
-            "subject": "math",
-            "category": "multiplication",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "125 × 4 はいくつですか？",
-            "answer": 500,
-            "explanation": "125 × 4 = 500です。",
-            "tags": [
-                "かけ算"
-            ]
-        },
-        {
-            "id": "elementary-3-003",
-            "level": "elementary-3",
-            "subject": "math",
-            "category": "subtraction",
-            "difficulty": 3,
-            "type": "numeric",
-            "question": "804 - 367 はいくつですか？",
-            "answer": 437,
-            "explanation": "804 - 367 = 437です。",
-            "tags": [
-                "ひき算",
-                "筆算"
-            ]
-        },
-        {
-            "id": "elementary-3-004",
-            "level": "elementary-3",
-            "subject": "math",
-            "category": "fraction",
-            "difficulty": 3,
-            "type": "multiple-choice",
-            "question": "8個のケーキのうち2個を食べました。食べた量は全体の何分の何ですか？",
-            "choices": [
-                "1/2",
-                "1/3",
-                "1/4",
-                "1/8"
-            ],
-            "answer": "1/4",
-            "explanation": "2/8は約分すると1/4です。",
-            "tags": [
-                "分数"
-            ]
-        },
-        {
-            "id": "elementary-3-005",
-            "level": "elementary-3",
-            "subject": "math",
-            "category": "length",
-            "difficulty": 1,
-            "type": "numeric",
-            "question": "1kmは何mですか？",
-            "answer": 1000,
-            "explanation": "1kmは1000mです。",
-            "tags": [
-                "単位"
-            ]
-        },
-        {
-            "id": "elementary-3-006",
-            "level": "elementary-3",
-            "subject": "math",
-            "category": "perimeter",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "縦4cm、横6cmの長方形の周りの長さは何cmですか？",
-            "answer": 20,
-            "explanation": "4 + 6 + 4 + 6 = 20cmです。",
-            "tags": [
-                "図形",
-                "周りの長さ"
-            ]
-        },
-        {
-            "id": "elementary-3-007",
-            "level": "elementary-3",
-            "subject": "math",
-            "category": "time",
-            "difficulty": 3,
-            "type": "multiple-choice",
-            "question": "3時30分から45分後は何時何分ですか？",
-            "choices": [
-                "3時55分",
-                "4時5分",
-                "4時15分",
-                "4時30分"
-            ],
-            "answer": "4時15分",
-            "explanation": "3時30分から30分後が4時、さらに15分で4時15分です。",
-            "tags": [
-                "時刻"
-            ]
-        },
-        {
-            "id": "elementary-3-008",
-            "level": "elementary-3",
-            "subject": "math",
-            "category": "money",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "1本80円の鉛筆を4本買います。何円必要ですか？",
-            "answer": 320,
-            "explanation": "80 × 4 = 320円です。",
-            "tags": [
-                "文章題",
-                "お金"
-            ]
-        },
-        {
-            "id": "elementary-3-009",
-            "level": "elementary-3",
-            "subject": "japanese",
-            "category": "reading",
-            "difficulty": 2,
-            "type": "multiple-choice",
-            "question": "「朝から雨が降っていたので、私は傘を持って学校へ行った。」傘を持った理由は何ですか？",
-            "choices": [
-                "学校が遠いから",
-                "雨が降っていたから",
-                "暑かったから"
-            ],
-            "answer": "雨が降っていたから",
-            "explanation": "文の「雨が降っていたので」が理由を表しています。",
-            "tags": [
-                "読解",
-                "理由"
-            ]
-        },
-        {
-            "id": "elementary-3-010",
-            "level": "elementary-3",
-            "subject": "japanese",
-            "category": "vocabulary",
-            "difficulty": 2,
-            "type": "multiple-choice",
-            "question": "「温かい」に近い意味の言葉はどれですか？",
-            "choices": [
-                "あたたかい",
-                "つめたい",
-                "かたい"
-            ],
-            "answer": "あたたかい",
-            "explanation": "「温かい」は「あたたかい」という意味です。",
-            "tags": [
-                "語彙"
-            ]
-        },
-        {
-            "id": "elementary-3-011",
-            "level": "elementary-3",
-            "subject": "science",
-            "category": "insects",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "昆虫の足は基本的に何本ありますか？",
-            "answer": 6,
-            "explanation": "昆虫の足は胸から3対、合計6本あります。",
-            "tags": [
-                "昆虫"
-            ]
-        },
-        {
-            "id": "elementary-3-012",
-            "level": "elementary-3",
-            "subject": "science",
-            "category": "plants",
-            "difficulty": 4,
-            "type": "multiple-choice",
-            "question": "植物が日光を利用して養分を作る働きを何といいますか？",
-            "choices": [
-                "呼吸",
-                "光合成",
-                "蒸発",
-                "発芽"
-            ],
-            "answer": "光合成",
-            "explanation": "植物が光を利用して養分を作る働きを光合成といいます。",
-            "tags": [
-                "植物",
-                "光合成"
-            ]
-        },
-        {
-            "id": "elementary-3-013",
-            "level": "elementary-3",
-            "subject": "science",
-            "category": "direction",
-            "difficulty": 2,
-            "type": "multiple-choice",
-            "question": "方位磁針のNは、どの方角を表しますか？",
-            "choices": [
-                "北",
-                "南",
-                "東",
-                "西"
-            ],
-            "answer": "北",
-            "explanation": "NはNorthの頭文字で、北を表します。",
-            "tags": [
-                "方角"
-            ]
-        },
-        {
-            "id": "elementary-3-014",
-            "level": "elementary-3",
-            "subject": "social",
-            "category": "japan-geography",
-            "difficulty": 3,
-            "type": "multiple-choice",
-            "question": "日本で一番大きな島はどれですか？",
-            "choices": [
-                "北海道",
-                "本州",
-                "四国",
-                "九州"
-            ],
-            "answer": "本州",
-            "explanation": "日本の4つの主要な島の中で最大なのは本州です。",
-            "tags": [
-                "日本地理"
-            ]
-        },
-        {
-            "id": "elementary-3-015",
-            "level": "elementary-3",
-            "subject": "logic",
-            "category": "number-pattern",
-            "difficulty": 4,
-            "type": "numeric",
-            "question": "3、6、12、24の次にくる数はいくつですか？",
-            "answer": 48,
-            "explanation": "前の数を2倍しているので、24 × 2 = 48です。",
-            "tags": [
-                "規則性"
-            ]
-        },
-        {
-            "id": "elementary-4-001",
-            "level": "elementary-4",
-            "subject": "math",
-            "category": "division",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "864 ÷ 8 はいくつですか？",
-            "answer": 108,
-            "explanation": "864 ÷ 8 = 108です。",
-            "tags": [
-                "わり算"
-            ]
-        },
-        {
-            "id": "elementary-4-002",
-            "level": "elementary-4",
-            "subject": "math",
-            "category": "multiplication",
-            "difficulty": 3,
-            "type": "numeric",
-            "question": "125 × 32 はいくつですか？",
-            "answer": 4000,
-            "explanation": "125 × 32 = 4000です。",
-            "tags": [
-                "かけ算"
-            ]
-        },
-        {
-            "id": "elementary-4-003",
-            "level": "elementary-4",
-            "subject": "math",
-            "category": "decimal",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "0.7 + 1.35 はいくつですか？",
-            "answer": 2.05,
-            "explanation": "0.70 + 1.35 = 2.05です。",
-            "tags": [
-                "小数"
-            ]
-        },
-        {
-            "id": "elementary-4-004",
-            "level": "elementary-4",
-            "subject": "math",
-            "category": "decimal",
-            "difficulty": 3,
-            "type": "numeric",
-            "question": "3.8 - 1.46 はいくつですか？",
-            "answer": 2.34,
-            "explanation": "3.80 - 1.46 = 2.34です。",
-            "tags": [
-                "小数"
-            ]
-        },
-        {
-            "id": "elementary-4-005",
-            "level": "elementary-4",
-            "subject": "math",
-            "category": "angle",
-            "difficulty": 1,
-            "type": "multiple-choice",
-            "question": "90度の角を何といいますか？",
-            "choices": [
-                "鋭角",
-                "直角",
-                "鈍角"
-            ],
-            "answer": "直角",
-            "explanation": "90度の角を直角といいます。",
-            "tags": [
-                "角度"
-            ]
-        },
-        {
-            "id": "elementary-4-006",
-            "level": "elementary-4",
-            "subject": "math",
-            "category": "area",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "縦5cm、横8cmの長方形の面積は何cm²ですか？",
-            "answer": 40,
-            "explanation": "5 × 8 = 40cm²です。",
-            "tags": [
-                "面積",
-                "長方形"
-            ]
-        },
-        {
-            "id": "elementary-4-007",
-            "level": "elementary-4",
-            "subject": "math",
-            "category": "area",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "1辺が6cmの正方形の面積は何cm²ですか？",
-            "answer": 36,
-            "explanation": "6 × 6 = 36cm²です。",
-            "tags": [
-                "面積",
-                "正方形"
-            ]
-        },
-        {
-            "id": "elementary-4-008",
-            "level": "elementary-4",
-            "subject": "math",
-            "category": "length",
-            "difficulty": 3,
-            "type": "numeric",
-            "question": "1200mは何kmですか？",
-            "answer": 1.2,
-            "explanation": "1000mが1kmなので、1200mは1.2kmです。",
-            "tags": [
-                "単位"
-            ]
-        },
-        {
-            "id": "elementary-4-009",
-            "level": "elementary-4",
-            "subject": "japanese",
-            "category": "reading",
-            "difficulty": 2,
-            "type": "multiple-choice",
-            "question": "「弟は急いで家を出た。しかし、バスには間に合わなかった。」弟はバスに乗れましたか？",
-            "choices": [
-                "乗れた",
-                "乗れなかった",
-                "文からはわからない"
-            ],
-            "answer": "乗れなかった",
-            "explanation": "「バスには間に合わなかった」とあるため、乗れなかったと判断できます。",
-            "tags": [
-                "読解"
-            ]
-        },
-        {
-            "id": "elementary-4-010",
-            "level": "elementary-4",
-            "subject": "japanese",
-            "category": "opposite-word",
-            "difficulty": 2,
-            "type": "multiple-choice",
-            "question": "「必要」の反対に近い意味の言葉はどれですか？",
-            "choices": [
-                "重要",
-                "不要",
-                "便利"
-            ],
-            "answer": "不要",
-            "explanation": "「不要」は「必要ではない」という意味です。",
-            "tags": [
-                "反対語"
-            ]
-        },
-        {
-            "id": "elementary-4-011",
-            "level": "elementary-4",
-            "subject": "science",
-            "category": "water",
-            "difficulty": 2,
-            "type": "multiple-choice",
-            "question": "水を熱し続けると、主に何になりますか？",
-            "choices": [
-                "氷",
-                "水蒸気",
-                "石"
-            ],
-            "answer": "水蒸気",
-            "explanation": "水を熱すると気体の水蒸気になります。",
-            "tags": [
-                "状態変化"
-            ]
-        },
-        {
-            "id": "elementary-4-012",
-            "level": "elementary-4",
-            "subject": "science",
-            "category": "electricity",
-            "difficulty": 2,
-            "type": "multiple-choice",
-            "question": "次のうち、電気を通しやすいものはどれですか？",
-            "choices": [
-                "鉄",
-                "ゴム",
-                "木"
-            ],
-            "answer": "鉄",
-            "explanation": "鉄などの金属は電気を通しやすい性質があります。",
-            "tags": [
-                "電気"
-            ]
-        },
-        {
-            "id": "elementary-4-013",
-            "level": "elementary-4",
-            "subject": "social",
-            "category": "prefectures",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "日本の都道府県は全部でいくつありますか？",
-            "answer": 47,
-            "explanation": "日本には47の都道府県があります。",
-            "tags": [
-                "日本地理"
-            ]
-        },
-        {
-            "id": "elementary-4-014",
-            "level": "elementary-4",
-            "subject": "social",
-            "category": "japan-geography",
-            "difficulty": 1,
-            "type": "multiple-choice",
-            "question": "日本の首都はどこですか？",
-            "choices": [
-                "大阪",
-                "京都",
-                "東京",
-                "札幌"
-            ],
-            "answer": "東京",
-            "explanation": "日本の首都は東京です。",
-            "tags": [
-                "日本地理"
-            ]
-        },
-        {
-            "id": "elementary-4-015",
-            "level": "elementary-4",
-            "subject": "logic",
-            "category": "pattern",
-            "difficulty": 3,
-            "type": "multiple-choice",
-            "question": "A→C、B→D、C→Eという規則があります。同じ規則ならD→何になりますか？",
-            "choices": [
-                "E",
-                "F",
-                "G",
-                "H"
-            ],
-            "answer": "F",
-            "explanation": "アルファベットを2つ先へ進める規則なので、Dの2つ先はFです。",
-            "tags": [
-                "規則性"
-            ]
-        },
-        {
-            "id": "elementary-5-001",
-            "level": "elementary-5",
-            "subject": "math",
-            "category": "decimal",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "2.4 × 1.5 はいくつですか？",
-            "answer": 3.6,
-            "explanation": "2.4 × 1.5 = 3.6です。",
-            "tags": [
-                "小数",
-                "かけ算"
-            ]
-        },
-        {
-            "id": "elementary-5-002",
-            "level": "elementary-5",
-            "subject": "math",
-            "category": "decimal",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "7.2 ÷ 0.8 はいくつですか？",
-            "answer": 9,
-            "explanation": "7.2 ÷ 0.8 = 9です。",
-            "tags": [
-                "小数",
-                "わり算"
-            ]
-        },
-        {
-            "id": "elementary-5-003",
-            "level": "elementary-5",
-            "subject": "math",
-            "category": "fraction",
-            "difficulty": 4,
-            "type": "multiple-choice",
-            "question": "3/4 + 1/6 はいくつですか？",
-            "choices": [
-                "4/10",
-                "5/12",
-                "11/12",
-                "1"
-            ],
-            "answer": "11/12",
-            "explanation": "3/4 = 9/12、1/6 = 2/12なので、11/12です。",
-            "tags": [
-                "分数"
-            ]
-        },
-        {
-            "id": "elementary-5-004",
-            "level": "elementary-5",
-            "subject": "math",
-            "category": "fraction",
-            "difficulty": 3,
-            "type": "multiple-choice",
-            "question": "5/6 - 1/3 はいくつですか？",
-            "choices": [
-                "1/2",
-                "2/3",
-                "4/3",
-                "1/3"
-            ],
-            "answer": "1/2",
-            "explanation": "1/3 = 2/6なので、5/6 - 2/6 = 3/6 = 1/2です。",
-            "tags": [
-                "分数"
-            ]
-        },
-        {
-            "id": "elementary-5-005",
-            "level": "elementary-5",
-            "subject": "math",
-            "category": "percentage",
-            "difficulty": 3,
-            "type": "numeric",
-            "question": "200円の15%はいくらですか？",
-            "answer": 30,
-            "explanation": "200 × 0.15 = 30円です。",
-            "tags": [
-                "割合",
-                "百分率"
-            ]
-        },
-        {
-            "id": "elementary-5-006",
-            "level": "elementary-5",
-            "subject": "math",
-            "category": "percentage",
-            "difficulty": 3,
-            "type": "numeric",
-            "question": "40人の25%は何人ですか？",
-            "answer": 10,
-            "explanation": "40 × 0.25 = 10人です。",
-            "tags": [
-                "割合"
-            ]
-        },
-        {
-            "id": "elementary-5-007",
-            "level": "elementary-5",
-            "subject": "math",
-            "category": "volume",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "縦3cm、横4cm、高さ5cmの直方体の体積は何cm³ですか？",
-            "answer": 60,
-            "explanation": "3 × 4 × 5 = 60cm³です。",
-            "tags": [
-                "体積"
-            ]
-        },
-        {
-            "id": "elementary-5-008",
-            "level": "elementary-5",
-            "subject": "math",
-            "category": "area",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "底辺10cm、高さ6cmの三角形の面積は何cm²ですか？",
-            "answer": 30,
-            "explanation": "10 × 6 ÷ 2 = 30cm²です。",
-            "tags": [
-                "三角形",
-                "面積"
-            ]
-        },
-        {
-            "id": "elementary-5-009",
-            "level": "elementary-5",
-            "subject": "math",
-            "category": "speed",
-            "difficulty": 3,
-            "type": "numeric",
-            "question": "150kmを3時間で進みました。平均時速は何kmですか？",
-            "answer": 50,
-            "explanation": "150 ÷ 3 = 50なので、時速50kmです。",
-            "tags": [
-                "速さ"
-            ]
-        },
-        {
-            "id": "elementary-5-010",
-            "level": "elementary-5",
-            "subject": "japanese",
-            "category": "reading",
-            "difficulty": 2,
-            "type": "multiple-choice",
-            "question": "「この商品は安い。しかし、壊れやすい。」商品の良い点として書かれているのはどれですか？",
-            "choices": [
-                "安いこと",
-                "壊れやすいこと",
-                "大きいこと"
-            ],
-            "answer": "安いこと",
-            "explanation": "良い点として読み取れるのは「安い」ことです。",
-            "tags": [
-                "読解"
-            ]
-        },
-        {
-            "id": "elementary-5-011",
-            "level": "elementary-5",
-            "subject": "logic",
-            "category": "cause-effect",
-            "difficulty": 2,
-            "type": "multiple-choice",
-            "question": "「大雨が降ったので、川の水が増えた。」原因はどれですか？",
-            "choices": [
-                "大雨が降ったこと",
-                "川の水が増えたこと",
-                "川がなくなったこと"
-            ],
-            "answer": "大雨が降ったこと",
-            "explanation": "大雨が原因となり、川の水が増えています。",
-            "tags": [
-                "原因と結果"
-            ]
-        },
-        {
-            "id": "elementary-5-012",
-            "level": "elementary-5",
-            "subject": "science",
-            "category": "germination",
-            "difficulty": 3,
-            "type": "multiple-select",
-            "question": "種子の発芽に必要な条件をすべて選んでください。",
-            "choices": [
-                "水",
-                "空気",
-                "適した温度",
-                "必ず強い日光"
-            ],
-            "answer": [
-                "水",
-                "空気",
-                "適した温度"
-            ],
-            "explanation": "種子の発芽には、水、空気、適した温度が必要です。",
-            "tags": [
-                "植物",
-                "発芽"
-            ]
-        },
-        {
-            "id": "elementary-5-013",
-            "level": "elementary-5",
-            "subject": "science",
-            "category": "pendulum",
-            "difficulty": 4,
-            "type": "multiple-choice",
-            "question": "振り子が1往復する時間に大きく関係するものはどれですか？",
-            "choices": [
-                "振り子の長さ",
-                "おもりの色",
-                "糸の色"
-            ],
-            "answer": "振り子の長さ",
-            "explanation": "振り子の長さを変えると、1往復する時間が変化します。",
-            "tags": [
-                "振り子"
-            ]
-        },
-        {
-            "id": "elementary-5-014",
-            "level": "elementary-5",
-            "subject": "social",
-            "category": "prefectures",
-            "difficulty": 2,
-            "type": "multiple-choice",
-            "question": "日本で最も面積が大きい都道府県はどこですか？",
-            "choices": [
-                "東京都",
-                "北海道",
-                "長野県",
-                "沖縄県"
-            ],
-            "answer": "北海道",
-            "explanation": "日本で最も面積が大きい都道府県は北海道です。",
-            "tags": [
-                "日本地理"
-            ]
-        },
-        {
-            "id": "elementary-5-015",
-            "level": "elementary-5",
-            "subject": "logic",
-            "category": "equation-thinking",
-            "difficulty": 4,
-            "type": "numeric",
-            "question": "ある数を2倍して6を足すと20になります。ある数はいくつですか？",
-            "answer": 7,
-            "explanation": "20 - 6 = 14、14 ÷ 2 = 7です。",
-            "tags": [
-                "逆算",
-                "論理"
-            ]
-        },
-        {
-            "id": "elementary-6-001",
-            "level": "elementary-6",
-            "subject": "math",
-            "category": "ratio",
-            "difficulty": 3,
-            "type": "numeric",
-            "question": "3 : 5 = x : 20 のとき、xはいくつですか？",
-            "answer": 12,
-            "explanation": "5から20は4倍なので、3も4倍して12です。",
-            "tags": [
-                "比"
-            ]
-        },
-        {
-            "id": "elementary-6-002",
-            "level": "elementary-6",
-            "subject": "math",
-            "category": "fraction",
-            "difficulty": 4,
-            "type": "multiple-choice",
-            "question": "5/6 ÷ 2/3 はいくつですか？",
-            "choices": [
-                "5/9",
-                "5/4",
-                "4/5",
-                "10/18"
-            ],
-            "answer": "5/4",
-            "explanation": "5/6 × 3/2 = 15/12 = 5/4です。",
-            "tags": [
-                "分数",
-                "わり算"
-            ]
-        },
-        {
-            "id": "elementary-6-003",
-            "level": "elementary-6",
-            "subject": "math",
-            "category": "fraction",
-            "difficulty": 3,
-            "type": "multiple-choice",
-            "question": "3/5 × 10/9 はいくつですか？",
-            "choices": [
-                "2/3",
-                "3/2",
-                "30/14",
-                "1/3"
-            ],
-            "answer": "2/3",
-            "explanation": "3/5 × 10/9 = 30/45 = 2/3です。",
-            "tags": [
-                "分数",
-                "かけ算"
-            ]
-        },
-        {
-            "id": "elementary-6-004",
-            "level": "elementary-6",
-            "subject": "math",
-            "category": "speed",
-            "difficulty": 2,
-            "type": "numeric",
-            "question": "120kmを2時間で進みました。平均時速は何kmですか？",
-            "answer": 60,
-            "explanation": "120 ÷ 2 = 60なので、時速60kmです。",
-            "tags": [
-                "速さ"
-            ]
-        },
-        {
-            "id": "elementary-6-005",
-            "level": "elementary-6",
-            "subject": "math",
-            "category": "circle-area",
-            "difficulty": 3,
-            "type": "numeric",
-            "question": "半径3cmの円の面積を、円周率を3.14として求めてください。",
-            "answer": 28.26,
-            "tolerance": 0.001,
-            "explanation": "3 × 3 × 3.14 = 28.26cm²です。",
-            "tags": [
-                "円",
-                "面積"
-            ]
-        },
-        {
-            "id": "elementary-6-006",
-            "level": "elementary-6",
-            "subject": "math",
-            "category": "circumference",
-            "difficulty": 3,
-            "type": "numeric",
-            "question": "半径5cmの円の円周を、円周率を3.14として求めてください。",
-            "answer": 31.4,
-            "tolerance": 0.001,
-            "explanation": "直径は10cmなので、10 × 3.14 = 31.4cmです。",
-            "tags": [
-                "円",
-                "円周"
-            ]
-        },
-        {
-            "id": "elementary-6-007",
-            "level": "elementary-6",
-            "subject": "math",
-            "category": "percentage",
-            "difficulty": 3,
-            "type": "numeric",
-            "question": "300人のうち120人がAを選びました。Aを選んだ人の割合は何%ですか？",
-            "answer": 40,
-            "explanation": "120 ÷ 300 × 100 = 40%です。",
-            "tags": [
-                "割合",
-                "百分率"
-            ]
-        },
-        {
-            "id": "elementary-6-008",
-            "level": "elementary-6",
-            "subject": "logic",
-            "category": "sequence",
-            "difficulty": 4,
-            "type": "numeric",
-            "question": "2、5、8、11、14……と3ずつ増える数の並びがあります。第10番目の数はいくつですか？",
-            "answer": 29,
-            "explanation": "第1項が2で、その後3ずつ増えるので、2 + 3 × 9 = 29です。",
-            "tags": [
-                "規則性",
-                "数列"
-            ]
-        },
-        {
-            "id": "elementary-6-009",
-            "level": "elementary-6",
-            "subject": "logic",
-            "category": "counterexample",
-            "difficulty": 4,
-            "type": "multiple-choice",
-            "question": "「すべての鳥は飛べる」と考えていました。しかし、飛べないペンギンが見つかりました。このことから最も適切に言えることはどれですか？",
-            "choices": [
-                "すべての鳥は飛べるという考えは正しくない",
-                "ペンギンは鳥ではない",
-                "すべての鳥は飛べない",
-                "何もわからない"
-            ],
-            "answer": "すべての鳥は飛べるという考えは正しくない",
-            "explanation": "1つでも反例があれば「すべての鳥が飛べる」という主張は成立しません。",
-            "tags": [
-                "論理",
-                "反例"
-            ]
-        },
-        {
-            "id": "elementary-6-010",
-            "level": "elementary-6",
-            "subject": "japanese",
-            "category": "reading",
-            "difficulty": 3,
-            "type": "multiple-choice",
-            "question": "「この町では自転車を使う人が増えた。そのため、自転車置き場を増設した。」自転車置き場を増やした理由は何ですか？",
-            "choices": [
-                "自転車を使う人が増えたから",
-                "自転車を使う人が減ったから",
-                "道路がなくなったから"
-            ],
-            "answer": "自転車を使う人が増えたから",
-            "explanation": "「そのため」は前の文を理由として結果につなげています。",
-            "tags": [
-                "読解",
-                "因果関係"
-            ]
-        },
-        {
-            "id": "elementary-6-011",
-            "level": "elementary-6",
-            "subject": "science",
-            "category": "combustion",
-            "difficulty": 3,
-            "type": "multiple-choice",
-            "question": "酸素を多く含む空気の中で物を燃やすと、燃え方はどうなりやすいですか？",
-            "choices": [
-                "激しくなる",
-                "必ず消える",
-                "変わらない"
-            ],
-            "answer": "激しくなる",
-            "explanation": "燃焼には酸素が必要なので、酸素が多いと燃焼が激しくなりやすくなります。",
-            "tags": [
-                "燃焼",
-                "酸素"
-            ]
-        },
-        {
-            "id": "elementary-6-012",
-            "level": "elementary-6",
-            "subject": "science",
-            "category": "human-body",
-            "difficulty": 2,
-            "type": "multiple-choice",
-            "question": "人間が呼吸によって体内に取り入れる重要な気体はどれですか？",
-            "choices": [
-                "酸素",
-                "水素",
-                "ヘリウム"
-            ],
-            "answer": "酸素",
-            "explanation": "人間は呼吸によって酸素を体内に取り入れます。",
-            "tags": [
-                "呼吸",
-                "人体"
-            ]
-        },
-        {
-            "id": "elementary-6-013",
-            "level": "elementary-6",
-            "subject": "social",
-            "category": "constitution",
-            "difficulty": 3,
-            "type": "multiple-select",
-            "question": "日本国憲法の三原則をすべて選んでください。",
-            "choices": [
-                "国民主権",
-                "基本的人権の尊重",
-                "平和主義",
-                "富国強兵"
-            ],
-            "answer": [
-                "国民主権",
-                "基本的人権の尊重",
-                "平和主義"
-            ],
-            "explanation": "日本国憲法の三原則は、国民主権、基本的人権の尊重、平和主義です。",
-            "tags": [
-                "憲法",
-                "政治"
-            ]
-        },
-        {
-            "id": "elementary-6-014",
-            "level": "elementary-6",
-            "subject": "social",
-            "category": "government",
-            "difficulty": 4,
-            "type": "multiple-choice",
-            "question": "国会・内閣・裁判所がそれぞれ権力を分担する仕組みを何といいますか？",
-            "choices": [
-                "三権分立",
-                "地方自治",
-                "国民主権",
-                "議院内閣制"
-            ],
-            "answer": "三権分立",
-            "explanation": "立法・行政・司法を分ける仕組みを三権分立といいます。",
-            "tags": [
-                "政治",
-                "三権分立"
-            ]
-        },
-        {
-            "id": "elementary-6-015",
-            "level": "elementary-6",
-            "subject": "logic",
-            "category": "comparison",
-            "difficulty": 3,
-            "type": "multiple-choice",
-            "question": "AさんはBさんより速く、CさんはAさんより速いです。一番速いのはだれですか？",
-            "choices": [
-                "Aさん",
-                "Bさん",
-                "Cさん"
-            ],
-            "answer": "Cさん",
-            "explanation": "CさんはAさんより速く、AさんはBさんより速いので、Cさんが一番速いです。",
-            "tags": [
-                "比較",
-                "論理"
-            ]
-        }
-    ]
+  "version": 1,
+  "questions": [
+    {
+      "id": "elementary-1-001",
+      "level": "elementary-1",
+      "subject": "math",
+      "category": "addition",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "8 + 7 はいくつですか？",
+      "answer": 15,
+      "explanation": "8に7を足すと15です。",
+      "tags": [
+        "たし算"
+      ]
+    },
+    {
+      "id": "elementary-1-002",
+      "level": "elementary-1",
+      "subject": "math",
+      "category": "subtraction",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "16 - 9 はいくつですか？",
+      "answer": 7,
+      "explanation": "16から9を引くと7です。",
+      "tags": [
+        "ひき算"
+      ]
+    },
+    {
+      "id": "elementary-1-003",
+      "level": "elementary-1",
+      "subject": "math",
+      "category": "number-order",
+      "difficulty": 1,
+      "type": "multiple-choice",
+      "question": "3、4、5、6の次にくる数はどれですか？",
+      "choices": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "answer": "7",
+      "explanation": "1ずつ増えているので、6の次は7です。",
+      "tags": [
+        "数の順番"
+      ]
+    },
+    {
+      "id": "elementary-1-004",
+      "level": "elementary-1",
+      "subject": "math",
+      "category": "comparison",
+      "difficulty": 1,
+      "type": "multiple-choice",
+      "question": "12と17では、どちらが大きいですか？",
+      "choices": [
+        "12",
+        "17"
+      ],
+      "answer": "17",
+      "explanation": "17は12より大きい数です。",
+      "tags": [
+        "大小比較"
+      ]
+    },
+    {
+      "id": "elementary-1-005",
+      "level": "elementary-1",
+      "subject": "math",
+      "category": "money",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "10円玉が3枚あります。全部で何円ですか？",
+      "answer": 30,
+      "explanation": "10円が3枚なので、10 + 10 + 10 = 30円です。",
+      "tags": [
+        "お金"
+      ]
+    },
+    {
+      "id": "elementary-1-006",
+      "level": "elementary-1",
+      "subject": "math",
+      "category": "time",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "1時間は何分ですか？",
+      "answer": 60,
+      "explanation": "1時間は60分です。",
+      "tags": [
+        "時間"
+      ]
+    },
+    {
+      "id": "elementary-1-007",
+      "level": "elementary-1",
+      "subject": "math",
+      "category": "shape",
+      "difficulty": 1,
+      "type": "numeric",
+      "question": "三角形の角はいくつありますか？",
+      "answer": 3,
+      "explanation": "三角形には角が3つあります。",
+      "tags": [
+        "図形"
+      ]
+    },
+    {
+      "id": "elementary-1-008",
+      "level": "elementary-1",
+      "subject": "japanese",
+      "category": "reading",
+      "difficulty": 1,
+      "type": "multiple-choice",
+      "question": "「きょうは あめです。」今日の天気は何ですか？",
+      "choices": [
+        "雪",
+        "雨",
+        "晴れ"
+      ],
+      "answer": "雨",
+      "explanation": "文に「あめです」と書かれています。",
+      "tags": [
+        "読解"
+      ]
+    },
+    {
+      "id": "elementary-1-009",
+      "level": "elementary-1",
+      "subject": "japanese",
+      "category": "hiragana",
+      "difficulty": 1,
+      "type": "multiple-choice",
+      "question": "「りんご」の最初の文字はどれですか？",
+      "choices": [
+        "ご",
+        "ん",
+        "り"
+      ],
+      "answer": "り",
+      "explanation": "「りんご」は「り」から始まります。",
+      "tags": [
+        "ひらがな"
+      ]
+    },
+    {
+      "id": "elementary-1-010",
+      "level": "elementary-1",
+      "subject": "japanese",
+      "category": "opposite-word",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "「大きい」の反対の意味の言葉はどれですか？",
+      "choices": [
+        "小さい",
+        "高い",
+        "長い"
+      ],
+      "answer": "小さい",
+      "explanation": "「大きい」の反対は「小さい」です。",
+      "tags": [
+        "反対語"
+      ]
+    },
+    {
+      "id": "elementary-1-011",
+      "level": "elementary-1",
+      "subject": "general",
+      "category": "season",
+      "difficulty": 1,
+      "type": "multiple-choice",
+      "question": "春の次の季節はどれですか？",
+      "choices": [
+        "冬",
+        "夏",
+        "秋"
+      ],
+      "answer": "夏",
+      "explanation": "季節は春、夏、秋、冬の順に進みます。",
+      "tags": [
+        "季節"
+      ]
+    },
+    {
+      "id": "elementary-1-012",
+      "level": "elementary-1",
+      "subject": "science",
+      "category": "plants",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "植物に水をまったくあげなかった場合、どうなりやすいですか？",
+      "choices": [
+        "石になる",
+        "大きくなる",
+        "枯れる"
+      ],
+      "answer": "枯れる",
+      "explanation": "植物が育つためには水が必要です。",
+      "tags": [
+        "植物"
+      ]
+    },
+    {
+      "id": "elementary-1-013",
+      "level": "elementary-1",
+      "subject": "science",
+      "category": "animals",
+      "difficulty": 1,
+      "type": "multiple-choice",
+      "question": "魚が生活している場所として最も自然なのはどこですか？",
+      "choices": [
+        "水の中",
+        "木の中",
+        "空の上"
+      ],
+      "answer": "水の中",
+      "explanation": "魚は主に水の中で生活します。",
+      "tags": [
+        "生き物"
+      ]
+    },
+    {
+      "id": "elementary-1-014",
+      "level": "elementary-1",
+      "subject": "logic",
+      "category": "position",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "AさんはBさんより前に並んでいます。後ろにいるのはだれですか？",
+      "choices": [
+        "Bさん",
+        "Aさん"
+      ],
+      "answer": "Bさん",
+      "explanation": "Aさんが前なので、Bさんが後ろです。",
+      "tags": [
+        "位置関係"
+      ]
+    },
+    {
+      "id": "elementary-1-015",
+      "level": "elementary-1",
+      "subject": "logic",
+      "category": "pattern",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "○ △ ○ △ ○ の次にくる形はどれですか？",
+      "choices": [
+        "□",
+        "○",
+        "△"
+      ],
+      "answer": "△",
+      "explanation": "○と△が交互に並んでいます。",
+      "tags": [
+        "規則性"
+      ]
+    },
+    {
+      "id": "elementary-2-001",
+      "level": "elementary-2",
+      "subject": "math",
+      "category": "addition",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "37 + 48 はいくつですか？",
+      "answer": 85,
+      "explanation": "37 + 48 = 85です。",
+      "tags": [
+        "たし算",
+        "筆算"
+      ]
+    },
+    {
+      "id": "elementary-2-002",
+      "level": "elementary-2",
+      "subject": "math",
+      "category": "subtraction",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "82 - 56 はいくつですか？",
+      "answer": 26,
+      "explanation": "82 - 56 = 26です。",
+      "tags": [
+        "ひき算",
+        "筆算"
+      ]
+    },
+    {
+      "id": "elementary-2-003",
+      "level": "elementary-2",
+      "subject": "math",
+      "category": "multiplication",
+      "difficulty": 1,
+      "type": "numeric",
+      "question": "4 × 6 はいくつですか？",
+      "answer": 24,
+      "explanation": "4 × 6 = 24です。",
+      "tags": [
+        "九九"
+      ]
+    },
+    {
+      "id": "elementary-2-004",
+      "level": "elementary-2",
+      "subject": "math",
+      "category": "multiplication",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "8 × 7 はいくつですか？",
+      "answer": 56,
+      "explanation": "8 × 7 = 56です。",
+      "tags": [
+        "九九"
+      ]
+    },
+    {
+      "id": "elementary-2-005",
+      "level": "elementary-2",
+      "subject": "math",
+      "category": "subtraction",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "100 - 38 はいくつですか？",
+      "answer": 62,
+      "explanation": "100 - 38 = 62です。",
+      "tags": [
+        "ひき算"
+      ]
+    },
+    {
+      "id": "elementary-2-006",
+      "level": "elementary-2",
+      "subject": "math",
+      "category": "length",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "1mは何cmですか？",
+      "answer": 100,
+      "explanation": "1mは100cmです。",
+      "tags": [
+        "長さ",
+        "単位"
+      ]
+    },
+    {
+      "id": "elementary-2-007",
+      "level": "elementary-2",
+      "subject": "math",
+      "category": "money",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "500円玉1枚と100円玉3枚では、全部で何円ですか？",
+      "answer": 800,
+      "explanation": "500 + 100 × 3 = 800円です。",
+      "tags": [
+        "お金"
+      ]
+    },
+    {
+      "id": "elementary-2-008",
+      "level": "elementary-2",
+      "subject": "math",
+      "category": "time",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "午前10時から2時間後は何時ですか？",
+      "choices": [
+        "正午12時",
+        "午前11時",
+        "午後1時"
+      ],
+      "answer": "正午12時",
+      "explanation": "午前10時の2時間後は12時です。",
+      "tags": [
+        "時刻"
+      ]
+    },
+    {
+      "id": "elementary-2-009",
+      "level": "elementary-2",
+      "subject": "japanese",
+      "category": "reading",
+      "difficulty": 1,
+      "type": "multiple-choice",
+      "question": "「私は公園で友達とサッカーをしました。」どこでサッカーをしましたか？",
+      "choices": [
+        "学校",
+        "公園",
+        "家"
+      ],
+      "answer": "公園",
+      "explanation": "文に「公園で」と書かれています。",
+      "tags": [
+        "読解"
+      ]
+    },
+    {
+      "id": "elementary-2-010",
+      "level": "elementary-2",
+      "subject": "japanese",
+      "category": "opposite-word",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "「強い」の反対の意味の言葉はどれですか？",
+      "choices": [
+        "速い",
+        "大きい",
+        "弱い"
+      ],
+      "answer": "弱い",
+      "explanation": "「強い」の反対は「弱い」です。",
+      "tags": [
+        "反対語"
+      ]
+    },
+    {
+      "id": "elementary-2-011",
+      "level": "elementary-2",
+      "subject": "logic",
+      "category": "classification",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "犬、ねこ、うさぎの共通点として正しいものはどれですか？",
+      "choices": [
+        "動物",
+        "植物",
+        "乗り物"
+      ],
+      "answer": "動物",
+      "explanation": "犬、ねこ、うさぎはすべて動物です。",
+      "tags": [
+        "仲間分け"
+      ]
+    },
+    {
+      "id": "elementary-2-012",
+      "level": "elementary-2",
+      "subject": "science",
+      "category": "water",
+      "difficulty": 1,
+      "type": "multiple-choice",
+      "question": "水が冷えて固まったものを何といいますか？",
+      "choices": [
+        "雨",
+        "氷",
+        "水蒸気"
+      ],
+      "answer": "氷",
+      "explanation": "水は十分に冷えると氷になります。",
+      "tags": [
+        "水",
+        "状態変化"
+      ]
+    },
+    {
+      "id": "elementary-2-013",
+      "level": "elementary-2",
+      "subject": "general",
+      "category": "direction",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "太陽が沈む方角はどちらですか？",
+      "choices": [
+        "東",
+        "西",
+        "南",
+        "北"
+      ],
+      "answer": "西",
+      "explanation": "太陽はおおむね東から昇り、西へ沈みます。",
+      "tags": [
+        "方角"
+      ]
+    },
+    {
+      "id": "elementary-2-014",
+      "level": "elementary-2",
+      "subject": "logic",
+      "category": "number-pattern",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "2、4、6、8の次にくる数はいくつですか？",
+      "answer": 10,
+      "explanation": "2ずつ増えているので、次は10です。",
+      "tags": [
+        "規則性"
+      ]
+    },
+    {
+      "id": "elementary-2-015",
+      "level": "elementary-2",
+      "subject": "math",
+      "category": "word-problem",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "Aさんはりんごを5個、Bさんは3個持っています。AさんはBさんより何個多いですか？",
+      "answer": 2,
+      "explanation": "5 - 3 = 2なので、2個多いです。",
+      "tags": [
+        "文章題"
+      ]
+    },
+    {
+      "id": "elementary-3-001",
+      "level": "elementary-3",
+      "subject": "math",
+      "category": "division",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "240 ÷ 6 はいくつですか？",
+      "answer": 40,
+      "explanation": "240 ÷ 6 = 40です。",
+      "tags": [
+        "わり算"
+      ]
+    },
+    {
+      "id": "elementary-3-002",
+      "level": "elementary-3",
+      "subject": "math",
+      "category": "multiplication",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "125 × 4 はいくつですか？",
+      "answer": 500,
+      "explanation": "125 × 4 = 500です。",
+      "tags": [
+        "かけ算"
+      ]
+    },
+    {
+      "id": "elementary-3-003",
+      "level": "elementary-3",
+      "subject": "math",
+      "category": "subtraction",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "804 - 367 はいくつですか？",
+      "answer": 437,
+      "explanation": "804 - 367 = 437です。",
+      "tags": [
+        "ひき算",
+        "筆算"
+      ]
+    },
+    {
+      "id": "elementary-3-004",
+      "level": "elementary-3",
+      "subject": "math",
+      "category": "fraction",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "8個のケーキのうち2個を食べました。食べた量は全体の何分の何ですか？",
+      "choices": [
+        "1/8",
+        "1/3",
+        "1/4",
+        "1/2"
+      ],
+      "answer": "1/4",
+      "explanation": "2/8は約分すると1/4です。",
+      "tags": [
+        "分数"
+      ]
+    },
+    {
+      "id": "elementary-3-005",
+      "level": "elementary-3",
+      "subject": "math",
+      "category": "length",
+      "difficulty": 1,
+      "type": "numeric",
+      "question": "1kmは何mですか？",
+      "answer": 1000,
+      "explanation": "1kmは1000mです。",
+      "tags": [
+        "単位"
+      ]
+    },
+    {
+      "id": "elementary-3-006",
+      "level": "elementary-3",
+      "subject": "math",
+      "category": "perimeter",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "縦4cm、横6cmの長方形の周りの長さは何cmですか？",
+      "answer": 20,
+      "explanation": "4 + 6 + 4 + 6 = 20cmです。",
+      "tags": [
+        "図形",
+        "周りの長さ"
+      ]
+    },
+    {
+      "id": "elementary-3-007",
+      "level": "elementary-3",
+      "subject": "math",
+      "category": "time",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "3時30分から45分後は何時何分ですか？",
+      "choices": [
+        "4時5分",
+        "3時55分",
+        "4時30分",
+        "4時15分"
+      ],
+      "answer": "4時15分",
+      "explanation": "3時30分から30分後が4時、さらに15分で4時15分です。",
+      "tags": [
+        "時刻"
+      ]
+    },
+    {
+      "id": "elementary-3-008",
+      "level": "elementary-3",
+      "subject": "math",
+      "category": "money",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "1本80円の鉛筆を4本買います。何円必要ですか？",
+      "answer": 320,
+      "explanation": "80 × 4 = 320円です。",
+      "tags": [
+        "文章題",
+        "お金"
+      ]
+    },
+    {
+      "id": "elementary-3-009",
+      "level": "elementary-3",
+      "subject": "japanese",
+      "category": "reading",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "「朝から雨が降っていたので、私は傘を持って学校へ行った。」傘を持った理由は何ですか？",
+      "choices": [
+        "暑かったから",
+        "学校が遠いから",
+        "雨が降っていたから"
+      ],
+      "answer": "雨が降っていたから",
+      "explanation": "文の「雨が降っていたので」が理由を表しています。",
+      "tags": [
+        "読解",
+        "理由"
+      ]
+    },
+    {
+      "id": "elementary-3-010",
+      "level": "elementary-3",
+      "subject": "japanese",
+      "category": "vocabulary",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "「温かい」に近い意味の言葉はどれですか？",
+      "choices": [
+        "あたたかい",
+        "かたい",
+        "つめたい"
+      ],
+      "answer": "あたたかい",
+      "explanation": "「温かい」は「あたたかい」という意味です。",
+      "tags": [
+        "語彙"
+      ]
+    },
+    {
+      "id": "elementary-3-011",
+      "level": "elementary-3",
+      "subject": "science",
+      "category": "insects",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "昆虫の足は基本的に何本ありますか？",
+      "answer": 6,
+      "explanation": "昆虫の足は胸から3対、合計6本あります。",
+      "tags": [
+        "昆虫"
+      ]
+    },
+    {
+      "id": "elementary-3-012",
+      "level": "elementary-3",
+      "subject": "science",
+      "category": "plants",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "植物が日光を利用して養分を作る働きを何といいますか？",
+      "choices": [
+        "発芽",
+        "蒸発",
+        "光合成",
+        "呼吸"
+      ],
+      "answer": "光合成",
+      "explanation": "植物が光を利用して養分を作る働きを光合成といいます。",
+      "tags": [
+        "植物",
+        "光合成"
+      ]
+    },
+    {
+      "id": "elementary-3-013",
+      "level": "elementary-3",
+      "subject": "science",
+      "category": "direction",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "方位磁針のNは、どの方角を表しますか？",
+      "choices": [
+        "南",
+        "西",
+        "東",
+        "北"
+      ],
+      "answer": "北",
+      "explanation": "NはNorthの頭文字で、北を表します。",
+      "tags": [
+        "方角"
+      ]
+    },
+    {
+      "id": "elementary-3-014",
+      "level": "elementary-3",
+      "subject": "social",
+      "category": "japan-geography",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "日本で一番大きな島はどれですか？",
+      "choices": [
+        "本州",
+        "四国",
+        "北海道",
+        "九州"
+      ],
+      "answer": "本州",
+      "explanation": "日本の4つの主要な島の中で最大なのは本州です。",
+      "tags": [
+        "日本地理"
+      ]
+    },
+    {
+      "id": "elementary-3-015",
+      "level": "elementary-3",
+      "subject": "logic",
+      "category": "number-pattern",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "3、6、12、24の次にくる数はいくつですか？",
+      "answer": 48,
+      "explanation": "前の数を2倍しているので、24 × 2 = 48です。",
+      "tags": [
+        "規則性"
+      ]
+    },
+    {
+      "id": "elementary-4-001",
+      "level": "elementary-4",
+      "subject": "math",
+      "category": "division",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "864 ÷ 8 はいくつですか？",
+      "answer": 108,
+      "explanation": "864 ÷ 8 = 108です。",
+      "tags": [
+        "わり算"
+      ]
+    },
+    {
+      "id": "elementary-4-002",
+      "level": "elementary-4",
+      "subject": "math",
+      "category": "multiplication",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "125 × 32 はいくつですか？",
+      "answer": 4000,
+      "explanation": "125 × 32 = 4000です。",
+      "tags": [
+        "かけ算"
+      ]
+    },
+    {
+      "id": "elementary-4-003",
+      "level": "elementary-4",
+      "subject": "math",
+      "category": "decimal",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "0.7 + 1.35 はいくつですか？",
+      "answer": 2.05,
+      "explanation": "0.70 + 1.35 = 2.05です。",
+      "tags": [
+        "小数"
+      ]
+    },
+    {
+      "id": "elementary-4-004",
+      "level": "elementary-4",
+      "subject": "math",
+      "category": "decimal",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "3.8 - 1.46 はいくつですか？",
+      "answer": 2.34,
+      "explanation": "3.80 - 1.46 = 2.34です。",
+      "tags": [
+        "小数"
+      ]
+    },
+    {
+      "id": "elementary-4-005",
+      "level": "elementary-4",
+      "subject": "math",
+      "category": "angle",
+      "difficulty": 1,
+      "type": "multiple-choice",
+      "question": "90度の角を何といいますか？",
+      "choices": [
+        "鋭角",
+        "直角",
+        "鈍角"
+      ],
+      "answer": "直角",
+      "explanation": "90度の角を直角といいます。",
+      "tags": [
+        "角度"
+      ]
+    },
+    {
+      "id": "elementary-4-006",
+      "level": "elementary-4",
+      "subject": "math",
+      "category": "area",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "縦5cm、横8cmの長方形の面積は何cm²ですか？",
+      "answer": 40,
+      "explanation": "5 × 8 = 40cm²です。",
+      "tags": [
+        "面積",
+        "長方形"
+      ]
+    },
+    {
+      "id": "elementary-4-007",
+      "level": "elementary-4",
+      "subject": "math",
+      "category": "area",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "1辺が6cmの正方形の面積は何cm²ですか？",
+      "answer": 36,
+      "explanation": "6 × 6 = 36cm²です。",
+      "tags": [
+        "面積",
+        "正方形"
+      ]
+    },
+    {
+      "id": "elementary-4-008",
+      "level": "elementary-4",
+      "subject": "math",
+      "category": "length",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "1200mは何kmですか？",
+      "answer": 1.2,
+      "explanation": "1000mが1kmなので、1200mは1.2kmです。",
+      "tags": [
+        "単位"
+      ]
+    },
+    {
+      "id": "elementary-4-009",
+      "level": "elementary-4",
+      "subject": "japanese",
+      "category": "reading",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "「弟は急いで家を出た。しかし、バスには間に合わなかった。」弟はバスに乗れましたか？",
+      "choices": [
+        "文からはわからない",
+        "乗れた",
+        "乗れなかった"
+      ],
+      "answer": "乗れなかった",
+      "explanation": "「バスには間に合わなかった」とあるため、乗れなかったと判断できます。",
+      "tags": [
+        "読解"
+      ]
+    },
+    {
+      "id": "elementary-4-010",
+      "level": "elementary-4",
+      "subject": "japanese",
+      "category": "opposite-word",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "「必要」の反対に近い意味の言葉はどれですか？",
+      "choices": [
+        "不要",
+        "便利",
+        "重要"
+      ],
+      "answer": "不要",
+      "explanation": "「不要」は「必要ではない」という意味です。",
+      "tags": [
+        "反対語"
+      ]
+    },
+    {
+      "id": "elementary-4-011",
+      "level": "elementary-4",
+      "subject": "science",
+      "category": "water",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "水を熱し続けると、主に何になりますか？",
+      "choices": [
+        "石",
+        "水蒸気",
+        "氷"
+      ],
+      "answer": "水蒸気",
+      "explanation": "水を熱すると気体の水蒸気になります。",
+      "tags": [
+        "状態変化"
+      ]
+    },
+    {
+      "id": "elementary-4-012",
+      "level": "elementary-4",
+      "subject": "science",
+      "category": "electricity",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "次のうち、電気を通しやすいものはどれですか？",
+      "choices": [
+        "ゴム",
+        "木",
+        "鉄"
+      ],
+      "answer": "鉄",
+      "explanation": "鉄などの金属は電気を通しやすい性質があります。",
+      "tags": [
+        "電気"
+      ]
+    },
+    {
+      "id": "elementary-4-013",
+      "level": "elementary-4",
+      "subject": "social",
+      "category": "prefectures",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "日本の都道府県は全部でいくつありますか？",
+      "answer": 47,
+      "explanation": "日本には47の都道府県があります。",
+      "tags": [
+        "日本地理"
+      ]
+    },
+    {
+      "id": "elementary-4-014",
+      "level": "elementary-4",
+      "subject": "social",
+      "category": "japan-geography",
+      "difficulty": 1,
+      "type": "multiple-choice",
+      "question": "日本の首都はどこですか？",
+      "choices": [
+        "大阪",
+        "札幌",
+        "東京",
+        "京都"
+      ],
+      "answer": "東京",
+      "explanation": "日本の首都は東京です。",
+      "tags": [
+        "日本地理"
+      ]
+    },
+    {
+      "id": "elementary-4-015",
+      "level": "elementary-4",
+      "subject": "logic",
+      "category": "pattern",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "A→C、B→D、C→Eという規則があります。同じ規則ならD→何になりますか？",
+      "choices": [
+        "G",
+        "H",
+        "E",
+        "F"
+      ],
+      "answer": "F",
+      "explanation": "アルファベットを2つ先へ進める規則なので、Dの2つ先はFです。",
+      "tags": [
+        "規則性"
+      ]
+    },
+    {
+      "id": "elementary-5-001",
+      "level": "elementary-5",
+      "subject": "math",
+      "category": "decimal",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "2.4 × 1.5 はいくつですか？",
+      "answer": 3.6,
+      "explanation": "2.4 × 1.5 = 3.6です。",
+      "tags": [
+        "小数",
+        "かけ算"
+      ]
+    },
+    {
+      "id": "elementary-5-002",
+      "level": "elementary-5",
+      "subject": "math",
+      "category": "decimal",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "7.2 ÷ 0.8 はいくつですか？",
+      "answer": 9,
+      "explanation": "7.2 ÷ 0.8 = 9です。",
+      "tags": [
+        "小数",
+        "わり算"
+      ]
+    },
+    {
+      "id": "elementary-5-003",
+      "level": "elementary-5",
+      "subject": "math",
+      "category": "fraction",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "3/4 + 1/6 はいくつですか？",
+      "choices": [
+        "11/12",
+        "4/10",
+        "5/12",
+        "1"
+      ],
+      "answer": "11/12",
+      "explanation": "3/4 = 9/12、1/6 = 2/12なので、11/12です。",
+      "tags": [
+        "分数"
+      ]
+    },
+    {
+      "id": "elementary-5-004",
+      "level": "elementary-5",
+      "subject": "math",
+      "category": "fraction",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "5/6 - 1/3 はいくつですか？",
+      "choices": [
+        "1/3",
+        "1/2",
+        "4/3",
+        "2/3"
+      ],
+      "answer": "1/2",
+      "explanation": "1/3 = 2/6なので、5/6 - 2/6 = 3/6 = 1/2です。",
+      "tags": [
+        "分数"
+      ]
+    },
+    {
+      "id": "elementary-5-005",
+      "level": "elementary-5",
+      "subject": "math",
+      "category": "percentage",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "200円の15%はいくらですか？",
+      "answer": 30,
+      "explanation": "200 × 0.15 = 30円です。",
+      "tags": [
+        "割合",
+        "百分率"
+      ]
+    },
+    {
+      "id": "elementary-5-006",
+      "level": "elementary-5",
+      "subject": "math",
+      "category": "percentage",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "40人の25%は何人ですか？",
+      "answer": 10,
+      "explanation": "40 × 0.25 = 10人です。",
+      "tags": [
+        "割合"
+      ]
+    },
+    {
+      "id": "elementary-5-007",
+      "level": "elementary-5",
+      "subject": "math",
+      "category": "volume",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "縦3cm、横4cm、高さ5cmの直方体の体積は何cm³ですか？",
+      "answer": 60,
+      "explanation": "3 × 4 × 5 = 60cm³です。",
+      "tags": [
+        "体積"
+      ]
+    },
+    {
+      "id": "elementary-5-008",
+      "level": "elementary-5",
+      "subject": "math",
+      "category": "area",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "底辺10cm、高さ6cmの三角形の面積は何cm²ですか？",
+      "answer": 30,
+      "explanation": "10 × 6 ÷ 2 = 30cm²です。",
+      "tags": [
+        "三角形",
+        "面積"
+      ]
+    },
+    {
+      "id": "elementary-5-009",
+      "level": "elementary-5",
+      "subject": "math",
+      "category": "speed",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "150kmを3時間で進みました。平均時速は何kmですか？",
+      "answer": 50,
+      "explanation": "150 ÷ 3 = 50なので、時速50kmです。",
+      "tags": [
+        "速さ"
+      ]
+    },
+    {
+      "id": "elementary-5-010",
+      "level": "elementary-5",
+      "subject": "japanese",
+      "category": "reading",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "「この商品は安い。しかし、壊れやすい。」商品の良い点として書かれているのはどれですか？",
+      "choices": [
+        "壊れやすいこと",
+        "安いこと",
+        "大きいこと"
+      ],
+      "answer": "安いこと",
+      "explanation": "良い点として読み取れるのは「安い」ことです。",
+      "tags": [
+        "読解"
+      ]
+    },
+    {
+      "id": "elementary-5-011",
+      "level": "elementary-5",
+      "subject": "logic",
+      "category": "cause-effect",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "「大雨が降ったので、川の水が増えた。」原因はどれですか？",
+      "choices": [
+        "川の水が増えたこと",
+        "川がなくなったこと",
+        "大雨が降ったこと"
+      ],
+      "answer": "大雨が降ったこと",
+      "explanation": "大雨が原因となり、川の水が増えています。",
+      "tags": [
+        "原因と結果"
+      ]
+    },
+    {
+      "id": "elementary-5-012",
+      "level": "elementary-5",
+      "subject": "science",
+      "category": "germination",
+      "difficulty": 3,
+      "type": "multiple-select",
+      "question": "種子の発芽に必要な条件をすべて選んでください。",
+      "choices": [
+        "水",
+        "空気",
+        "適した温度",
+        "必ず強い日光"
+      ],
+      "answer": [
+        "水",
+        "空気",
+        "適した温度"
+      ],
+      "explanation": "種子の発芽には、水、空気、適した温度が必要です。",
+      "tags": [
+        "植物",
+        "発芽"
+      ]
+    },
+    {
+      "id": "elementary-5-013",
+      "level": "elementary-5",
+      "subject": "science",
+      "category": "pendulum",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "振り子が1往復する時間に大きく関係するものはどれですか？",
+      "choices": [
+        "振り子の長さ",
+        "糸の色",
+        "おもりの色"
+      ],
+      "answer": "振り子の長さ",
+      "explanation": "振り子の長さを変えると、1往復する時間が変化します。",
+      "tags": [
+        "振り子"
+      ]
+    },
+    {
+      "id": "elementary-5-014",
+      "level": "elementary-5",
+      "subject": "social",
+      "category": "prefectures",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "日本で最も面積が大きい都道府県はどこですか？",
+      "choices": [
+        "沖縄県",
+        "北海道",
+        "東京都",
+        "長野県"
+      ],
+      "answer": "北海道",
+      "explanation": "日本で最も面積が大きい都道府県は北海道です。",
+      "tags": [
+        "日本地理"
+      ]
+    },
+    {
+      "id": "elementary-5-015",
+      "level": "elementary-5",
+      "subject": "logic",
+      "category": "equation-thinking",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "ある数を2倍して6を足すと20になります。ある数はいくつですか？",
+      "answer": 7,
+      "explanation": "20 - 6 = 14、14 ÷ 2 = 7です。",
+      "tags": [
+        "逆算",
+        "論理"
+      ]
+    },
+    {
+      "id": "elementary-6-001",
+      "level": "elementary-6",
+      "subject": "math",
+      "category": "ratio",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "3 : 5 = x : 20 のとき、xはいくつですか？",
+      "answer": 12,
+      "explanation": "5から20は4倍なので、3も4倍して12です。",
+      "tags": [
+        "比"
+      ]
+    },
+    {
+      "id": "elementary-6-002",
+      "level": "elementary-6",
+      "subject": "math",
+      "category": "fraction",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "5/6 ÷ 2/3 はいくつですか？",
+      "choices": [
+        "10/18",
+        "4/5",
+        "5/4",
+        "5/9"
+      ],
+      "answer": "5/4",
+      "explanation": "5/6 × 3/2 = 15/12 = 5/4です。",
+      "tags": [
+        "分数",
+        "わり算"
+      ]
+    },
+    {
+      "id": "elementary-6-003",
+      "level": "elementary-6",
+      "subject": "math",
+      "category": "fraction",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "3/5 × 10/9 はいくつですか？",
+      "choices": [
+        "3/2",
+        "30/14",
+        "1/3",
+        "2/3"
+      ],
+      "answer": "2/3",
+      "explanation": "3/5 × 10/9 = 30/45 = 2/3です。",
+      "tags": [
+        "分数",
+        "かけ算"
+      ]
+    },
+    {
+      "id": "elementary-6-004",
+      "level": "elementary-6",
+      "subject": "math",
+      "category": "speed",
+      "difficulty": 2,
+      "type": "numeric",
+      "question": "120kmを2時間で進みました。平均時速は何kmですか？",
+      "answer": 60,
+      "explanation": "120 ÷ 2 = 60なので、時速60kmです。",
+      "tags": [
+        "速さ"
+      ]
+    },
+    {
+      "id": "elementary-6-005",
+      "level": "elementary-6",
+      "subject": "math",
+      "category": "circle-area",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "半径3cmの円の面積を、円周率を3.14として求めてください。",
+      "answer": 28.26,
+      "tolerance": 0.001,
+      "explanation": "3 × 3 × 3.14 = 28.26cm²です。",
+      "tags": [
+        "円",
+        "面積"
+      ]
+    },
+    {
+      "id": "elementary-6-006",
+      "level": "elementary-6",
+      "subject": "math",
+      "category": "circumference",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "半径5cmの円の円周を、円周率を3.14として求めてください。",
+      "answer": 31.4,
+      "tolerance": 0.001,
+      "explanation": "直径は10cmなので、10 × 3.14 = 31.4cmです。",
+      "tags": [
+        "円",
+        "円周"
+      ]
+    },
+    {
+      "id": "elementary-6-007",
+      "level": "elementary-6",
+      "subject": "math",
+      "category": "percentage",
+      "difficulty": 3,
+      "type": "numeric",
+      "question": "300人のうち120人がAを選びました。Aを選んだ人の割合は何%ですか？",
+      "answer": 40,
+      "explanation": "120 ÷ 300 × 100 = 40%です。",
+      "tags": [
+        "割合",
+        "百分率"
+      ]
+    },
+    {
+      "id": "elementary-6-008",
+      "level": "elementary-6",
+      "subject": "logic",
+      "category": "sequence",
+      "difficulty": 4,
+      "type": "numeric",
+      "question": "2、5、8、11、14……と3ずつ増える数の並びがあります。第10番目の数はいくつですか？",
+      "answer": 29,
+      "explanation": "第1項が2で、その後3ずつ増えるので、2 + 3 × 9 = 29です。",
+      "tags": [
+        "規則性",
+        "数列"
+      ]
+    },
+    {
+      "id": "elementary-6-009",
+      "level": "elementary-6",
+      "subject": "logic",
+      "category": "counterexample",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "「すべての鳥は飛べる」と考えていました。しかし、飛べないペンギンが見つかりました。このことから最も適切に言えることはどれですか？",
+      "choices": [
+        "すべての鳥は飛べるという考えは正しくない",
+        "ペンギンは鳥ではない",
+        "すべての鳥は飛べない",
+        "何もわからない"
+      ],
+      "answer": "すべての鳥は飛べるという考えは正しくない",
+      "explanation": "1つでも反例があれば「すべての鳥が飛べる」という主張は成立しません。",
+      "tags": [
+        "論理",
+        "反例"
+      ]
+    },
+    {
+      "id": "elementary-6-010",
+      "level": "elementary-6",
+      "subject": "japanese",
+      "category": "reading",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "「この町では自転車を使う人が増えた。そのため、自転車置き場を増設した。」自転車置き場を増やした理由は何ですか？",
+      "choices": [
+        "自転車を使う人が減ったから",
+        "道路がなくなったから",
+        "自転車を使う人が増えたから"
+      ],
+      "answer": "自転車を使う人が増えたから",
+      "explanation": "「そのため」は前の文を理由として結果につなげています。",
+      "tags": [
+        "読解",
+        "因果関係"
+      ]
+    },
+    {
+      "id": "elementary-6-011",
+      "level": "elementary-6",
+      "subject": "science",
+      "category": "combustion",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "酸素を多く含む空気の中で物を燃やすと、燃え方はどうなりやすいですか？",
+      "choices": [
+        "激しくなる",
+        "変わらない",
+        "必ず消える"
+      ],
+      "answer": "激しくなる",
+      "explanation": "燃焼には酸素が必要なので、酸素が多いと燃焼が激しくなりやすくなります。",
+      "tags": [
+        "燃焼",
+        "酸素"
+      ]
+    },
+    {
+      "id": "elementary-6-012",
+      "level": "elementary-6",
+      "subject": "science",
+      "category": "human-body",
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "人間が呼吸によって体内に取り入れる重要な気体はどれですか？",
+      "choices": [
+        "ヘリウム",
+        "酸素",
+        "水素"
+      ],
+      "answer": "酸素",
+      "explanation": "人間は呼吸によって酸素を体内に取り入れます。",
+      "tags": [
+        "呼吸",
+        "人体"
+      ]
+    },
+    {
+      "id": "elementary-6-013",
+      "level": "elementary-6",
+      "subject": "social",
+      "category": "constitution",
+      "difficulty": 3,
+      "type": "multiple-select",
+      "question": "日本国憲法の三原則をすべて選んでください。",
+      "choices": [
+        "国民主権",
+        "基本的人権の尊重",
+        "平和主義",
+        "富国強兵"
+      ],
+      "answer": [
+        "国民主権",
+        "基本的人権の尊重",
+        "平和主義"
+      ],
+      "explanation": "日本国憲法の三原則は、国民主権、基本的人権の尊重、平和主義です。",
+      "tags": [
+        "憲法",
+        "政治"
+      ]
+    },
+    {
+      "id": "elementary-6-014",
+      "level": "elementary-6",
+      "subject": "social",
+      "category": "government",
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "国会・内閣・裁判所がそれぞれ権力を分担する仕組みを何といいますか？",
+      "choices": [
+        "三権分立",
+        "地方自治",
+        "国民主権",
+        "議院内閣制"
+      ],
+      "answer": "三権分立",
+      "explanation": "立法・行政・司法を分ける仕組みを三権分立といいます。",
+      "tags": [
+        "政治",
+        "三権分立"
+      ]
+    },
+    {
+      "id": "elementary-6-015",
+      "level": "elementary-6",
+      "subject": "logic",
+      "category": "comparison",
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "AさんはBさんより速く、CさんはAさんより速いです。一番速いのはだれですか？",
+      "choices": [
+        "Cさん",
+        "Bさん",
+        "Aさん"
+      ],
+      "answer": "Cさん",
+      "explanation": "CさんはAさんより速く、AさんはBさんより速いので、Cさんが一番速いです。",
+      "tags": [
+        "比較",
+        "論理"
+      ]
+    }
+  ]
 }

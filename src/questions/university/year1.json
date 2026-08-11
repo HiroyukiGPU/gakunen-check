@@ -10,7 +10,8 @@
       "type": "numeric",
       "question": "次の極限値を求めてください。",
       "latex": "\\lim_{x \\to 0} \\frac{\\sin x}{x}",
-      "answer": 1
+      "answer": 1,
+      "explanation": "sin xとxがともに0に近づくとき、sin x / xは1に収束することが知られています。"
     },
     {
       "id": "university1-programming-001",
@@ -20,8 +21,14 @@
       "difficulty": 3,
       "type": "multiple-choice",
       "question": "オブジェクト指向プログラミングの三大要素に含まれないものはどれですか？",
-      "choices": ["カプセル化", "継承", "ポリモーフィズム", "再帰"],
-      "answer": "再帰"
+      "choices": [
+        "継承",
+        "ポリモーフィズム",
+        "再帰",
+        "カプセル化"
+      ],
+      "answer": "再帰",
+      "explanation": "オブジェクト指向の三大要素はカプセル化・継承・ポリモーフィズムです。再帰は別のプログラミング技法です。"
     },
     {
       "id": "university1-science-001",
@@ -31,7 +38,8 @@
       "difficulty": 2,
       "type": "true-false",
       "question": "DNAは二重らせん構造をしている。",
-      "answer": true
+      "answer": true,
+      "explanation": "DNAはワトソンとクリックが提唱した二重らせん構造をしています。"
     },
     {
       "id": "university1-statistics-001",
@@ -51,7 +59,8 @@
         "データを大きさ順に並べたときの真ん中の値",
         "外れ値の影響を受けにくい",
         "データの個数が偶数のとき中央2つの平均をとる"
-      ]
+      ],
+      "explanation": "中央値は大きさ順に並べた真ん中の値で、外れ値の影響を受けにくいのが特徴です。平均と必ず一致するとは限りません。"
     }
   ]
 }

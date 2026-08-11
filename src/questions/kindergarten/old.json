@@ -9,7 +9,8 @@
       "difficulty": 3,
       "type": "numeric",
       "question": "5 + 3 は いくつですか？",
-      "answer": 8
+      "answer": 8,
+      "explanation": "5に3を足すと8です。"
     },
     {
       "id": "kindergarten-old-japanese-001",
@@ -20,7 +21,8 @@
       "type": "multiple-choice",
       "question": "「あ」からはじまる言葉はどれですか？",
       "choices": ["あめ", "いぬ", "うみ", "えき"],
-      "answer": "あめ"
+      "answer": "あめ",
+      "explanation": "「あめ」は「あ」から始まる言葉です。"
     },
     {
       "id": "kindergarten-old-math-002",
@@ -30,7 +32,8 @@
       "difficulty": 3,
       "type": "text",
       "question": "10から4をひくと いくつですか？",
-      "answer": "6"
+      "answer": "6",
+      "explanation": "10から4を引くと6です。"
     }
   ]
 }

@@ -55,7 +55,7 @@ export function HomePage() {
           )}
         </div>
 
-        <p className="home-meta">約20問・5〜10分</p>
+        <p className="home-meta">約30問・10〜15分</p>
       </div>
     </div>
   );

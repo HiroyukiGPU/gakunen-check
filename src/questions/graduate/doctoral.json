@@ -10,12 +10,13 @@
       "type": "multiple-choice",
       "question": "学術研究における「再現性の危機」の原因として指摘されているものはどれですか？",
       "choices": [
-        "p-hackingや事前登録の欠如",
-        "査読者の不足のみ",
+        "実験機器の高騰のみ",
         "出版社の利益追求のみ",
-        "実験機器の高騰のみ"
+        "査読者の不足のみ",
+        "p-hackingや事前登録の欠如"
       ],
-      "answer": "p-hackingや事前登録の欠如"
+      "answer": "p-hackingや事前登録の欠如",
+      "explanation": "都合の良い結果だけを選ぶp-hackingや、事前に分析計画を登録しないことが再現性の危機の一因とされています。"
     },
     {
       "id": "graduate-doctoral-statistics-001",
@@ -26,7 +27,8 @@
       "type": "numeric",
       "question": "情報量規準 AIC = 2k - 2ln(L) について、k=3, ln(L)=-10 のときのAICの値はいくつですか？",
       "latex": "AIC = 2k - 2\\ln(L)",
-      "answer": 26
+      "answer": 26,
+      "explanation": "AIC = 2k − 2ln(L) = 2×3 − 2×(−10) = 6 + 20 = 26です。"
     },
     {
       "id": "graduate-doctoral-research-002",
@@ -36,7 +38,8 @@
       "difficulty": 3,
       "type": "true-false",
       "question": "査読付き論文であれば、結果は必ず再現される。",
-      "answer": false
+      "answer": false,
+      "explanation": "査読は質を高める仕組みですが、掲載された結果が必ず再現されることを保証するものではありません。"
     },
     {
       "id": "graduate-doctoral-research-003",
@@ -46,8 +49,18 @@
       "difficulty": 4,
       "type": "multiple-select",
       "question": "オープンサイエンスの実践として適切なものをすべて選んでください。",
-      "choices": ["事前登録", "データとコードの公開", "結果が出るまで仮説を秘匿し続ける", "査読前プレプリントの公開"],
-      "answer": ["事前登録", "データとコードの公開", "査読前プレプリントの公開"]
+      "choices": [
+        "事前登録",
+        "データとコードの公開",
+        "結果が出るまで仮説を秘匿し続ける",
+        "査読前プレプリントの公開"
+      ],
+      "answer": [
+        "事前登録",
+        "データとコードの公開",
+        "査読前プレプリントの公開"
+      ],
+      "explanation": "事前登録、データ・コードの公開、プレプリント公開は透明性を高めるオープンサイエンスの実践です。仮説を秘匿し続けることは含まれません。"
     }
   ]
 }

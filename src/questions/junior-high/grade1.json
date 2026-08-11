@@ -9,7 +9,8 @@
       "difficulty": 3,
       "type": "numeric",
       "question": "2x + 3 = 11 のとき、xの値はいくつですか？",
-      "answer": 4
+      "answer": 4,
+      "explanation": "2x = 11 − 3 = 8なので、x = 8 ÷ 2 = 4です。"
     },
     {
       "id": "junior-high1-science-001",
@@ -19,8 +20,14 @@
       "difficulty": 3,
       "type": "multiple-choice",
       "question": "氷が水になる状態変化を何といいますか？",
-      "choices": ["融解", "凝固", "蒸発", "凝縮"],
-      "answer": "融解"
+      "choices": [
+        "凝縮",
+        "蒸発",
+        "凝固",
+        "融解"
+      ],
+      "answer": "融解",
+      "explanation": "固体が液体に変わる変化を融解といいます。"
     },
     {
       "id": "junior-high1-social-001",
@@ -30,7 +37,8 @@
       "difficulty": 2,
       "type": "true-false",
       "question": "日本は火山が多い国である。",
-      "answer": true
+      "answer": true,
+      "explanation": "日本は環太平洋火山帯に位置しており、火山が多い国です。"
     },
     {
       "id": "junior-high1-english-001",
@@ -40,8 +48,14 @@
       "difficulty": 2,
       "type": "multiple-choice",
       "question": "\"I ___ a student.\" に入る正しい語はどれですか？",
-      "choices": ["am", "is", "are", "be"],
-      "answer": "am"
+      "choices": [
+        "am",
+        "is",
+        "be",
+        "are"
+      ],
+      "answer": "am",
+      "explanation": "主語がIのとき、be動詞はamを使います。"
     },
     {
       "id": "junior-high1-logic-001",
@@ -51,8 +65,19 @@
       "difficulty": 2,
       "type": "multiple-select",
       "question": "偶数をすべて選んでください。",
-      "choices": ["3", "4", "6", "9", "10"],
-      "answer": ["4", "6", "10"]
+      "choices": [
+        "3",
+        "4",
+        "6",
+        "9",
+        "10"
+      ],
+      "answer": [
+        "4",
+        "6",
+        "10"
+      ],
+      "explanation": "2で割り切れる数が偶数です。3と9は奇数なので含まれません。"
     },
     {
       "id": "junior-high1-japanese-001",
@@ -62,7 +87,8 @@
       "difficulty": 1,
       "type": "text",
       "question": "「花」の読み方をひらがなで答えてください。",
-      "answer": "はな"
+      "answer": "はな",
+      "explanation": "「花」は「はな」と読みます。"
     }
   ]
 }

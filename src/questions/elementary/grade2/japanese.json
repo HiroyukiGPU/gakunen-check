@@ -9,8 +9,14 @@
       "difficulty": 3,
       "type": "multiple-choice",
       "question": "「上手」の読み方はどれですか？",
-      "choices": ["じょうず", "うえて", "かみて", "じょうて"],
-      "answer": "じょうず"
+      "choices": [
+        "かみて",
+        "じょうて",
+        "じょうず",
+        "うえて"
+      ],
+      "answer": "じょうず",
+      "explanation": "「上手」は「じょうず」と読みます。"
     },
     {
       "id": "elementary2-japanese-002",
@@ -20,7 +26,8 @@
       "difficulty": 2,
       "type": "text",
       "question": "「早い」の反対の意味の言葉を答えてください。",
-      "answer": "遅い"
+      "answer": "遅い",
+      "explanation": "「早い」の反対の意味は「遅い」です。"
     }
   ]
 }

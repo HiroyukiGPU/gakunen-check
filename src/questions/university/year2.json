@@ -10,7 +10,8 @@
       "type": "numeric",
       "question": "f(x) = x³ のとき、f''(2) の値はいくつですか？",
       "latex": "f(x) = x^3",
-      "answer": 12
+      "answer": 12,
+      "explanation": "f'(x)=3x²、f''(x)=6xなので、f''(2)=6×2=12です。"
     },
     {
       "id": "university2-statistics-001",
@@ -20,8 +21,14 @@
       "difficulty": 3,
       "type": "multiple-choice",
       "question": "標準偏差はデータの何を表す指標ですか？",
-      "choices": ["ばらつき", "中心傾向", "相関", "歪度"],
-      "answer": "ばらつき"
+      "choices": [
+        "相関",
+        "歪度",
+        "中心傾向",
+        "ばらつき"
+      ],
+      "answer": "ばらつき",
+      "explanation": "標準偏差はデータのばらつき（散らばり具合）を表す指標です。"
     },
     {
       "id": "university2-programming-001",
@@ -31,8 +38,14 @@
       "difficulty": 4,
       "type": "multiple-choice",
       "question": "平均計算量がO(n log n)であるアルゴリズムはどれですか？",
-      "choices": ["クイックソート（平均時）", "バブルソート", "線形探索", "選択ソート"],
-      "answer": "クイックソート（平均時）"
+      "choices": [
+        "クイックソート（平均時）",
+        "バブルソート",
+        "線形探索",
+        "選択ソート"
+      ],
+      "answer": "クイックソート（平均時）",
+      "explanation": "クイックソートの平均計算量はO(n log n)です。バブルソートや選択ソートはO(n²)です。"
     },
     {
       "id": "university2-science-001",
@@ -42,7 +55,8 @@
       "difficulty": 3,
       "type": "true-false",
       "question": "生物の進化において自然選択は重要な要因の一つである。",
-      "answer": true
+      "answer": true,
+      "explanation": "自然選択（自然淘汰）はダーウィンが提唱した、進化を引き起こす重要なしくみの一つです。"
     }
   ]
 }

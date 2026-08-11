@@ -9,7 +9,8 @@
       "difficulty": 3,
       "type": "numeric",
       "question": "240 ÷ 6 はいくつですか？",
-      "answer": 40
+      "answer": 40,
+      "explanation": "240 ÷ 6 = 40です。"
     },
     {
       "id": "elementary3-science-001",
@@ -19,8 +20,16 @@
       "difficulty": 4,
       "type": "multiple-select",
       "question": "昆虫はどれですか？あてはまるものをすべて選んでください。",
-      "choices": ["アリ", "クモ", "チョウ", "ダンゴムシ"],
-      "answer": ["アリ", "チョウ"],
+      "choices": [
+        "アリ",
+        "クモ",
+        "チョウ",
+        "ダンゴムシ"
+      ],
+      "answer": [
+        "アリ",
+        "チョウ"
+      ],
       "explanation": "クモやダンゴムシは昆虫ではありません。昆虫は体が3つの部分に分かれ、あしが6本です。"
     },
     {
@@ -31,8 +40,14 @@
       "difficulty": 2,
       "type": "multiple-choice",
       "question": "日本の首都はどこですか？",
-      "choices": ["大阪", "京都", "東京", "名古屋"],
-      "answer": "東京"
+      "choices": [
+        "大阪",
+        "東京",
+        "京都",
+        "名古屋"
+      ],
+      "answer": "東京",
+      "explanation": "日本の首都は東京です。"
     }
   ]
 }

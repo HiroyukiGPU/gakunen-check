@@ -9,7 +9,8 @@
       "difficulty": 3,
       "type": "numeric",
       "question": "底辺6cm、高さ4cmの三角形の面積は何cm²ですか？",
-      "answer": 12
+      "answer": 12,
+      "explanation": "三角形の面積は「底辺×高さ÷2」なので、6×4÷2=12cm²です。"
     },
     {
       "id": "elementary5-japanese-001",
@@ -19,8 +20,14 @@
       "difficulty": 4,
       "type": "multiple-choice",
       "question": "「まるで雪のように白い」のような、「まるで〜のようだ」を使ったたとえの表現技法は何ですか？",
-      "choices": ["直喩", "隠喩", "擬人法", "反復法"],
-      "answer": "直喩"
+      "choices": [
+        "擬人法",
+        "反復法",
+        "隠喩",
+        "直喩"
+      ],
+      "answer": "直喩",
+      "explanation": "「まるで〜のようだ」という言葉を使ってはっきりたとえる技法を直喩といいます。"
     },
     {
       "id": "elementary5-science-001",
@@ -30,8 +37,18 @@
       "difficulty": 4,
       "type": "multiple-select",
       "question": "てこの「3点」に含まれるものをすべて選んでください。",
-      "choices": ["支点", "力点", "作用点", "重心"],
-      "answer": ["支点", "力点", "作用点"]
+      "choices": [
+        "支点",
+        "力点",
+        "作用点",
+        "重心"
+      ],
+      "answer": [
+        "支点",
+        "力点",
+        "作用点"
+      ],
+      "explanation": "てこには支点・力点・作用点の3つの点があります。重心はてこの3点には含まれません。"
     }
   ]
 }

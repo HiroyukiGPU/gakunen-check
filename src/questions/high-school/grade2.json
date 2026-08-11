@@ -10,7 +10,8 @@
       "type": "numeric",
       "question": "f(x) = x² のとき、f'(3) の値はいくつですか？",
       "latex": "f(x) = x^2",
-      "answer": 6
+      "answer": 6,
+      "explanation": "f'(x) = 2xなので、f'(3) = 2×3 = 6です。"
     },
     {
       "id": "high-school2-science-001",
@@ -20,8 +21,14 @@
       "difficulty": 4,
       "type": "multiple-choice",
       "question": "0.5molの水分子の個数はおよそ何個ですか？（アボガドロ数を6.0×10²³とする）",
-      "choices": ["3.0×10²³", "6.0×10²³", "1.2×10²⁴", "3.0×10²²"],
-      "answer": "3.0×10²³"
+      "choices": [
+        "3.0×10²²",
+        "3.0×10²³",
+        "6.0×10²³",
+        "1.2×10²⁴"
+      ],
+      "answer": "3.0×10²³",
+      "explanation": "1molあたりの分子数(アボガドロ数)は6.0×10²³個なので、0.5molでは6.0×10²³×0.5=3.0×10²³個です。"
     },
     {
       "id": "high-school2-social-001",
@@ -31,7 +38,8 @@
       "difficulty": 3,
       "type": "true-false",
       "question": "日本国憲法第9条は戦争放棄を定めている。",
-      "answer": true
+      "answer": true,
+      "explanation": "日本国憲法第9条は戦争の放棄・戦力の不保持・交戦権の否認を定めています。"
     },
     {
       "id": "high-school2-statistics-001",
@@ -41,7 +49,8 @@
       "difficulty": 2,
       "type": "numeric",
       "question": "10個のデータの平均が5のとき、データの合計値はいくつですか？",
-      "answer": 50
+      "answer": 50,
+      "explanation": "平均×個数=合計なので、5×10=50です。"
     }
   ]
 }

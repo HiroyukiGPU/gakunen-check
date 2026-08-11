@@ -20,8 +20,14 @@
       "difficulty": 2,
       "type": "multiple-choice",
       "question": "「大きい」の反対の意味の言葉はどれですか？",
-      "choices": ["小さい", "高い", "長い", "重い"],
-      "answer": "小さい"
+      "choices": [
+        "小さい",
+        "長い",
+        "高い",
+        "重い"
+      ],
+      "answer": "小さい",
+      "explanation": "「大きい」の反対の意味は「小さい」です。"
     },
     {
       "id": "elementary1-science-001",
@@ -30,9 +36,9 @@
       "category": "animals",
       "difficulty": 2,
       "type": "true-false",
-      "question": "魚はえらで呼吸する。",
-      "answer": true,
-      "explanation": "多くの魚はえらを使って水中の酸素を取り込みます。"
+      "question": "クジラはえらで呼吸する。",
+      "answer": false,
+      "explanation": "クジラは魚ではなく哺乳類なので、えらではなく肺で呼吸します。"
     },
     {
       "id": "elementary1-math-002",
@@ -43,8 +49,14 @@
       "type": "multiple-choice",
       "question": "この形の名前はどれですか？",
       "image": "/question-assets/elementary/shape-001.svg",
-      "choices": ["三角形", "四角形", "丸", "星"],
-      "answer": "三角形"
+      "choices": [
+        "星",
+        "三角形",
+        "丸",
+        "四角形"
+      ],
+      "answer": "三角形",
+      "explanation": "3つの辺と3つの角がある形なので三角形です。"
     }
   ]
 }

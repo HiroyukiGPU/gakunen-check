@@ -10,7 +10,8 @@
       "type": "numeric",
       "question": "1/2 + 1/4 を小数で表すといくつですか？",
       "answer": 0.75,
-      "tolerance": 0.01
+      "tolerance": 0.01,
+      "explanation": "1/2は0.5、1/4は0.25なので、合わせると0.75です。"
     },
     {
       "id": "elementary4-science-001",
@@ -20,7 +21,8 @@
       "difficulty": 2,
       "type": "true-false",
       "question": "水は0度で氷になる。",
-      "answer": true
+      "answer": true,
+      "explanation": "水は0℃になると凍って氷になります。"
     },
     {
       "id": "elementary4-social-001",
@@ -30,8 +32,14 @@
       "difficulty": 3,
       "type": "multiple-choice",
       "question": "都道府県の中で一番人口が多いのはどこですか？",
-      "choices": ["東京都", "大阪府", "神奈川県", "愛知県"],
-      "answer": "東京都"
+      "choices": [
+        "神奈川県",
+        "愛知県",
+        "東京都",
+        "大阪府"
+      ],
+      "answer": "東京都",
+      "explanation": "都道府県の中で人口が最も多いのは東京都です。"
     }
   ]
 }

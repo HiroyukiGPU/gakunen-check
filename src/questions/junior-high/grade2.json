@@ -9,7 +9,8 @@
       "difficulty": 3,
       "type": "numeric",
       "question": "y = 2x + 1 のとき、x = 3 のときのyの値はいくつですか？",
-      "answer": 7
+      "answer": 7,
+      "explanation": "y = 2 × 3 + 1 = 7です。"
     },
     {
       "id": "junior-high2-science-001",
@@ -19,8 +20,14 @@
       "difficulty": 3,
       "type": "multiple-choice",
       "question": "光合成によって作られる気体はどれですか？",
-      "choices": ["酸素", "二酸化炭素", "窒素", "水素"],
-      "answer": "酸素"
+      "choices": [
+        "水素",
+        "酸素",
+        "窒素",
+        "二酸化炭素"
+      ],
+      "answer": "酸素",
+      "explanation": "光合成では、二酸化炭素と水から養分と酸素が作られます。"
     },
     {
       "id": "junior-high2-social-001",
@@ -30,8 +37,18 @@
       "difficulty": 4,
       "type": "multiple-select",
       "question": "三権分立の「三権」に含まれるものをすべて選んでください。",
-      "choices": ["立法権", "行政権", "司法権", "課税権"],
-      "answer": ["立法権", "行政権", "司法権"]
+      "choices": [
+        "立法権",
+        "行政権",
+        "司法権",
+        "課税権"
+      ],
+      "answer": [
+        "立法権",
+        "行政権",
+        "司法権"
+      ],
+      "explanation": "三権分立は立法権・行政権・司法権の3つに分かれています。課税権は三権には含まれません。"
     },
     {
       "id": "junior-high2-english-001",
@@ -53,7 +70,8 @@
       "type": "numeric",
       "question": "さいころを1回投げて偶数の目が出る確率を小数で答えてください。",
       "answer": 0.5,
-      "tolerance": 0.01
+      "tolerance": 0.01,
+      "explanation": "1〜6のうち偶数は2、4、6の3つなので、確率は3/6=0.5です。"
     }
   ]
 }

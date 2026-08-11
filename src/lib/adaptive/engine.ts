@@ -90,5 +90,6 @@ export function shouldStopTest(state: AdaptiveState): boolean {
   return variation < STABILITY_THRESHOLD && nearLevelAnswers >= MIN_NEAR_LEVEL_ANSWERS;
 }
 
-// UI表示用のおおよその想定問題数
-export const ESTIMATED_TOTAL_QUESTIONS = 20;
+// UI表示用のおおよその想定問題数（最大出題数 MAX_QUESTIONS と一致させ、
+// 実際の出題数が表示上の総数を超えないようにする）
+export const ESTIMATED_TOTAL_QUESTIONS = MAX_QUESTIONS;

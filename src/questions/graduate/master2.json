@@ -10,7 +10,8 @@
       "type": "numeric",
       "question": "ベイズの定理 P(A|B) = P(B|A)P(A) / P(B) において、P(A)=0.1, P(B|A)=0.8, P(B)=0.2 のとき、P(A|B) はいくつですか？",
       "answer": 0.4,
-      "tolerance": 0.01
+      "tolerance": 0.01,
+      "explanation": "P(A|B) = P(B|A)P(A)/P(B) = 0.8×0.1/0.2 = 0.4です。"
     },
     {
       "id": "graduate-master2-programming-001",
@@ -21,12 +22,13 @@
       "type": "multiple-choice",
       "question": "NP完全問題の説明として正しいものはどれですか？",
       "choices": [
-        "NPに属し、すべてのNP問題から多項式時間で帰着可能な問題",
-        "P=NPが既に証明されている問題",
         "常に多項式時間で解ける問題",
-        "乱数を用いないと解けない問題"
+        "NPに属し、すべてのNP問題から多項式時間で帰着可能な問題",
+        "乱数を用いないと解けない問題",
+        "P=NPが既に証明されている問題"
       ],
-      "answer": "NPに属し、すべてのNP問題から多項式時間で帰着可能な問題"
+      "answer": "NPに属し、すべてのNP問題から多項式時間で帰着可能な問題",
+      "explanation": "NP完全問題は、NPクラスに属し、かつすべてのNP問題から多項式時間で帰着できる問題のことです。"
     },
     {
       "id": "graduate-master2-research-001",
@@ -36,7 +38,8 @@
       "difficulty": 3,
       "type": "true-false",
       "question": "査読（ピアレビュー）は論文の質を担保する仕組みの一つである。",
-      "answer": true
+      "answer": true,
+      "explanation": "査読は専門家が内容を事前にチェックすることで、論文の質を高める仕組みの一つです。"
     },
     {
       "id": "graduate-master2-statistics-002",
@@ -46,8 +49,14 @@
       "difficulty": 4,
       "type": "multiple-choice",
       "question": "多重共線性が起きているとき、回帰係数の解釈はどうなりますか？",
-      "choices": ["不安定になる", "常に正しくなる", "必ず有意になる", "標準誤差が小さくなる"],
-      "answer": "不安定になる"
+      "choices": [
+        "常に正しくなる",
+        "必ず有意になる",
+        "不安定になる",
+        "標準誤差が小さくなる"
+      ],
+      "answer": "不安定になる",
+      "explanation": "説明変数同士の相関が強い（多重共線性がある）と、回帰係数の推定が不安定になります。"
     }
   ]
 }
